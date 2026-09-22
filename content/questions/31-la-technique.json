@@ -1,0 +1,234 @@
+{
+  "slug": "31-la-technique",
+  "sourceFile": "31-la-technique.pdf",
+  "title": "La technique",
+  "questions": [
+    {
+      "id": "31-la-technique-01",
+      "question": "Quelle est la profondeur minimale légale des rainures principales d'un pneu ?",
+      "choices": ["1 mm", "1,6 mm", "2 mm", "3 mm"],
+      "correctIndex": 1,
+      "explanation": "La profondeur des rainures principales d'un pneu doit être d'au moins 1,6 mm selon la loi.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "31-la-technique-02",
+      "question": "En dessous de quelle profondeur de rainures risque-t-on déjà de faire de l'aquaplaning, même au-dessus du minimum légal ?",
+      "choices": ["1,6 mm", "2 mm", "4 mm", "6 mm"],
+      "correctIndex": 1,
+      "explanation": "Le texte précise qu'avec une profondeur de moins de 2 mm, on risque déjà de faire de l'aquaplaning, alors que le minimum légal est de 1,6 mm.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "31-la-technique-03",
+      "question": "Est-il autorisé de recreuser ou de rechaper les rainures d'un pneu usé ?",
+      "choices": [
+        "Oui, c'est même conseillé pour économiser",
+        "Non, c'est interdit",
+        "Oui, mais uniquement sur les pneus arrière",
+        "Oui, une seule fois par pneu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il est interdit de recreuser ou de rechaper les rainures des pneus usés.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "31-la-technique-04",
+      "question": "Pour vérifier correctement la pression des pneus, à quelle condition faut-il le faire ?",
+      "choices": [
+        "Pneus chauds, juste après un long trajet",
+        "Pneus froids, en ayant roulé moins de 5 km",
+        "Peu importe l'état des pneus",
+        "Uniquement en station-service après avoir fait le plein"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il faut vérifier la pression des pneus lorsqu'ils sont froids, donc après avoir roulé moins de 5 km, car le frottement modifie la pression.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "31-la-technique-05",
+      "question": "Une usure du pneu concentrée sur le centre de la bande de roulement s'explique par...",
+      "choices": [
+        "Un pneu trop peu gonflé",
+        "Un pneu trop gonflé",
+        "Un défaut de parallélisme uniquement",
+        "Une usure normale sans lien avec la pression"
+      ],
+      "correctIndex": 1,
+      "explanation": "Une usure sur le centre du pneu s'explique par un pneu trop gonflé, alors qu'une usure en deux bandes sur les bords indique un pneu trop peu gonflé.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "31-la-technique-06",
+      "question": "Entre quelles dates peut-on monter des pneus cloutés sur un véhicule dont la MMA n'excède pas 3,5 tonnes ?",
+      "choices": [
+        "Du 1er octobre au 30 avril",
+        "Du 1er novembre au 31 mars",
+        "Du 1er décembre au 28 février",
+        "Toute l'année"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les pneus cloutés ne peuvent être montés qu'entre le 1er novembre et le 31 mars, sur un véhicule d'une MMA n'excédant pas 3,5 tonnes.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "31-la-technique-07",
+      "question": "Quelle est la vitesse maximale autorisée sur autoroute avec des pneus cloutés ?",
+      "choices": ["60 km/h", "90 km/h", "110 km/h", "120 km/h"],
+      "correctIndex": 1,
+      "explanation": "Avec des pneus cloutés, la vitesse maximale est limitée à 90 km/h sur autoroute et 60 km/h sur route ordinaire.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "31-la-technique-08",
+      "question": "En dessous de quelle température est-il conseillé de monter des pneus hiver ?",
+      "choices": ["0 degré", "3 degrés", "7 degrés", "10 degrés"],
+      "correctIndex": 2,
+      "explanation": "Lors de températures inférieures à 7 degrés, il est conseillé de monter des pneus hiver pour améliorer l'adhérence et la sécurité.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "31-la-technique-09",
+      "question": "Quand peut-on utiliser des chaînes à neige ?",
+      "choices": [
+        "Uniquement en montagne",
+        "S'il y a de la neige ou du verglas sur la chaussée",
+        "Dès que la température descend sous 7 degrés",
+        "Toute l'année si on le souhaite"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les chaînes à neige ne peuvent être utilisées que s'il y a de la neige ou du verglas sur la chaussée.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "31-la-technique-10",
+      "question": "Sur un pneu marqué « 165/70 R 14 81 T », que représente le nombre « 165 » ?",
+      "choices": [
+        "Le diamètre de la jante en pouces",
+        "La largeur du pneu en mm",
+        "L'indice de charge",
+        "Le rapport hauteur/largeur"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans cette désignation, 165 représente la largeur du pneu en mm, 70 le rapport hauteur/largeur, R la structure radiale et 14 le diamètre de la jante en pouces.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "31-la-technique-11",
+      "question": "Dans le marquage DOT d'un pneu, que représentent les deux derniers chiffres ?",
+      "choices": [
+        "La semaine de fabrication",
+        "L'année de fabrication",
+        "L'indice de vitesse",
+        "La largeur du pneu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans le marquage DOT, les deux premiers chiffres indiquent la semaine de fabrication et les deux derniers l'année de fabrication du pneu.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "31-la-technique-12",
+      "question": "Tous les combien de kilomètres est-il conseillé de permuter les pneus en croix, même si l'usure n'est pas visible ?",
+      "choices": ["1 000 à 3 000 km", "5 000 à 8 000 km", "10 000 à 15 000 km", "30 000 à 40 000 km"],
+      "correctIndex": 2,
+      "explanation": "Il est conseillé de permuter les pneus en croix après avoir parcouru 10 000 à 15 000 km, pour qu'ils s'usent de manière égale.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "31-la-technique-13",
+      "question": "Comment doit-on serrer les boulons ou écrous d'une roue ?",
+      "choices": [
+        "Dans l'ordre autour de la roue, un après l'autre",
+        "En suivant un patron entrecroisé (étoile ou croix)",
+        "En commençant toujours par le boulon le plus haut",
+        "L'ordre n'a aucune importance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il faut suivre un patron entrecroisé lors du serrage des boulons (en étoile s'il y a 5 boulons, en croix s'il y en a 4), afin d'éviter que la jante ne soit pas droite.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "31-la-technique-14",
+      "question": "Sur un sol sec, la distance de freinage avec ABS par rapport à un freinage sans ABS est...",
+      "choices": [
+        "Toujours plus courte",
+        "Identique dans tous les cas",
+        "Peut être un peu plus longue",
+        "Deux fois plus longue"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sur un sol sec, la distance de freinage avec ABS peut être un peu plus longue que sans ABS ; l'ABS n'a pas pour but de freiner plus vite mais de garder la voiture maîtrisable.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "31-la-technique-15",
+      "question": "Lors d'un dérapage du train avant (sous-virage), que ne faut-il surtout pas faire ?",
+      "choices": [
+        "Regarder dans la direction où l'on veut aller",
+        "Freiner trop fort",
+        "Relâcher l'accélérateur",
+        "Contre-braquer légèrement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lors d'un dérapage du train avant, il faut éviter de freiner trop fort, car cela provoquerait le blocage des roues et une perte d'adhérence supplémentaire.",
+      "severity": "normale",
+      "page": 8
+    },
+    {
+      "id": "31-la-technique-16",
+      "question": "Lors d'un dérapage du train arrière (survirage), que faut-il faire ?",
+      "choices": [
+        "Freiner fort immédiatement",
+        "Regarder le danger fixement pour l'éviter",
+        "Regarder dans la direction où l'on veut aller et contre-braquer",
+        "Accélérer fortement dans tous les cas"
+      ],
+      "correctIndex": 2,
+      "explanation": "En cas de survirage, il faut regarder dans la direction souhaitée (car on se dirige inconsciemment vers là où l'on regarde), contre-braquer, appuyer sur l'embrayage et lâcher l'accélérateur, sans freiner fort.",
+      "severity": "normale",
+      "page": 9
+    },
+    {
+      "id": "31-la-technique-17",
+      "question": "En cas d'aquaplanage, que faut-il faire ?",
+      "choices": [
+        "Freiner immédiatement et fort",
+        "Diriger le volant dans la direction où l'on veut aller, sans freiner",
+        "Accélérer pour traverser la flaque plus vite",
+        "Lâcher complètement le volant"
+      ],
+      "correctIndex": 1,
+      "explanation": "En cas d'aquaplanage, il faut diriger le volant dans la direction où l'on veut aller et ne pas freiner.",
+      "severity": "normale",
+      "page": 9
+    },
+    {
+      "id": "31-la-technique-18",
+      "question": "Un conducteur peut-il utiliser son smartphone comme GPS en conduisant ?",
+      "choices": [
+        "Jamais, en aucune circonstance",
+        "Oui, s'il est placé dans un support approprié fixé au véhicule",
+        "Oui, tenu à la main, à condition de rouler lentement",
+        "Uniquement à un feu rouge, tenu en main"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il est interdit de tenir ou manipuler un appareil électronique mobile avec écran en conduisant, sauf s'il est placé dans un support fixé au véhicule ; un smartphone ainsi fixé peut alors être utilisé comme GPS.",
+      "severity": "normale",
+      "page": 11
+    }
+  ]
+}

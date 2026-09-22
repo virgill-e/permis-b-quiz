@@ -1,0 +1,77 @@
+{
+  "slug": "24-direction-obligatoire",
+  "sourceFile": "24-direction-obligatoire.pdf",
+  "title": "Direction obligatoire",
+  "questions": [
+    {
+      "id": "24-direction-obligatoire-01",
+      "question": "Lorsqu'un signal avec une flèche dirigée en diagonale vers le bas est placé sur un obstacle, que signifie-t-il ?",
+      "choices": [
+        "Il indique la direction dans laquelle vous devez contourner l'obstacle",
+        "Il indique un sens interdit",
+        "Il indique que l'obstacle va être retiré prochainement",
+        "Il impose une direction obligatoire pour tout le carrefour suivant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lorsqu'un signal avec une flèche dirigée en diagonale vers le bas est placé sur un obstacle, il indique la direction dans laquelle vous devez contourner cet obstacle.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "24-direction-obligatoire-02",
+      "question": "Un panneau additionnel sous un signal de direction obligatoire peut préciser que...",
+      "choices": [
+        "les cyclistes et les conducteurs de cyclomoteurs de classe A ne sont pas tenus de suivre cette direction",
+        "seuls les piétons doivent suivre cette direction",
+        "la direction obligatoire ne s'applique que la nuit",
+        "tous les véhicules sont exemptés sauf les voitures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un panneau additionnel peut préciser que les cyclistes et les conducteurs de cyclomoteurs de classe A ne sont pas tenus de suivre la direction imposée.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "24-direction-obligatoire-03",
+      "question": "Quelle est la différence entre un signal d'indication de sens unique et un signal d'obligation avec flèche ?",
+      "choices": [
+        "Le signal d'indication signale une voie à sens unique, le signal d'obligation impose de suivre la direction indiquée par la flèche",
+        "Ce sont deux signaux strictement identiques et interchangeables",
+        "Le signal d'indication impose une direction, le signal d'obligation informe seulement",
+        "Les deux signaux interdisent uniquement le demi-tour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le signal d'indication (placé à gauche sur l'illustration) signale une voie à sens unique, tandis que le signal d'obligation (à droite) impose de suivre la direction indiquée par la flèche.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "24-direction-obligatoire-04",
+      "question": "Un signal d'indication fixé sur un poteau ou une borne jaune, montrant qu'on peut passer soit à gauche soit à droite, signifie que...",
+      "choices": [
+        "vous pouvez choisir de passer à gauche ou à droite",
+        "vous devez obligatoirement passer à gauche",
+        "vous devez obligatoirement passer à droite",
+        "le passage est interdit des deux côtés"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal d'indication fixé sur un poteau ou une borne jaune indique que vous pouvez choisir de passer à gauche ou à droite.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "24-direction-obligatoire-05",
+      "question": "Face à un îlot directionnel (marquage au sol hachuré ou îlot construit), que devez-vous faire, et qu'est-ce qui y est interdit ?",
+      "choices": [
+        "Vous devez le contourner par la droite ; il est interdit d'y circuler, de s'y arrêter ou d'y stationner",
+        "Vous devez le contourner par la gauche ; l'arrêt y est autorisé",
+        "Vous pouvez le traverser si la circulation est fluide",
+        "Vous devez vous y arrêter pour laisser passer les autres véhicules"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ces îlots doivent être contournés par la droite ; il est interdit d'y circuler, de s'y arrêter ou d'y stationner.",
+      "severity": "normale",
+      "page": 3
+    }
+  ]
+}

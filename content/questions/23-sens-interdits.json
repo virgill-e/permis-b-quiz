@@ -1,0 +1,147 @@
+{
+  "slug": "23-sens-interdits",
+  "sourceFile": "23-sens-interdits.pdf",
+  "title": "Sens interdits",
+  "questions": [
+    {
+      "id": "23-sens-interdits-01",
+      "question": "Que signifie un signal d'interdiction \"sens interdit\" (cercle rouge avec barre blanche) placé dans une rue ?",
+      "choices": [
+        "Il est interdit à tous les conducteurs, y compris les cyclistes, de franchir ce signal dans ce sens",
+        "Il est interdit uniquement aux voitures de franchir ce signal",
+        "Il est interdit de franchir ce signal dans les deux sens",
+        "Il indique simplement une voie à sens unique dans l'autre sens"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le signal d'interdiction \"sens interdit\" indique qu'il est interdit à tous les conducteurs, y compris les cyclistes, de franchir ce signal dans ce sens.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "23-sens-interdits-02",
+      "question": "Un signal \"accès interdit aux conducteurs dans les deux sens\" signifie que...",
+      "choices": [
+        "les conducteurs ne peuvent circuler dans aucun des deux sens",
+        "seuls les cyclistes peuvent circuler dans les deux sens",
+        "la circulation est autorisée sauf pour les poids lourds",
+        "il s'agit en réalité d'un sens unique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal interdit à tous les conducteurs, y compris les cyclistes, de franchir le signal dans les deux sens ; ils ne peuvent pas non plus circuler dans le sens opposé.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "23-sens-interdits-03",
+      "question": "Dans une rue où l'accès est interdit \"excepté circulation locale\", qui peut malgré tout y entrer ?",
+      "choices": [
+        "Celui qui habite ou travaille dans la rue, qui y livre des marchandises, ou qui rend visite à quelqu'un qui y habite",
+        "Tout conducteur pressé, quelle que soit sa destination",
+        "Uniquement les propriétaires d'un garage dans la rue",
+        "Personne, sauf les services de police"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte liste qui peut entrer : celui qui habite ou travaille dans la rue, celui qui rend visite à quelqu'un qui y habite, celui qui livre des marchandises, ainsi que les cyclistes et cavaliers.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "23-sens-interdits-04",
+      "question": "Lors de l'examen pratique du permis de conduire, pouvez-vous entrer dans une rue \"excepté circulation locale\" ?",
+      "choices": [
+        "Non, jamais",
+        "Oui, si l'examinateur vous y autorise",
+        "Oui, mais seulement de jour",
+        "Oui, si vous habitez la rue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise explicitement : \"Vous ne pouvez JAMAIS y entrer lors de votre examen pratique.\"",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "23-sens-interdits-05",
+      "question": "Un signal d'interdiction représentant un véhicule à moteur à plus de deux roues et une motocyclette avec side-car (signal d'interdiction 1) signifie que ces véhicules...",
+      "choices": [
+        "ne peuvent pas franchir le signal dans ce sens, mais peuvent circuler dans l'autre sens",
+        "sont interdits dans les deux sens",
+        "sont interdits uniquement s'ils transportent des passagers",
+        "sont autorisés à condition de rouler lentement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal indique que les conducteurs de véhicules à moteur à plus de deux roues et de motocyclettes avec side-car ne peuvent pas franchir ce signal, mais ils peuvent circuler dans l'autre sens.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "23-sens-interdits-06",
+      "question": "Un signal d'interdiction visant uniquement les motocyclettes (avec ou sans side-car) signifie que...",
+      "choices": [
+        "les motocyclettes ne peuvent pas franchir ce signal dans ce sens, mais les conducteurs de voitures le peuvent",
+        "toutes les motos et toutes les voitures sont interdites",
+        "seules les voitures sont interdites",
+        "les motos peuvent circuler mais pas les voitures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal indique que les conducteurs de motocyclettes, avec ou sans side-car, ne peuvent pas franchir ce signal dans ce sens ; les conducteurs de voitures peuvent le franchir.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "23-sens-interdits-07",
+      "question": "Que signifie le signal d'interdiction représentant un véhicule à quatre roues, carrosserie ouverte, avec guidon et selle ?",
+      "choices": [
+        "Il interdit l'accès aux quads (véhicules à moteur à quatre roues conçus pour terrains non praticables)",
+        "Il interdit l'accès aux voitures tout-terrain classiques",
+        "Il interdit l'accès aux voitures électriques",
+        "Il interdit l'accès aux tracteurs agricoles"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal indique un accès interdit aux conducteurs de véhicules à moteur à quatre roues, conçus pour des terrains non praticables, appelés « quads ».",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "23-sens-interdits-08",
+      "question": "Comment savoir si un signal routier de \"sens interdit\" s'applique dans une seule direction ou dans les deux ?",
+      "choices": [
+        "Un signal avec un emblème au milieu s'applique à cette direction ; un signal sans emblème s'applique dans les deux directions",
+        "La couleur du panneau indique toujours la direction concernée",
+        "Cela dépend uniquement de la largeur de la route",
+        "Un signal avec emblème s'applique toujours dans les deux directions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un signal routier sans emblème au milieu s'applique dans les deux directions ; un signal routier avec un emblème au milieu s'applique à cette direction.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "23-sens-interdits-09",
+      "question": "Un signal d'interdiction indiquant une masse en charge (MEC) de 3,5 tonnes signifie que...",
+      "choices": [
+        "les véhicules dont la masse en charge excède 3,5 tonnes ne peuvent pas franchir ce signal, mais toutes les voitures le peuvent",
+        "tous les véhicules de plus de 3,5 tonnes à vide sont interdits",
+        "seuls les poids lourds vides peuvent franchir le signal",
+        "aucun véhicule ne peut franchir ce signal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal interdit aux véhicules dont la masse en charge excède celle indiquée de franchir le signal ; toutes les voitures peuvent franchir un tel panneau indiquant 3,5 t.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "23-sens-interdits-10",
+      "question": "Que signifie un signal interdisant de faire demi-tour ?",
+      "choices": [
+        "À partir de cet endroit et jusqu'au carrefour suivant inclus, il est interdit de faire demi-tour",
+        "Il est interdit de faire demi-tour uniquement à l'endroit exact du panneau",
+        "Le demi-tour est interdit dans toute l'agglomération",
+        "Le demi-tour redevient autorisé dès le carrefour suivant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal indique qu'à partir de cet endroit et jusqu'au carrefour suivant inclus, il est interdit de faire demi-tour.",
+      "severity": "normale",
+      "page": 6
+    }
+  ]
+}

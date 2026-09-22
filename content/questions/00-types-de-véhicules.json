@@ -1,0 +1,85 @@
+{
+  "slug": "00-types-de-véhicules",
+  "sourceFile": "00-types-de-véhicules.pdf",
+  "title": "Les types de véhicules",
+  "questions": [
+    {
+      "id": "00-types-de-véhicules-01",
+      "question": "Qu'est-ce qu'un engin de déplacement non motorisé ?",
+      "choices": [
+        "Un véhicule à deux roues propulsé par pédales",
+        "Un véhicule qui n'est pas un cycle, sans moteur, propulsé par la force musculaire",
+        "Un véhicule qui roule au maximum à 25 km/h",
+        "Un véhicule à moteur limité à faible puissance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un engin de déplacement non motorisé n'est pas un cycle, n'a pas de moteur et est propulsé par la force musculaire (ex. rollers, trottinettes, skateboards).",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "00-types-de-véhicules-02",
+      "question": "Un utilisateur d'engin de déplacement non motorisé qui se déplace plus vite que l'allure du pas est assimilé à :",
+      "choices": ["un piéton", "un cycliste", "un conducteur de véhicule à moteur", "aucun statut particulier"],
+      "correctIndex": 1,
+      "explanation": "S'il se déplace plus vite que l'allure du pas, l'utilisateur d'un engin de déplacement non motorisé est assimilé à un cycliste ; à l'allure du pas, il est assimilé à un piéton.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "00-types-de-véhicules-03",
+      "question": "Quelle est la vitesse maximale d'un engin de déplacement motorisé (ex. trottinette électrique) ?",
+      "choices": ["15 km/h", "20 km/h", "25 km/h", "30 km/h"],
+      "correctIndex": 2,
+      "explanation": "Un engin de déplacement motorisé est un engin qui peut rouler au maximum à 25 km/h.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "00-types-de-véhicules-04",
+      "question": "Les utilisateurs d'engins de déplacement motorisés sont assimilés à :",
+      "choices": ["des piétons", "des cyclistes", "des conducteurs de véhicules à moteur", "des cavaliers"],
+      "correctIndex": 1,
+      "explanation": "Les engins de déplacement motorisés ne sont pas assimilés aux véhicules à moteur : leurs utilisateurs sont assimilés aux cyclistes.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "00-types-de-véhicules-05",
+      "question": "Qu'est-ce qu'un cycle selon la définition légale ?",
+      "choices": [
+        "Tout véhicule à moteur électrique de faible puissance",
+        "Un véhicule à deux roues ou plus, propulsé par pédales ou manivelles, sans moteur",
+        "Un véhicule motorisé limité à 25 km/h",
+        "Uniquement une bicyclette classique à deux roues"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un cycle est un véhicule à deux roues ou plus, propulsé par un ou plusieurs utilisateurs au moyen de pédales ou de manivelles, sans moteur. Les véhicules à 3 ou 4 roues de largeur maximale 1 mètre y sont assimilés.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "00-types-de-véhicules-06",
+      "question": "Un vélo à assistance électrique pouvant rouler au maximum 25 km/h est considéré comme :",
+      "choices": ["un cyclomoteur classe A", "un cycle", "un véhicule à moteur", "un engin de déplacement motorisé"],
+      "correctIndex": 1,
+      "explanation": "Un vélo à assistance électrique limité à 25 km/h (e-bike) est considéré comme un cycle.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "00-types-de-véhicules-07",
+      "question": "Comment est classé un speed pedelec (cyclomoteur classe P, maximum 45 km/h) ?",
+      "choices": [
+        "Comme un cycle",
+        "Comme un cyclomoteur classe B",
+        "Comme un véhicule à moteur nécessitant un permis B",
+        "Comme un engin de déplacement motorisé"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un speed pedelec, ou cyclomoteur classe P (maximum 45 km/h), est considéré comme un cyclomoteur classe B.",
+      "severity": "normale",
+      "page": 3
+    }
+  ]
+}

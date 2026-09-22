@@ -1,0 +1,113 @@
+{
+  "slug": "0-permis-de-conduire",
+  "sourceFile": "0-permis-de-conduire.pdf",
+  "title": "Le permis de conduire B",
+  "questions": [
+    {
+      "id": "0-permis-de-conduire-01",
+      "question": "À partir de quel âge peut-on présenter l'examen théorique du permis B ?",
+      "choices": ["16 ans", "17 ans", "18 ans", "21 ans"],
+      "correctIndex": 1,
+      "explanation": "L'examen théorique du permis B peut être présenté dans un centre d'examen dès l'âge de 17 ans.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "0-permis-de-conduire-02",
+      "question": "Quel score minimum faut-il obtenir pour réussir l'examen théorique du permis B ?",
+      "choices": ["30/50", "35/50", "41/50", "45/50"],
+      "correctIndex": 2,
+      "explanation": "Il faut obtenir 41/50 pour réussir l'examen théorique.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "0-permis-de-conduire-03",
+      "question": "Que se passe-t-il si vous échouez à deux reprises à l'examen théorique ?",
+      "choices": [
+        "Vous devez attendre 6 mois avant de repasser l'examen",
+        "Vous êtes tenu de suivre 12 heures de cours dans une auto-école agréée",
+        "Vous perdez définitivement le droit de passer le permis B",
+        "Rien de particulier, vous pouvez retenter sans condition"
+      ],
+      "correctIndex": 1,
+      "explanation": "En cas de double échec à l'examen théorique, 12 heures de cours en auto-école agréée deviennent obligatoires.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "0-permis-de-conduire-04",
+      "question": "À quelles conditions un jeune de 18 ans peut-il obtenir un PP18 mois pour s'exercer seul, sans guide ?",
+      "choices": [
+        "Avoir simplement 18 ans, sans autre condition",
+        "Avoir suivi 20 heures de cours pratiques en auto-école agréée et obtenu une attestation de compétence",
+        "Avoir réussi l'examen pratique",
+        "Avoir un PP36 mois depuis au moins un an"
+      ],
+      "correctIndex": 1,
+      "explanation": "À 18 ans, après 20 heures de cours pratiques en auto-école agréée et l'obtention d'une attestation de compétence, on peut demander un PP18 mois pour s'exercer seul.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "0-permis-de-conduire-05",
+      "question": "Quand est-il interdit de conduire avec un permis provisoire B sur la voie publique ?",
+      "choices": [
+        "Tous les jours après 20h00",
+        "Du vendredi soir 22h00 au samedi matin 6h00, entre autres périodes nocturnes de week-end et de jours fériés",
+        "Uniquement le dimanche toute la journée",
+        "Il n'y a aucune restriction horaire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le permis provisoire B ne permet pas de conduire notamment du vendredi soir 22h00 au samedi 6h00, du samedi soir 22h00 au dimanche 6h00, du dimanche soir 22h00 au lundi 6h00, ainsi que la veille et le soir des jours fériés de 22h00 à 6h00.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "0-permis-de-conduire-06",
+      "question": "Combien de temps est valable le permis de conduire définitif en Belgique ?",
+      "choices": ["5 ans", "10 ans", "15 ans", "il est valable à vie"],
+      "correctIndex": 1,
+      "explanation": "Le permis définitif, au format carte bancaire, est valable 10 ans, après quoi il doit être renouvelé sans repasser d'examen.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "0-permis-de-conduire-07",
+      "question": "Vous avez oublié votre permis de conduire à la maison. Que devez-vous faire ?",
+      "choices": [
+        "Vous arrêter immédiatement de conduire, c'est une infraction grave",
+        "Rien, ce n'est pas une infraction",
+        "Vous recevez une amende administrative limitée et devez présenter votre permis dans un commissariat dans les 5 jours",
+        "Vous devez refaire une demande de permis provisoire"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ne pas avoir son permis sur soi n'est pas une infraction grave : une amende administrative limitée est prévue et le permis doit être présenté au commissariat dans les 5 jours.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "0-permis-de-conduire-08",
+      "question": "Après une première crise d'épilepsie, pendant combien de temps l'interdiction de conduire s'applique-t-elle ?",
+      "choices": ["3 mois", "6 mois", "1 an", "2 ans"],
+      "correctIndex": 1,
+      "explanation": "Après une première crise d'épilepsie, une interdiction de conduire de 6 mois s'applique.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "0-permis-de-conduire-09",
+      "question": "Si un médecin vous déclare inapte à conduire, dans quel délai devez-vous informer votre administration communale et rendre votre permis ?",
+      "choices": [
+        "Dans les 24 heures",
+        "Dans les 4 jours (samedis, dimanches et jours fériés non compris)",
+        "Dans le mois qui suit",
+        "Il n'y a pas de délai imposé"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vous devez informer l'administration communale et rendre votre permis dans les 4 jours suivant la réception de l'information médicale, les samedis, dimanches et jours fériés n'étant pas comptés.",
+      "severity": "normale",
+      "page": 4
+    }
+  ]
+}

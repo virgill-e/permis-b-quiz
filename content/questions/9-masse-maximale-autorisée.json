@@ -1,0 +1,109 @@
+{
+  "slug": "9-masse-maximale-autorisée",
+  "sourceFile": "9-masse-maximale-autorisée.pdf",
+  "title": "Masse maximale autorisée et masse en charge",
+  "questions": [
+    {
+      "id": "9-masse-maximale-autorisée-01",
+      "question": "Qu'est-ce que la Masse Maximale Autorisée (MMA) d'un véhicule ?",
+      "choices": [
+        "Le poids réel du véhicule mesuré à un instant donné",
+        "Le poids total maximal qu'un véhicule peut atteindre, carburant, conducteur, passagers et chargement compris, déterminé par le fabricant",
+        "Le poids du véhicule à vide uniquement",
+        "Le poids maximal autorisé pour le seul chargement"
+      ],
+      "correctIndex": 1,
+      "explanation": "La MMA est le poids total maximal qu'un véhicule peut atteindre, carburant, conducteur, passagers et chargement compris, déterminé par le fabricant.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "9-masse-maximale-autorisée-02",
+      "question": "Avec un permis B, jusqu'à quelle MMA pouvez-vous conduire un véhicule ?",
+      "choices": ["2 000 kg", "3 500 kg", "5 000 kg", "1 000 kg"],
+      "correctIndex": 1,
+      "explanation": "Si vous possédez un permis de conduire B, vous pouvez conduire des véhicules dont la MMA ne dépasse pas 3500 kg.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "9-masse-maximale-autorisée-03",
+      "question": "Un signal limite à 60 km/h les véhicules dont la MMA dépasse 3,5 tonnes, un autre signal indique 90 km/h pour les autres véhicules. À quelle vitesse maximale une voiture peut-elle passer ?",
+      "choices": ["60 km/h", "90 km/h", "120 km/h", "70 km/h"],
+      "correctIndex": 1,
+      "explanation": "La limitation à 60 km/h ne concerne pas les voitures, dont la MMA est de 3500 kg ou moins ; elles relèvent donc du signal indiquant 90 km/h pour les autres véhicules.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "9-masse-maximale-autorisée-04",
+      "question": "Qu'est-ce que la Masse En Charge (MEC) d'un véhicule ?",
+      "choices": [
+        "Le poids maximal théorique fixé par le fabricant",
+        "Le poids réel d'un véhicule à un moment donné, avec les personnes et la charge, tel que mesuré sur une balance",
+        "Le poids du véhicule vide sans carburant",
+        "La masse maximale autorisée de la remorque"
+      ],
+      "correctIndex": 1,
+      "explanation": "La MEC est le poids réel d'un véhicule à un moment donné, avec les personnes et la charge, tel que mesuré sur une balance.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "9-masse-maximale-autorisée-05",
+      "question": "Où trouve-t-on la MMA officielle d'une voiture ?",
+      "choices": [
+        "Sur le certificat d'assurance",
+        "Sur le certificat d'immatriculation",
+        "Sur la carte d'identité du conducteur",
+        "Elle n'est mentionnée nulle part"
+      ],
+      "correctIndex": 1,
+      "explanation": "La MMA d'une voiture est mentionnée sur le certificat d'immatriculation.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "9-masse-maximale-autorisée-06",
+      "question": "Que doit obligatoirement contenir une voiture (MMA max 3,5 tonnes) en matière d'équipement de sécurité ?",
+      "choices": [
+        "Un triangle de danger, une trousse de secours, un extincteur avec 1 kg de poudre accessible en 10 secondes, et un gilet de sécurité réfléchissant",
+        "Uniquement un triangle de danger",
+        "Un extincteur uniquement, sans exigence de poids",
+        "Une trousse de secours et rien d'autre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il faut obligatoirement un triangle de danger, une trousse de secours, un extincteur avec 1 kg de poudre accessible dans les 10 secondes, et un gilet de sécurité réfléchissant.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "9-masse-maximale-autorisée-07",
+      "question": "Où le gilet de sécurité réfléchissant doit-il se trouver dans la voiture ?",
+      "choices": [
+        "Dans le coffre",
+        "Dans l'habitacle, à portée de main",
+        "Peu importe l'endroit",
+        "Sur le siège passager uniquement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le gilet de sécurité doit être dans l'habitacle de la voiture, car le conducteur doit le mettre avant de sortir en cas de panne ou d'accident.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "9-masse-maximale-autorisée-08",
+      "question": "Parmi les documents devant être présents dans la voiture, lequel peut être présenté sous forme de copie (par exemple sur smartphone) ?",
+      "choices": [
+        "Le certificat d'immatriculation",
+        "Le certificat de conformité",
+        "Le certificat d'assurance",
+        "Le certificat de visite de contrôle technique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les documents doivent être des originaux, à l'exception du certificat d'assurance, qui peut être une copie (PDF, JPEG, etc.).",
+      "severity": "normale",
+      "page": 5
+    }
+  ]
+}

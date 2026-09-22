@@ -1,0 +1,188 @@
+{
+  "slug": "6-lieux-particuliers",
+  "sourceFile": "6-lieux-particuliers.pdf",
+  "title": "Lieux particuliers",
+  "questions": [
+    {
+      "id": "6-lieux-particuliers-01",
+      "question": "Que signifie un panneau jaune à bord rouge indiquant le nom d'une localité ?",
+      "choices": [
+        "Le début d'une agglomération au sens du code de la route",
+        "Uniquement la frontière administrative d'une commune, sans signification au niveau du code de la route",
+        "Une limitation de vitesse à 50 km/h",
+        "La fin d'une agglomération"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le panneau jaune à bord rouge indique seulement la frontière administrative d'une commune et n'a aucune signification au niveau du code de la route.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "6-lieux-particuliers-02",
+      "question": "Quelle est la vitesse maximale autorisée en agglomération dans la Région de Bruxelles-Capitale ?",
+      "choices": ["50 km/h", "30 km/h", "70 km/h", "20 km/h"],
+      "correctIndex": 1,
+      "explanation": "En agglomération, la vitesse maximale est de 50 km/h en général, mais elle est de 30 km/h dans l'agglomération de la Région Bruxelles-Capitale.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "6-lieux-particuliers-03",
+      "question": "Que risque un conducteur qui dépasse de plus de 20 km/h la vitesse maximale autorisée en agglomération ?",
+      "choices": [
+        "Un simple avertissement",
+        "Un retrait immédiat du permis de conduire, entre 8 jours et 6 mois, sur décision du Procureur du Roi ou d'un officier de police judiciaire",
+        "Rien s'il s'agit d'une première infraction",
+        "Une simple amende sans retrait de permis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le dépassement de plus de 20 km/h de la vitesse maximale autorisée en agglomération peut être sanctionné par un retrait immédiat du permis de conduire de minimum 8 jours à maximum 6 mois, sur décision du Procureur du Roi ou d'un officier de police judiciaire.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "6-lieux-particuliers-04",
+      "question": "Un signal de limitation de vitesse se trouve au-dessus du panneau d'accès à l'agglomération. Jusqu'où cette limitation reste-t-elle valable, sauf exception ?",
+      "choices": [
+        "Jusqu'à la fin de l'agglomération",
+        "Jusqu'au prochain carrefour",
+        "Sur 500 mètres",
+        "Elle n'est jamais valable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quand un signal de limitation de vitesse se trouve au-dessus ou après le panneau d'accès à l'agglomération, il est valable jusqu'au prochain carrefour, sauf s'il s'agit d'une limitation à 30 km/h placée au-dessus du signal de début d'agglomération, qui s'applique alors à toute l'agglomération.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "6-lieux-particuliers-05",
+      "question": "En quittant une agglomération en Région wallonne, sans autre signalisation, à quelle vitesse maximale pouvez-vous circuler ?",
+      "choices": ["90 km/h", "70 km/h", "120 km/h", "50 km/h"],
+      "correctIndex": 0,
+      "explanation": "En sortant de l'agglomération, la vitesse maximale autorisée est de 90 km/h en Région wallonne, contre 70 km/h en Région flamande et à Bruxelles.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "6-lieux-particuliers-06",
+      "question": "Dans une zone résidentielle, quelle est la vitesse maximale autorisée ?",
+      "choices": ["50 km/h", "30 km/h", "20 km/h", "70 km/h"],
+      "correctIndex": 2,
+      "explanation": "Dans une zone résidentielle, la vitesse maximale autorisée est de 20 km/h.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "6-lieux-particuliers-07",
+      "question": "Dans une zone résidentielle, qui peut utiliser toute la largeur de la voirie ?",
+      "choices": [
+        "Les cyclistes uniquement",
+        "Les piétons, mais pas les cyclistes",
+        "Tous les usagers sans distinction",
+        "Uniquement les enfants accompagnés"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans une zone résidentielle, les piétons (mais pas les cyclistes) peuvent utiliser toute la largeur de la voirie, sans toutefois gêner le trafic sans raison ; les enfants peuvent y jouer.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "6-lieux-particuliers-08",
+      "question": "Où pouvez-vous stationner dans une zone résidentielle ?",
+      "choices": [
+        "N'importe où sur la chaussée",
+        "Uniquement sur un emplacement prévu à cet effet",
+        "Le stationnement y est totalement interdit",
+        "Uniquement à droite du sens de la marche"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans une zone résidentielle, vous ne pouvez stationner que sur un emplacement prévu à cet effet, à droite ou à gauche du sens de la marche si un emplacement y est prévu.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "6-lieux-particuliers-09",
+      "question": "Qui a accès à une rue réservée au jeu, en dehors des piétons et des enfants qui jouent ?",
+      "choices": [
+        "Tous les véhicules à moteur sans restriction",
+        "Uniquement les cyclistes",
+        "Les conducteurs habitant la rue ou y ayant leur garage, les véhicules prioritaires, les véhicules autorisés par le gestionnaire de voirie, et les cyclistes",
+        "Personne, la rue est totalement fermée à la circulation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Seuls les conducteurs habitant la rue ou dont le garage s'y trouve, les véhicules prioritaires, les véhicules munis d'une autorisation du gestionnaire de voirie et les cyclistes ont accès à une rue réservée au jeu, et doivent y circuler à l'allure du pas.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "6-lieux-particuliers-10",
+      "question": "Dans une zone cyclable, quelle règle s'applique aux voitures vis-à-vis des cyclistes ?",
+      "choices": [
+        "Elles peuvent les dépasser librement",
+        "Elles ne peuvent pas les dépasser",
+        "Elles doivent rouler derrière eux à moins de 30 km/h uniquement la nuit",
+        "Elles ne peuvent pas y circuler du tout"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans une zone cyclable, les voitures ne peuvent pas dépasser les cyclistes ; la vitesse maximale autorisée y est de 30 km/h.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "6-lieux-particuliers-11",
+      "question": "Vous passez devant un panneau électronique délimitant une zone. Quand l'obligation qu'il impose est-elle valable ?",
+      "choices": [
+        "Uniquement lorsque le panneau est illuminé",
+        "En permanence, qu'il soit illuminé ou non",
+        "Uniquement la nuit",
+        "Uniquement le week-end"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si vous passez devant un panneau électronique de zone, l'obligation n'est valable que lorsque ce panneau est illuminé.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "6-lieux-particuliers-12",
+      "question": "Que faut-il pour qu'un lieu soit considéré comme des « abords d'école » ?",
+      "choices": [
+        "Le seul signal « zone 30 »",
+        "Le seul signal « présence possible d'enfants »",
+        "Les deux signaux « présence possible d'enfants » ET « zone 30 »",
+        "Aucun signal n'est nécessaire"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le terme « abords d'école » désigne une zone dont le début et la fin sont délimités par les signaux « présence possible d'enfants » et « zone 30 » ; il faut les deux.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "6-lieux-particuliers-13",
+      "question": "Qui est autorisé à circuler dans une rue scolaire pendant les heures où elle est fermée ?",
+      "choices": [
+        "Tous les véhicules à moteur",
+        "Les piétons, cyclistes, speedpedelecs, les habitants pour en sortir, les véhicules prioritaires en mission et les véhicules autorisés par le gestionnaire de voirie",
+        "Uniquement les bus scolaires",
+        "Uniquement les riverains, sans restriction d'entrée ou de sortie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans une rue scolaire, la voie publique est réservée aux piétons, cyclistes et speedpedelecs ; les habitants peuvent la quitter mais pas y entrer aux heures scolaires, et les véhicules prioritaires ou autorisés par le gestionnaire de voirie y ont accès.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "6-lieux-particuliers-14",
+      "question": "Le site spécial franchissable (SSF) réservé aux trams et à certains bus fait-il partie de la chaussée ?",
+      "choices": [
+        "Oui, tous les véhicules peuvent y circuler librement",
+        "Non, vous ne pouvez pas y circuler sauf autorisation par panneau additionnel ou marquage",
+        "Oui, mais uniquement pour les cyclistes",
+        "Non, il est totalement interdit d'accès, même pour rejoindre une propriété"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le site spécial franchissable ne fait pas partie de la chaussée : vous ne pouvez pas y circuler, sauf si un panneau additionnel ou un marquage l'autorise, ou pour rejoindre/quitter un stationnement ou une propriété, ou dans les carrefours.",
+      "severity": "normale",
+      "page": 7
+    }
+  ]
+}

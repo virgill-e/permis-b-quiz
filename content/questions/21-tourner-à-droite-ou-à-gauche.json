@@ -1,0 +1,160 @@
+{
+  "slug": "21-tourner-à-droite-ou-à-gauche",
+  "sourceFile": "21-tourner-à-droite-ou-à-gauche.pdf",
+  "title": "Tourner à droite ou à gauche",
+  "questions": [
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-01",
+      "question": "Le conducteur A continue tout droit et le conducteur B veut tourner à gauche. Qui a la priorité ?",
+      "choices": ["Le conducteur A, qui continue tout droit", "Le conducteur B, qui tourne à gauche", "Les deux conducteurs doivent se concerter", "Aucun des deux n'a la priorité"],
+      "correctIndex": 0,
+      "explanation": "Le conducteur qui continue tout droit a la priorité ; celui qui tourne à gauche cède le passage au sens inverse.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-02",
+      "question": "Le conducteur A veut tourner à droite et le conducteur B, venant en face, veut tourner à gauche. Qui a la priorité ?",
+      "choices": ["Le conducteur A, qui tourne à droite", "Le conducteur B, qui tourne à gauche", "Les deux en même temps", "Celui qui arrive en premier au carrefour"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que celui qui tourne à droite a priorité, tandis que celui qui tourne à gauche cède le passage au sens inverse.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-03",
+      "question": "Deux conducteurs venant en sens inverse veulent tous les deux tourner à gauche et il n'y a pas de flèches tracées sur la chaussée. Que doivent-ils faire ?",
+      "choices": ["Se croiser par la droite", "Se croiser par la gauche", "S'arrêter et attendre que l'un cède", "Klaxonner pour se signaler"],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que s'il n'y a pas de flèches sur la chaussée, il faut se croiser par la droite.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-04",
+      "question": "Un conducteur qui tourne à gauche ou à droite doit céder le passage aux piétons et cyclistes qui traversent la chaussée sur laquelle il va s'engager...",
+      "choices": ["même s'il n'y a pas de passage pour piétons prévu à cet endroit", "uniquement s'il existe un passage pour piétons marqué", "uniquement aux cyclistes, pas aux piétons", "uniquement si un agent régule la circulation"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que cette obligation de céder le passage s'applique même s'il n'y a pas de passage prévu.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-05",
+      "question": "Sur une rue à sens unique, si vous voulez tourner à gauche, vous devez...",
+      "choices": ["rouler aussi près que possible du bord gauche de la chaussée", "rouler au centre de la chaussée", "rouler aussi près que possible du bord droit", "vous placer sur la bande la plus à droite"],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que sur une rue à sens unique, pour tourner à gauche, il faut rouler aussi près que possible du bord gauche de la chaussée.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-06",
+      "question": "Sur une chaussée ordinaire à double sens de circulation, pour tourner à GAUCHE, vous devez placer votre véhicule...",
+      "choices": ["le plus près possible de l'axe médian de la chaussée", "le plus à droite possible de la chaussée", "peu importe l'endroit, cela n'a pas d'importance", "sur la bande réservée au sens inverse"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que pour tourner à gauche sur une chaussée à double sens, il faut placer le véhicule le plus près possible de l'axe médian.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-07",
+      "question": "Sur cette même chaussée à double sens, que ne pouvez-vous pas faire lorsque vous voulez tourner à gauche ?",
+      "choices": ["Vous présélectionner à l'extrême droite de la chaussée ou sur la bande réservée au sens inverse", "Vous placer près de l'axe médian de la chaussée", "Activer votre indicateur de direction", "Regarder dans vos rétroviseurs"],
+      "correctIndex": 0,
+      "explanation": "Le texte indique explicitement que l'on ne peut pas se présélectionner à l'extrême droite ni sur la bande réservée au sens inverse.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-08",
+      "question": "Selon le texte, quelle est la séquence correcte d'actions pour tourner à gauche ?",
+      "choices": ["Regarder dans les rétroviseurs, se méfier de l'angle mort, activer l'indicateur, freiner, puis tourner", "Activer l'indicateur seulement après avoir tourné", "Freiner en premier, puis vérifier les rétroviseurs", "Tourner directement, puis activer l'indicateur"],
+      "correctIndex": 0,
+      "explanation": "Le texte liste dans cet ordre : rétroviseurs, angle mort, indicateur de direction, frein, puis le virage.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-09",
+      "question": "Le conducteur qui change de direction doit également céder le passage...",
+      "choices": ["aux conducteurs et piétons qui circulent sur les autres parties de la même voie publique", "uniquement aux véhicules prioritaires", "uniquement aux cyclistes", "à personne, il a toujours la priorité une fois engagé"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que le conducteur qui change de direction doit céder le passage aux conducteurs et piétons circulant sur les autres parties de la même voie publique.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-10",
+      "question": "Qu'est-ce qu'une manœuvre, selon le texte ?",
+      "choices": ["Une action effectuée avec le véhicule qui n'est pas spécifiquement réglée par le code de la route", "Tout déplacement du véhicule, sans exception", "Uniquement le fait de reculer", "Uniquement un changement de bande de circulation"],
+      "correctIndex": 0,
+      "explanation": "Le texte définit la manœuvre comme une action non spécifiquement réglée par le code de la route.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-11",
+      "question": "Lorsque tu effectues une manœuvre, que dois-tu faire ?",
+      "choices": ["Observer attentivement l'environnement et céder le passage à tous les usagers de la route", "Céder le passage uniquement aux véhicules prioritaires", "Klaxonner avant d'agir", "Accélérer pour dégager rapidement la chaussée"],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que lors d'une manœuvre, il faut observer l'environnement et céder le passage à tous les usagers, conducteurs et piétons.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-12",
+      "question": "Faire demi-tour est considéré, selon le texte, comme...",
+      "choices": ["une manœuvre, ce qui implique de céder le passage aux autres usagers", "une action prioritaire sur les autres usagers", "une infraction dans tous les cas", "un cas spécifiquement réglé par le code de la route"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que faire demi-tour est une manœuvre et qu'il faut donc céder le passage aux autres usagers de la route.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-13",
+      "question": "Que signifie le signal routier d'interdiction de demi-tour ?",
+      "choices": ["Il est interdit de faire demi-tour jusqu'au prochain carrefour inclus, mais tourner à gauche reste autorisé", "Il est interdit de tourner à gauche ou de faire demi-tour", "Le demi-tour est interdit sur toute la longueur de la route", "Il faut faire demi-tour avant d'atteindre le carrefour"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que ce signal interdit le demi-tour jusqu'au prochain carrefour inclus, mais n'interdit pas de tourner à gauche.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-14",
+      "question": "Reculer avec un véhicule est une manœuvre qui exige du conducteur...",
+      "choices": ["une prudence accrue", "aucune précaution particulière", "l'arrêt obligatoire de toute circulation environnante", "l'intervention obligatoire d'un agent"],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que reculer est une manœuvre et qu'il faut faire preuve d'une prudence accrue.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-15",
+      "question": "Traverser la chaussée en dehors d'un carrefour est une manœuvre qui oblige le conducteur à...",
+      "choices": ["céder le passage à tous les autres usagers de la route", "avoir la priorité sur tous les autres usagers", "s'arrêter uniquement si un piéton est visible", "klaxonner avant de traverser"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que traverser la chaussée en dehors d'un carrefour est une manœuvre et qu'il faut céder le passage à tous les autres usagers.",
+      "severity": "grave",
+      "page": 6
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-16",
+      "question": "Un signal indique une réduction du nombre de bandes par la droite. Si tu veux te placer sur la bande de gauche, tu dois...",
+      "choices": ["céder le passage", "avoir automatiquement la priorité", "klaxonner pour prévenir les autres usagers", "accélérer pour passer en premier"],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que si tu veux te placer sur la bande de gauche suite à une réduction du nombre de bandes par la droite, tu dois céder le passage.",
+      "severity": "grave",
+      "page": 6
+    },
+    {
+      "id": "21-tourner-à-droite-ou-à-gauche-17",
+      "question": "En cas de simple rétrécissement de la chaussée par la droite (sans réduction du nombre de bandes signalée), qui a la priorité ?",
+      "choices": ["La voiture qui reste à droite sur la chaussée", "La voiture qui change de bande vers la gauche", "Celle qui roule le plus vite", "Celle qui klaxonne en premier"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu'en cas de simple rétrécissement de la chaussée par la droite, la voiture qui reste à droite sur la chaussée a la priorité.",
+      "severity": "grave",
+      "page": 6
+    }
+  ]
+}

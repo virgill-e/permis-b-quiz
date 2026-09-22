@@ -1,0 +1,183 @@
+{
+  "slug": "3-les-cyclistes",
+  "sourceFile": "3-les-cyclistes.pdf",
+  "title": "Les cyclistes, la piste cyclable et la zone cyclable",
+  "questions": [
+    {
+      "id": "3-les-cyclistes-01",
+      "question": "Qui est obligé de circuler sur la piste cyclable quand elle existe et est praticable ?",
+      "choices": [
+        "Uniquement les piétons",
+        "Les bicyclettes et cyclomoteurs classe A (et parfois les cyclomoteurs classe B)",
+        "Uniquement les cyclomoteurs classe B",
+        "Tous les véhicules lents"
+      ],
+      "correctIndex": 1,
+      "explanation": "Une piste cyclable est une partie de la voie publique sur laquelle les bicyclettes et les cyclomoteurs classe A doivent circuler ; parfois les cyclomoteurs classe B y sont également tenus.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "3-les-cyclistes-02",
+      "question": "Que signifie le signal D9 (piétons et bicyclette côte à côte) ?",
+      "choices": [
+        "Il interdit l'accès aux piétons",
+        "Les bicyclettes, les cyclomoteurs classe A et les piétons sont tenus d'utiliser cette partie de la voie publique",
+        "Seuls les cyclomoteurs classe B peuvent l'utiliser",
+        "Il s'agit d'une interdiction de circuler à vélo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le signal D9 impose aux bicyclettes, cyclomoteurs classe A et piétons d'utiliser cette partie de la voie publique ; les cyclomoteurs classe B ne peuvent pas l'emprunter.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "3-les-cyclistes-03",
+      "question": "Jusqu'à quel âge un enfant est-il actuellement autorisé à rouler à vélo sur le trottoir en agglomération ?",
+      "choices": ["moins de 8 ans", "moins de 10 ans", "moins de 14 ans", "moins de 16 ans"],
+      "correctIndex": 1,
+      "explanation": "Il est interdit de rouler à vélo sur le trottoir en agglomération, sauf pour les enfants de moins de 10 ans (règle qui passera à moins de 12 ans à partir du 1er juin 2027).",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "3-les-cyclistes-04",
+      "question": "Hors agglomération, à quelle condition tous les cyclistes peuvent-ils circuler sur le trottoir ou l'accotement en saillie ?",
+      "choices": [
+        "Uniquement de jour",
+        "S'il n'y a pas de piste cyclable et à condition de rouler à droite dans le sens de la circulation",
+        "Jamais, c'est toujours interdit hors agglomération",
+        "Uniquement s'ils ont moins de 10 ans"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hors agglomération, tous les cyclistes peuvent circuler sur le trottoir ou l'accotement en saillie s'il n'y a pas de piste cyclable, à condition de rouler à droite dans le sens de la circulation.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "3-les-cyclistes-05",
+      "question": "Une piste cyclable fait-elle partie de la chaussée ?",
+      "choices": [
+        "Oui, toujours",
+        "Non, elle fait partie de la voie publique mais pas de la chaussée",
+        "Oui, uniquement en agglomération",
+        "Non, elle ne fait pas partie de la voie publique"
+      ],
+      "correctIndex": 1,
+      "explanation": "La piste cyclable est une partie de la voie publique, mais ne fait pas partie de la chaussée : on ne peut donc pas y circuler, s'y arrêter ni y stationner en voiture.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "3-les-cyclistes-06",
+      "question": "Qui doit céder le passage à un passage pour cyclistes et cyclomoteurs à deux roues ?",
+      "choices": [
+        "Les cyclistes ont toujours priorité absolue",
+        "Les cyclistes doivent céder le passage aux conducteurs sur la chaussée, mais ont priorité une fois engagés sur le passage",
+        "Les conducteurs sur la chaussée ont toujours priorité, même si le cycliste est déjà engagé",
+        "Il n'existe pas de règle de priorité à cet endroit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les cyclistes qui veulent emprunter un passage pour cyclistes doivent céder le passage aux conducteurs sur la chaussée, mais une fois engagés sur le passage, ils ont priorité.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "3-les-cyclistes-07",
+      "question": "À quelle distance minimale avant un passage pour cyclistes est-il interdit de s'arrêter ou de stationner sur la chaussée ?",
+      "choices": ["2 mètres", "5 mètres", "10 mètres", "20 mètres"],
+      "correctIndex": 1,
+      "explanation": "Il est interdit de s'arrêter ou de stationner sur la chaussée à moins de 5 mètres en deçà d'un passage pour cyclistes (ou piétons).",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "3-les-cyclistes-08",
+      "question": "Qu'est-ce qu'une bande cyclable suggérée (bande colorée peinte sur la chaussée) ?",
+      "choices": [
+        "Une piste cyclable à part entière, interdite aux voitures",
+        "Une partie de la chaussée où les voitures peuvent circuler, s'arrêter et stationner",
+        "Une zone d'évitement réservée aux vélos",
+        "Une bande réservée exclusivement aux bus et vélos"
+      ],
+      "correctIndex": 1,
+      "explanation": "La bande cyclable suggérée fait partie de la chaussée ; contrairement à une piste cyclable, les voitures peuvent y circuler, s'y arrêter et y stationner.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "3-les-cyclistes-09",
+      "question": "Quand un cycliste reprend sa place sur la chaussée à la fin d'une piste cyclable qui s'interrompt, qui a la priorité ?",
+      "choices": [
+        "Les voitures circulant sur la chaussée",
+        "Le cycliste qui reprend sa place sur la chaussée",
+        "Cela dépend de la vitesse respective",
+        "Aucun des deux, il faut s'arrêter tous les deux"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lorsqu'un cycliste ou cyclomoteur reprend sa place sur la chaussée à la fin d'une piste cyclable, il a la priorité et les conducteurs de voitures et motocyclettes doivent lui céder le passage.",
+      "severity": "grave",
+      "page": 6
+    },
+    {
+      "id": "3-les-cyclistes-10",
+      "question": "Combien de cyclotouristes au minimum et au maximum peuvent circuler en permanence à deux de front sur la chaussée sans être tenus d'emprunter la piste cyclable (premier groupe défini) ?",
+      "choices": ["de 5 à 14 participants", "de 15 à 50 participants", "de 51 à 150 participants", "à partir de 200 participants"],
+      "correctIndex": 1,
+      "explanation": "Les cyclotouristes circulant en groupe de 15 à 50 participants ne sont pas tenus d'emprunter les pistes cyclables et peuvent rouler en permanence à deux de front sur la chaussée, sur la bande de droite uniquement.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "3-les-cyclistes-11",
+      "question": "Pour un groupe de 51 à 150 cyclistes, quel encadrement est requis en plus des véhicules d'escorte ?",
+      "choices": [
+        "Aucun encadrement supplémentaire n'est nécessaire",
+        "Deux capitaines de route",
+        "Un seul capitaine de route",
+        "Une escorte policière obligatoire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un groupe de 51 à 150 participants doit être précédé et suivi d'un véhicule d'escorte à environ 30 mètres, et être accompagné de deux capitaines de route.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "3-les-cyclistes-12",
+      "question": "Quelle est la vitesse maximale autorisée dans une zone cyclable ?",
+      "choices": ["20 km/h", "30 km/h", "50 km/h", "70 km/h"],
+      "correctIndex": 1,
+      "explanation": "Dans une zone cyclable, la vitesse maximale autorisée est de 30 km/h.",
+      "severity": "normale",
+      "page": 8
+    },
+    {
+      "id": "3-les-cyclistes-13",
+      "question": "Dans une zone cyclable, un véhicule motorisé peut-il dépasser un cycliste ?",
+      "choices": [
+        "Oui, sans restriction",
+        "Non, les véhicules motorisés ne peuvent pas dépasser un cycliste, une trottinette ou un engin assimilé",
+        "Oui, uniquement par la droite",
+        "Oui, si la vitesse le permet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans une zone cyclable, les véhicules motorisés ne peuvent pas dépasser un cycliste, une trottinette ou tout autre engin de déplacement assimilé à un cycliste.",
+      "severity": "grave",
+      "page": 8
+    },
+    {
+      "id": "3-les-cyclistes-14",
+      "question": "Sur la bande latérale d'une chaussée à voie centrale, une voiture peut-elle empiéter pour croiser ou dépasser un autre véhicule ?",
+      "choices": [
+        "Non, c'est totalement interdit",
+        "Oui, à condition de ne pas gêner les autres usagers et de maintenir des distances latérales suffisantes",
+        "Oui, sans aucune condition",
+        "Seulement la nuit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si des voitures doivent se croiser ou se dépasser sur une chaussée à voie centrale, elles peuvent empiéter sur la bande latérale, à condition de ne pas gêner les autres usagers et de garder des distances latérales suffisantes.",
+      "severity": "normale",
+      "page": 6
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "4-lautoroute",
+  "sourceFile": "4-l'autoroute.pdf",
+  "title": "L'autoroute",
+  "questions": [
+    {
+      "id": "4-lautoroute-01",
+      "question": "Quelle est la vitesse maximale autorisée sur autoroute, si les conditions de circulation le permettent ?",
+      "choices": [
+        "100 km/h",
+        "110 km/h",
+        "120 km/h",
+        "130 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "La vitesse maximale sur autoroute est de 120 km/h, à condition que les conditions de circulation le permettent et qu'aucun agent ou signal ne l'interdise.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "4-lautoroute-02",
+      "question": "Quelle est la vitesse minimale à respecter sur autoroute lorsque les conditions le permettent ?",
+      "choices": [
+        "50 km/h",
+        "60 km/h",
+        "70 km/h",
+        "90 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sur autoroute, la vitesse minimale à respecter est de 70 km/h lorsque les conditions le permettent ; les véhicules incapables d'atteindre cette vitesse ne peuvent pas emprunter l'autoroute.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "4-lautoroute-03",
+      "question": "En cas de smog, quelle limitation de vitesse temporaire peut être imposée sur autoroute ?",
+      "choices": [
+        "70 km/h",
+        "90 km/h",
+        "100 km/h",
+        "110 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Afin de ne pas aggraver le smog, une limitation de vitesse temporaire de 90 km/h peut être imposée, indiquée par panneaux électroniques ou signal C43 avec panneau additionnel SMOG.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "4-lautoroute-04",
+      "question": "Entre quelles dates peut-on monter des pneus cloutés sur un véhicule dont la MMA n'excède pas 3,5 tonnes ?",
+      "choices": [
+        "Du 1er octobre au 31 mars",
+        "Du 1er novembre au 31 mars",
+        "Du 1er décembre au 28 février",
+        "Du 15 novembre au 15 avril"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les pneus cloutés peuvent être montés entre le 1er novembre et le 31 mars sur un véhicule d'une MMA n'excédant pas 3,5 tonnes.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "4-lautoroute-05",
+      "question": "Avec des pneus cloutés, quelle est la vitesse maximale autorisée sur autoroute ?",
+      "choices": [
+        "60 km/h",
+        "70 km/h",
+        "90 km/h",
+        "120 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "Avec des pneus cloutés, la vitesse est limitée à 90 km/h sur autoroutes et routes composées de 2x2 bandes séparées par autre chose qu'un simple marquage, et à 60 km/h sur route ordinaire.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "4-lautoroute-06",
+      "question": "Dans quels cas peut-on emprunter la bande d'arrêt d'urgence ?",
+      "choices": [
+        "Pour dépasser en cas d'embouteillage",
+        "Uniquement en cas de panne ou d'accident",
+        "Pour répondre au téléphone brièvement",
+        "Chaque fois que la bande de droite est encombrée"
+      ],
+      "correctIndex": 1,
+      "explanation": "La bande d'arrêt d'urgence ne peut être empruntée qu'en cas de panne ou d'accident ; il est interdit d'y circuler, de s'y arrêter ou d'y stationner en dehors de ces cas.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "4-lautoroute-07",
+      "question": "En cas d'arrêt sur la bande d'arrêt d'urgence d'une autoroute, à quelle distance faut-il placer le triangle de danger ?",
+      "choices": [
+        "30 mètres",
+        "50 mètres",
+        "100 mètres",
+        "150 mètres"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sur autoroute, le triangle de danger doit être placé à 100 mètres en deçà du véhicule (contre 30 mètres sur route ordinaire), de façon à être visible à 50 mètres.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "4-lautoroute-08",
+      "question": "Où doit se trouver le gilet de sécurité réfléchissant qu'un conducteur doit porter en quittant son véhicule ?",
+      "choices": [
+        "Dans le coffre",
+        "À l'intérieur de l'habitacle, car il doit être mis avant de sortir du véhicule",
+        "Peu importe, il suffit de l'avoir sur soi en permanence en conduisant",
+        "Il n'est jamais obligatoire pour le conducteur"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le gilet de sécurité réfléchissant doit se trouver obligatoirement à l'intérieur de la voiture (pas dans le coffre), car le conducteur doit le mettre avant de sortir du véhicule.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "4-lautoroute-09",
+      "question": "Quel numéro d'appel d'urgence international faut-il utiliser en l'absence de borne d'appel ?",
+      "choices": [
+        "100",
+        "101",
+        "112",
+        "911"
+      ],
+      "correctIndex": 2,
+      "explanation": "En l'absence de borne d'appel, il faut appeler le numéro d'urgence international 112 et mentionner l'endroit exact et le sens de circulation.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "4-lautoroute-10",
+      "question": "Sur une chaussée à deux bandes de circulation, comment les conducteurs forment-ils un couloir de secours ?",
+      "choices": [
+        "Tous les véhicules serrent à droite",
+        "Ceux de la bande de gauche serrent à gauche, ceux de la bande de droite serrent à droite",
+        "Tous les véhicules serrent à gauche",
+        "Le couloir se forme uniquement sur ordre de la police"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sur une chaussée à deux bandes, les conducteurs de la bande de gauche serrent à gauche et ceux de la bande de droite serrent à droite, créant un couloir de secours entre eux.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "4-lautoroute-11",
+      "question": "Face à un conducteur fantôme, que devez-vous faire ?",
+      "choices": [
+        "Klaxonner longuement et rouler au milieu de la chaussée",
+        "Ralentir, serrer à droite, faire un appel de phares uniquement en le croisant et avertir la police au 112",
+        "Accélérer pour vous en éloigner le plus vite possible sans prévenir personne",
+        "Faire des appels de phares continus dès que vous l'apercevez"
+      ],
+      "correctIndex": 1,
+      "explanation": "Face à un conducteur fantôme, il faut ralentir et serrer à droite, faire un appel de phares uniquement au moment de le croiser pour ne pas l'effrayer, et avertir immédiatement la police au 112.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "4-lautoroute-12",
+      "question": "Sur autoroute, est-il autorisé de dépasser par la droite ?",
+      "choices": [
+        "Oui, si la bande de gauche est occupée",
+        "Non, c'est interdit ; le conducteur qui reste inutilement à gauche est autant en infraction que celui qui dépasse par la droite",
+        "Oui, uniquement en cas d'embouteillage",
+        "Oui, sans aucune restriction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le dépassement par la droite est interdit sur autoroute ; celui qui ne se place pas à droite après avoir dépassé est autant en infraction que celui qui dépasse par la droite.",
+      "severity": "grave",
+      "page": 6
+    },
+    {
+      "id": "4-lautoroute-13",
+      "question": "En cas d'embouteillage sur autoroute, à quelle vitesse maximale un motocycliste peut-il remonter les files entre les deux bandes de gauche ?",
+      "choices": [
+        "10 km/h de plus que les autres véhicules, sans dépasser 30 km/h",
+        "20 km/h de plus que les autres véhicules, sans dépasser 50 km/h",
+        "30 km/h de plus que les autres véhicules, sans dépasser 70 km/h",
+        "Aucune limite tant que la sécurité est assurée"
+      ],
+      "correctIndex": 1,
+      "explanation": "En cas d'embouteillage, les motocyclistes peuvent circuler entre les deux bandes de gauche à 20 km/h de plus que les autres véhicules, sans dépasser 50 km/h.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "4-lautoroute-14",
+      "question": "Quand on entre sur l'autoroute via la bande d'accès, le principe de la tirette s'applique-t-il ?",
+      "choices": [
+        "Oui, comme sur une chaussée normale",
+        "Non, les véhicules entrants doivent céder le passage aux véhicules déjà présents",
+        "Oui, mais uniquement en cas de trafic dense",
+        "Cela dépend du panneau affiché à l'entrée"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le système de la tirette ne s'applique pas sur les bandes d'accès à l'autoroute : les véhicules qui entrent doivent céder le passage à ceux déjà présents.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "4-lautoroute-15",
+      "question": "Que faut-il faire si vous avez manqué votre sortie d'autoroute ?",
+      "choices": [
+        "Faire marche arrière prudemment sur la bande d'arrêt d'urgence",
+        "Continuer jusqu'à la prochaine sortie, la marche arrière étant interdite sur autoroute",
+        "S'arrêter sur la chaussée et attendre",
+        "Traverser la berme centrale pour rebrousser chemin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il est interdit de faire marche arrière sur autoroute, même si vous avez manqué une sortie ; il faut continuer jusqu'à la sortie suivante.",
+      "severity": "grave",
+      "page": 8
+    }
+  ]
+}

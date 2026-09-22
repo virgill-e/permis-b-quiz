@@ -1,0 +1,231 @@
+{
+  "slug": "22-tram-bus",
+  "sourceFile": "22-tram-bus.pdf",
+  "title": "Tram et bus",
+  "questions": [
+    {
+      "id": "22-tram-bus-01",
+      "question": "Pourquoi faut-il être particulièrement prudent à l'approche d'un passage à niveau ?",
+      "choices": [
+        "Parce qu'un véhicule sur rail a une distance de freinage très longue et ne peut pas dévier sa trajectoire",
+        "Parce que les trains n'ont pas de feux de signalisation",
+        "Parce que la vitesse des trains est toujours inférieure à celle des voitures",
+        "Parce que les passages à niveau ne sont jamais signalés"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu'un véhicule sur rail a une distance de freinage très longue et qu'il lui est impossible de dévier sa trajectoire.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "22-tram-bus-02",
+      "question": "Un signal de danger placé 150 mètres avant un passage à niveau, sans indication de barrières, signifie que :",
+      "choices": [
+        "Il n'y a pas de barrières pour arrêter la circulation",
+        "Le passage à niveau est fermé définitivement",
+        "Il y a obligatoirement des barrières automatiques",
+        "La vitesse est limitée à 30 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal, placé 150 mètres avant le passage à niveau, indique qu'il n'y a pas de barrières pour arrêter la circulation.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "22-tram-bus-03",
+      "question": "Que signifie un feu blanc lunaire clignotant à un passage à niveau ?",
+      "choices": [
+        "Aucun train n'approche et vous pouvez traverser le passage à niveau",
+        "Un train approche à grande vitesse",
+        "Le passage à niveau est fermé pour travaux",
+        "Vous devez vous arrêter immédiatement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si le feu blanc lunaire clignote, il n'y a pas de train qui approche et vous pouvez traverser le passage à niveau.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "22-tram-bus-04",
+      "question": "Vous entendez le signal sonore et voyez les feux rouges clignoter à un passage à niveau. Que devez-vous faire ?",
+      "choices": [
+        "Vous ne pouvez pas vous engager sur le passage à niveau",
+        "Vous pouvez traverser si aucun train n'est visible",
+        "Vous pouvez traverser en accélérant",
+        "Vous devez klaxonner puis traverser"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si vous entendez le signal sonore et/ou voyez les feux rouges clignoter, vous ne pouvez pas vous engager sur le passage à niveau.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "22-tram-bus-05",
+      "question": "Que risque un conducteur qui traverse un passage à niveau alors que les barrières sont en mouvement ?",
+      "choices": [
+        "Le retrait immédiat de son permis de conduire, car c'est une infraction grave",
+        "Une simple amende administrative",
+        "Rien, tant qu'aucun train n'arrive",
+        "Un avertissement oral de la police uniquement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que traverser le passage à niveau lorsque les barrières sont en mouvement constitue une infraction grave pouvant entraîner le retrait immédiat du permis de conduire.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "22-tram-bus-06",
+      "question": "En voiture, que peut-on faire sur un site spécial franchissable ?",
+      "choices": [
+        "Rien : il est interdit d'y circuler, de s'y arrêter ou d'y stationner (sauf cas autorisés)",
+        "On peut y stationner librement",
+        "On peut y circuler en permanence",
+        "On peut s'y arrêter pour attendre un passager"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un site spécial franchissable ne fait pas partie de la chaussée : en voiture, il est interdit d'y circuler, de s'y arrêter ou d'y stationner.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "22-tram-bus-07",
+      "question": "Est-il permis d'emprunter le site spécial franchissable dans les derniers mètres avant un carrefour pour se positionner en vue de tourner ?",
+      "choices": [
+        "Non, c'est interdit",
+        "Oui, toujours",
+        "Oui, mais uniquement pour tourner à droite",
+        "Oui, mais uniquement de nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu'il est interdit d'emprunter le site spécial franchissable dans les derniers mètres avant un carrefour afin de se positionner pour tourner à gauche ou à droite.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "22-tram-bus-08",
+      "question": "Dans lequel de ces cas est-il autorisé, en voiture, d'utiliser le site spécial franchissable ?",
+      "choices": [
+        "Pour contourner un obstacle sur la chaussée",
+        "Pour y stationner brièvement",
+        "Pour y rouler sur une longue distance afin de gagner du temps",
+        "Pour s'y arrêter en attendant qu'un passager arrive"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il est autorisé de circuler sur le site spécial franchissable pour contourner un obstacle en chaussée, ainsi que pour le traverser aux carrefours ou pour accéder à une propriété ou un parking.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "22-tram-bus-09",
+      "question": "Sur une autoroute où l'ancienne bande d'arrêt d'urgence a été transformée en site spécial franchissable avec une vitesse maximale de 50 km/h sur ce site, quelle est la vitesse maximale des voitures circulant sur les autres bandes, dans l'exemple donné ?",
+      "choices": [
+        "120 km/h",
+        "90 km/h",
+        "70 km/h",
+        "50 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans l'exemple du texte, la vitesse maximale sur le site spécial franchissable est de 50 km/h, tandis que les voitures circulant sur les autres bandes peuvent rouler à une vitesse maximale de 120 km/h.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "22-tram-bus-10",
+      "question": "Concernant la priorité du tram sur ses rails, que dit le texte ?",
+      "choices": [
+        "Le tram n'est pas concerné par les règles de circulation et a toujours la priorité",
+        "Le tram doit céder le passage aux voitures venant de droite",
+        "Le tram a priorité uniquement en agglomération",
+        "Le tram doit s'arrêter à chaque carrefour comme les autres véhicules"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que le tram n'est pas concerné par les règles de circulation et qu'il a toujours la priorité ; son conducteur ne doit respecter que les injonctions des agents qualifiés et les signaux lumineux.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "22-tram-bus-11",
+      "question": "Comment est signalée et délimitée la bande bus ?",
+      "choices": [
+        "Par le panneau F17 et une ligne blanche discontinue",
+        "Par le panneau F18 et une ligne blanche continue",
+        "Par un panneau triangulaire rouge uniquement",
+        "Elle n'est jamais signalée"
+      ],
+      "correctIndex": 0,
+      "explanation": "La bande bus est signalée par le panneau F17 et délimitée par une ligne blanche discontinue.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "22-tram-bus-12",
+      "question": "Quelle est la différence entre une ligne blanche discontinue et une ligne blanche continue délimitant une voie réservée ?",
+      "choices": [
+        "La ligne discontinue délimite une bande bus, la ligne continue délimite un site spécial franchissable",
+        "La ligne discontinue délimite un site spécial franchissable, la ligne continue délimite une bande bus",
+        "Les deux délimitent uniquement des bandes bus",
+        "Il n'y a aucune différence de signification"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu'une ligne blanche discontinue correspond à une bande de circulation réservée aux autobus, tandis qu'une ligne blanche continue correspond à un site spécial franchissable.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "22-tram-bus-13",
+      "question": "Est-il permis d'attendre le bus en stationnant sur un arrêt de bus ?",
+      "choices": [
+        "Non, c'est interdit car cela est assimilé à un stationnement",
+        "Oui, sans restriction",
+        "Oui, mais seulement la nuit",
+        "Oui, pendant maximum 10 minutes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique qu'il est interdit d'attendre le bus sur un arrêt de bus, car cela est assimilé à un stationnement.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "22-tram-bus-14",
+      "question": "Si un arrêt de bus n'est pas signalé par des marques routières, à quelle distance du poteau d'arrêt est-il interdit de stationner ?",
+      "choices": [
+        "À moins de 15 mètres de part et d'autre du poteau",
+        "À moins de 5 mètres de part et d'autre du poteau",
+        "À moins de 30 mètres de part et d'autre du poteau",
+        "Il n'y a aucune restriction sans marques routières"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si l'arrêt de bus n'est pas signalé par des marques routières, il est interdit de stationner à moins de 15 mètres de part et d'autre du poteau d'arrêt.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "22-tram-bus-15",
+      "question": "En agglomération, que devez-vous faire lorsqu'un autobus quitte son arrêt en actionnant son clignotant gauche ?",
+      "choices": [
+        "Lui céder le passage",
+        "Le dépasser rapidement avant qu'il ne s'engage",
+        "Klaxonner pour le prévenir de votre présence",
+        "Continuer normalement, il doit vous céder le passage"
+      ],
+      "correctIndex": 0,
+      "explanation": "En agglomération, vous devez céder le passage à un autobus quittant son arrêt dès qu'il actionne son clignotant gauche.",
+      "severity": "grave",
+      "page": 7
+    },
+    {
+      "id": "22-tram-bus-16",
+      "question": "Hors agglomération, êtes-vous tenu de céder le passage à un autobus qui quitte son arrêt ?",
+      "choices": [
+        "Non, vous n'êtes pas tenu de lui céder le passage",
+        "Oui, dans tous les cas",
+        "Oui, mais uniquement si le clignotant droit est actionné",
+        "Oui, sauf pour les autocars scolaires"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que hors agglomération, vous n'êtes pas tenu de céder le passage à un autobus quittant son arrêt.",
+      "severity": "normale",
+      "page": 7
+    }
+  ]
+}

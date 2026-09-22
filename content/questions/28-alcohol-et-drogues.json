@@ -1,0 +1,203 @@
+{
+  "slug": "28-alcohol-et-drogues",
+  "sourceFile": "28-alcohol-et-drogues.pdf",
+  "title": "Alcool et drogues",
+  "questions": [
+    {
+      "id": "28-alcohol-et-drogues-01",
+      "question": "Pourquoi l'alcool et la conduite d'un véhicule sont-ils incompatibles ?",
+      "choices": [
+        "L'alcool altère la capacité de concentration, de jugement et de réaction",
+        "L'alcool n'a aucun effet sur la conduite en dessous de 1 ‰",
+        "L'alcool améliore les réflexes à faible dose",
+        "L'alcool n'affecte que la vision nocturne"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'alcool altère la capacité de concentration, de jugement et de réaction ; le conducteur se fatigue plus vite et peut se montrer présomptueux et téméraire.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "28-alcohol-et-drogues-02",
+      "question": "Qui peut être soumis à un contrôle d'alcoolémie ?",
+      "choices": [
+        "Toute personne qui conduit ou s'apprête à conduire un véhicule ou une monture, y compris cyclistes et cavaliers",
+        "Uniquement les conducteurs de voiture",
+        "Uniquement les conducteurs déjà impliqués dans un accident",
+        "Uniquement les conducteurs professionnels"
+      ],
+      "correctIndex": 0,
+      "explanation": "Toute personne qui conduit ou s'apprête à conduire un véhicule ou une monture sur la voie publique peut être soumise à un contrôle d'alcoolémie ; cela inclut les cyclistes et les cavaliers.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "28-alcohol-et-drogues-03",
+      "question": "Un passager qui dort dans la voiture sur un siège autre que celui du conducteur peut-il être soumis à un contrôle d'alcoolémie ?",
+      "choices": [
+        "Non",
+        "Oui, systématiquement",
+        "Oui, mais uniquement de nuit",
+        "Oui, si le véhicule est en mouvement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que les passagers, une personne qui dort sur un siège autre que celui du conducteur, ou des piétons non impliqués dans un accident ne seront PAS soumis à un contrôle d'alcoolémie.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "28-alcohol-et-drogues-04",
+      "question": "Que se passe-t-il en cas de refus de se soumettre au test de l'haleine, à l'analyse d'haleine ou au prélèvement sanguin, sans motif légitime ?",
+      "choices": [
+        "Ce refus est punissable",
+        "Il n'y a aucune conséquence particulière",
+        "Une simple remarque orale est faite par l'agent",
+        "Le refus est autorisé une fois par an"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le refus de se soumettre au test haleine, à l'analyse d'haleine ou au prélèvement sanguin sans motif légitime est punissable.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "28-alcohol-et-drogues-05",
+      "question": "Lors d'un test de l'haleine, à partir de quelle concentration d'alcool le résultat est-il \"P\" (Positif) ?",
+      "choices": [
+        "Au moins 0,35 mg/litre d'air alvéolaire expiré (0,8 ‰)",
+        "Au moins 0,10 mg/litre d'air expiré",
+        "Au moins 1,5 mg/litre d'air expiré",
+        "Au moins 0,05 mg/litre d'air expiré"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le résultat \"P\" (Positif) correspond à une concentration d'alcool d'au moins 0,35 mg/l d'air alvéolaire expiré (0,8 °/°°).",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "28-alcohol-et-drogues-06",
+      "question": "Si vous refusez de subir un test de l'haleine, comment êtes-vous considéré ?",
+      "choices": [
+        "Comme étant positif (P)",
+        "Comme étant sûr (S)",
+        "Comme étant en alarme (A) uniquement",
+        "Le refus n'a aucune incidence sur le résultat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que si vous refusez de subir un test de l'haleine, vous êtes considéré comme étant (P) positif.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "28-alcohol-et-drogues-07",
+      "question": "Qui prélève l'échantillon de sang lors d'un prélèvement sanguin (par exemple si le conducteur est trop ivre pour souffler) ?",
+      "choices": [
+        "Un médecin, pas un agent de police",
+        "Un agent de police assermenté",
+        "Le conducteur lui-même",
+        "Un infirmier des pompiers uniquement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que ce n'est pas un agent de police, mais un médecin qui prélève l'échantillon de sang.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "28-alcohol-et-drogues-08",
+      "question": "Un résultat d'analyse de l'haleine d'au moins 0,35 mg/l (0,8 ‰) entraîne notamment...",
+      "choices": [
+        "un retrait du permis de conduire pendant 15 jours et une amende",
+        "uniquement un avertissement oral",
+        "un retrait du permis pendant 6 mois",
+        "aucune sanction si c'est la première infraction"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un résultat d'au moins 0,35 mg/l d'alcool par litre d'air expiré entraîne un retrait du permis de conduire pendant 15 jours ainsi qu'une amende.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "28-alcohol-et-drogues-09",
+      "question": "Pour combien de temps un éthylotest antidémarrage peut-il être imposé par le juge ?",
+      "choices": [
+        "De 1 à 3 ans, voire à vie",
+        "Toujours exactement 6 mois",
+        "Maximum 1 mois",
+        "Toujours à vie, sans exception"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le juge peut imposer un éthylotest antidémarrage pour une durée de 1 à 3 ans, voire à vie, aux conducteurs ayant commis une infraction liée à l'alcool.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "28-alcohol-et-drogues-10",
+      "question": "À partir de quelle concentration d'alcool l'éthylotest antidémarrage doit-il obligatoirement être imposé (sauf décision motivée contraire du juge) ?",
+      "choices": [
+        "Au moins 1,8 ‰",
+        "Au moins 0,5 ‰",
+        "Au moins 0,8 ‰",
+        "Au moins 0,2 ‰"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un éthylotest antidémarrage doit obligatoirement être imposé aux conducteurs présentant au moins 1,8 ‰ d'alcool, sauf si le juge décide explicitement de ne pas l'imposer et motive sa décision.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "28-alcohol-et-drogues-11",
+      "question": "La police peut-elle demander un test salivaire (dépistage de drogue) à n'importe quel conducteur, sans raison particulière ?",
+      "choices": [
+        "Non, sauf soupçon objectif de consommation de drogues, ou en cas d'accident",
+        "Oui, à tout conducteur sans aucune condition",
+        "Non, jamais, même en cas d'accident",
+        "Oui, mais uniquement le week-end"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un test salivaire ne peut être effectué que si la police soupçonne une consommation de drogues sur base d'éléments objectifs ; en cas d'accident, la police peut toujours l'imposer.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "28-alcohol-et-drogues-12",
+      "question": "Si un test salivaire détecte la présence de drogue, que doit faire le conducteur immédiatement ?",
+      "choices": [
+        "Remettre son permis de conduire pendant 12 heures",
+        "Payer une amende sur place uniquement",
+        "Rien, sauf en cas de récidive",
+        "Attendre 48 heures avant toute sanction"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si le résultat détecte la présence de drogue, le conducteur doit remettre son permis de conduire pendant 12 heures ; un retrait immédiat est aussi possible.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "28-alcohol-et-drogues-13",
+      "question": "Quelle est l'interdiction de conduire maximale encourue pour une infraction liée à la conduite sous l'influence de drogues ?",
+      "choices": [
+        "5 ans",
+        "1 an",
+        "15 jours",
+        "10 ans"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ceux qui commettent cette infraction s'exposent à une interdiction de conduire de 5 ans maximum.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "28-alcohol-et-drogues-14",
+      "question": "Que dit le texte à propos de la combinaison d'alcool et de certains médicaments ?",
+      "choices": [
+        "L'alcool rend certains médicaments ayant déjà des effets néfastes sur la conduite encore plus dangereux",
+        "Les médicaments neutralisent les effets de l'alcool",
+        "La combinaison n'a aucun effet supplémentaire par rapport à l'alcool seul",
+        "Seuls les médicaments sans alcool sont dangereux pour la conduite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Certains médicaments ont déjà des effets néfastes sur la conduite ; l'alcool les rend encore plus dangereux, et la combinaison drogue-alcool est plus grave que l'alcool seul.",
+      "severity": "grave",
+      "page": 5
+    }
+  ]
+}

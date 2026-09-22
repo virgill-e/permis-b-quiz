@@ -1,0 +1,91 @@
+{
+  "slug": "8-les-conducteurs-de-véhicules",
+  "sourceFile": "8-les-conducteurs-de-véhicules.pdf",
+  "title": "Les conducteurs de véhicules",
+  "questions": [
+    {
+      "id": "8-les-conducteurs-de-véhicules-01",
+      "question": "Selon le code de la route, qui est considéré comme un « conducteur » ?",
+      "choices": [
+        "Uniquement une personne qui conduit un véhicule à moteur",
+        "Une personne qui conduit un véhicule (avec ou sans moteur), ou qui mène/surveille des animaux de trait, de charge ou une monture sur la voie publique",
+        "Uniquement une personne titulaire d'un permis de conduire",
+        "Uniquement une personne qui circule sur la chaussée"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un conducteur est une personne qui conduit un véhicule (avec ou sans moteur), ou qui mène ou surveille des animaux de trait, de charge ou une monture sur la voie publique.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "8-les-conducteurs-de-véhicules-02",
+      "question": "Une personne pousse son vélo car il a un pneu plat. Quel est son statut ?",
+      "choices": [
+        "Elle est considérée comme un conducteur",
+        "Elle est considérée comme un piéton",
+        "Elle n'est ni piéton ni conducteur",
+        "Elle doit rouler sur la chaussée"
+      ],
+      "correctIndex": 1,
+      "explanation": "Une personne qui pousse son vélo (par exemple à cause d'un pneu plat) est considérée comme un piéton et doit se déplacer sur le trottoir.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "8-les-conducteurs-de-véhicules-03",
+      "question": "Une personne descend de sa voiture en panne et la pousse. Quel est son statut ?",
+      "choices": [
+        "Elle est considérée comme un piéton",
+        "Elle est considérée comme un conducteur",
+        "Elle n'est plus concernée par le code de la route",
+        "Cela dépend de la distance parcourue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Une personne qui descend de sa voiture et la pousse est aussi considérée comme un conducteur.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "8-les-conducteurs-de-véhicules-04",
+      "question": "Dans le code de la route, quelle est la différence entre « conducteurs » et « usagers de la route » ?",
+      "choices": [
+        "Ce sont deux termes strictement identiques",
+        "« Conducteurs » n'inclut pas les piétons, alors que « usagers de la route » inclut les conducteurs et les piétons",
+        "« Usagers de la route » désigne uniquement les piétons",
+        "« Conducteurs » inclut les piétons qui marchent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quand le code parle de « conducteurs », cela n'inclut pas les piétons ; quand il parle d'« usagers de la route », cela concerne à la fois les conducteurs et les piétons.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "8-les-conducteurs-de-véhicules-05",
+      "question": "Une dame traverse un passage pour piétons à pied, en tenant son vélo à la main. Quel est son statut vis-à-vis des conducteurs qui arrivent ?",
+      "choices": [
+        "Elle est une conductrice et doit céder le passage",
+        "Elle est un piéton et les conducteurs doivent lui céder le passage",
+        "Elle n'a aucun statut particulier",
+        "Elle doit rouler à vélo pour avoir la priorité"
+      ],
+      "correctIndex": 1,
+      "explanation": "En marchant à côté de son vélo, elle est un piéton et les conducteurs doivent lui céder le passage ; si elle roulait, elle serait conductrice et devrait elle-même céder le passage.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "8-les-conducteurs-de-véhicules-06",
+      "question": "Quels véhicules peut-on conduire avec un permis de conduire B (MMA max 3,5 tonnes) ?",
+      "choices": [
+        "Uniquement une voiture particulière",
+        "Une voiture, une voiture mixte, un minibus, une camionnette",
+        "Tout camion quelle que soit sa masse",
+        "Uniquement des véhicules sans moteur"
+      ],
+      "correctIndex": 1,
+      "explanation": "Avec un permis B, vous pouvez conduire des véhicules dont la masse maximale autorisée n'excède pas 3,5 tonnes : voiture, voiture mixte, minibus, camionnette.",
+      "severity": "normale",
+      "page": 4
+    }
+  ]
+}

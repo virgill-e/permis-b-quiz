@@ -1,0 +1,128 @@
+{
+  "slug": "7-les-piétons",
+  "sourceFile": "7-les-piétons.pdf",
+  "title": "Les piétons",
+  "questions": [
+    {
+      "id": "7-les-piétons-01",
+      "question": "Selon le code de la route, qu'est-ce qu'un « usager de la route » ?",
+      "choices": [
+        "Toute personne qui utilise la voie publique",
+        "Toute personne ou tout animal présent sur la voie publique",
+        "Uniquement les conducteurs de véhicules",
+        "Tout objet ou véhicule circulant sur la voie publique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le terme usager désigne toute personne qui utilise la voie publique ; un animal ou un objet (vélo, voiture) n'est pas un usager de la route.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "7-les-piétons-02",
+      "question": "En l'absence de trottoir et d'accotement, où le piéton doit-il de préférence marcher ?",
+      "choices": [
+        "Sur la chaussée uniquement",
+        "Sur la piste cyclable, de préférence, ou sur la chaussée",
+        "Au milieu de la chaussée",
+        "Il n'y a aucune règle dans ce cas"
+      ],
+      "correctIndex": 1,
+      "explanation": "S'il n'y a pas de trottoir ni d'accotement, le piéton peut marcher sur la piste cyclable (de préférence), ou sur la chaussée.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "7-les-piétons-03",
+      "question": "Une personne pousse sa motocyclette en panne sur la voie publique. Quel est son statut ?",
+      "choices": [
+        "Elle est considérée comme un piéton",
+        "Elle est considérée comme un conducteur et doit porter un casque",
+        "Elle n'est ni piéton ni conducteur",
+        "Elle doit obligatoirement marcher sur le trottoir sans casque"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contrairement à celui qui pousse un vélo ou un cyclomoteur (considéré comme piéton), celui qui pousse une motocyclette reste un conducteur : il doit avoir un permis, porter un casque et marcher sur la chaussée.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "7-les-piétons-04",
+      "question": "Un passage pour piétons se trouve à moins de 20 mètres de l'endroit où un piéton souhaite traverser. Que doit-il faire ?",
+      "choices": [
+        "Il peut traverser où il veut",
+        "Il est tenu d'emprunter ce passage pour piétons",
+        "Il doit attendre le feu vert uniquement",
+        "Il doit traverser en diagonale pour gagner du temps"
+      ],
+      "correctIndex": 1,
+      "explanation": "S'il y a un passage pour piétons à moins de 20 mètres de distance, les piétons sont tenus de l'emprunter.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "7-les-piétons-05",
+      "question": "Qui a la priorité sur un passage pour piétons ?",
+      "choices": [
+        "Les conducteurs, toujours",
+        "Les piétons qui se trouvent sur le passage ou qui ont l'intention de l'emprunter, toujours",
+        "Cela dépend du type de véhicule",
+        "Le premier arrivé au passage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les piétons qui se trouvent sur le passage pour piétons, ou qui ont l'intention de l'emprunter, ont toujours la priorité.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "7-les-piétons-06",
+      "question": "Un véhicule ralentit ou s'arrête devant un passage pour piétons. Que devez-vous faire ?",
+      "choices": [
+        "Le dépasser par la gauche si la voie est libre",
+        "Le dépasser par la droite si possible",
+        "Ne jamais le dépasser, ni par la gauche ni par la droite",
+        "Klaxonner puis le dépasser"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vous ne pouvez jamais dépasser, ni par la gauche ni par la droite, un véhicule qui ralentit ou s'arrête devant un passage pour piétons ; le faire constitue une infraction grave.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "7-les-piétons-07",
+      "question": "Jusqu'à quelle distance avant un passage pour piétons l'arrêt et le stationnement sont-ils interdits sur la chaussée ?",
+      "choices": ["5 mètres", "20 mètres", "50 mètres", "1 mètre"],
+      "correctIndex": 0,
+      "explanation": "Vous ne pouvez ni vous arrêter ni stationner sur la chaussée jusqu'à 5 mètres avant un passage pour piétons (ou pour cyclistes et cyclomoteurs à deux roues).",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "7-les-piétons-08",
+      "question": "Un piéton traverse la chaussée à un endroit où il n'y a pas de passage pour piétons. Que doit-il faire ?",
+      "choices": [
+        "Il a automatiquement la priorité",
+        "Il doit céder le passage et traverser perpendiculairement à l'axe de la chaussée",
+        "Il peut traverser en diagonale sans céder le passage",
+        "Il doit attendre l'autorisation d'un agent"
+      ],
+      "correctIndex": 1,
+      "explanation": "En l'absence de passage pour piétons, le piéton qui veut traverser doit céder le passage et traverser perpendiculairement à l'axe de la chaussée, sans s'y attarder.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "7-les-piétons-09",
+      "question": "Un véhicule de transport scolaire à l'arrêt allume ses indicateurs de direction. Que devez-vous faire ?",
+      "choices": [
+        "Continuer normalement, cela ne vous concerne pas",
+        "Accélérer pour le dépasser rapidement",
+        "Être particulièrement prudent, réduire votre vitesse et vous arrêter si nécessaire, car des enfants vont monter ou descendre",
+        "Klaxonner pour signaler votre présence"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lorsqu'un véhicule de transport scolaire allume ses indicateurs de direction (des enfants vont monter ou descendre), vous devez être particulièrement prudent, réduire votre vitesse et vous arrêter si nécessaire.",
+      "severity": "normale",
+      "page": 5
+    }
+  ]
+}

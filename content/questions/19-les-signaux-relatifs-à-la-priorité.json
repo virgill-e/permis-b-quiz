@@ -1,0 +1,189 @@
+{
+  "slug": "19-les-signaux-relatifs-à-la-priorité",
+  "sourceFile": "19-les-signaux-relatifs-à-la-priorité.pdf",
+  "title": "Les signaux relatifs à la priorité",
+  "questions": [
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-01",
+      "question": "Que signifie le signal jaune en losange \"voie prioritaire\" ?",
+      "choices": [
+        "Vous avez la priorité aux carrefours suivants",
+        "Vous devez céder le passage aux carrefours suivants",
+        "Vous entrez dans une zone résidentielle",
+        "La vitesse est limitée à 50 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que ce signal jaune indique que vous circulez sur une voie prioritaire et que vous avez donc la priorité aux carrefours suivants.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-02",
+      "question": "Sur une voie prioritaire, que pouvez-vous faire dans les carrefours ?",
+      "choices": [
+        "Dépasser un autre véhicule par la gauche si la manœuvre peut s'effectuer en toute sécurité",
+        "Il est interdit de dépasser",
+        "Vous devez vous arrêter avant de dépasser",
+        "Le dépassement n'est autorisé que par la droite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que sur une voie prioritaire, vous pouvez dépasser un autre véhicule par la gauche dans les carrefours si la manœuvre peut s'effectuer en toute sécurité.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-03",
+      "question": "Que signale la combinaison \"fin de voie prioritaire\" avec le panneau additionnel de distance ?",
+      "choices": [
+        "Qu'à 100 mètres la voie prioritaire se termine et que vous devrez céder le passage",
+        "Que la vitesse maximale change dans 100 mètres",
+        "Qu'un rond-point se trouve à 100 mètres",
+        "Que vous entrez dans une voie prioritaire dans 100 mètres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que cette combinaison indique qu'à 100 mètres la voie prioritaire se termine et que vous devrez céder le passage.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-04",
+      "question": "Un signal \"priorité à la première intersection\" concerne combien de carrefours ?",
+      "choices": [
+        "Un seul carrefour",
+        "Tous les carrefours jusqu'au prochain panneau de fin",
+        "Deux carrefours",
+        "Tous les carrefours de la commune"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que ce signal indique la priorité au prochain carrefour et que cela ne concerne qu'un seul carrefour.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-05",
+      "question": "Sur le panneau additionnel bleu accompagnant un signal de priorité, à quoi sert la ligne étroite ?",
+      "choices": [
+        "Elle indique qui doit céder le passage (triangle sur pointe ou STOP)",
+        "Elle indique la direction de la voie prioritaire",
+        "Elle indique la limite de vitesse",
+        "Elle indique une piste cyclable"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que la ligne étroite indique qui doit céder le passage (triangle sur pointe ou STOP), tandis que la large ligne blanche indique la direction de la voie prioritaire.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-06",
+      "question": "Que signifie le triangle renversé sur sa pointe (\"cédez le passage\") ?",
+      "choices": [
+        "Vous devez céder le passage aux conducteurs (pas aux piétons) de la voie que vous allez emprunter",
+        "Vous devez céder le passage aux piétons uniquement",
+        "Vous devez vous arrêter obligatoirement dans tous les cas",
+        "Vous devez céder le passage uniquement aux cyclistes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que ce signal signifie que vous devez céder le passage aux conducteurs, et non aux piétons, qui circulent sur la voie que vous allez emprunter.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-07",
+      "question": "Comment appelle-t-on communément le marquage au sol en ligne de triangles pointe en bas ?",
+      "choices": [
+        "Les dents de requin",
+        "Les bandes rugueuses",
+        "Le passage clouté",
+        "La ligne d'effet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que cette ligne de triangles pointe en bas, indiquant l'endroit où s'arrêter si nécessaire, est souvent appelée \"les dents de requin\".",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-08",
+      "question": "Qu'indique un panneau additionnel pouvant accompagner un signal \"cédez le passage\" ?",
+      "choices": [
+        "Que des cyclistes et cyclomoteurs peuvent arriver de gauche comme de droite sur une piste cyclable avant la chaussée",
+        "Qu'un radar est présent",
+        "Qu'il y a un rond-point",
+        "Que la chaussée est glissante"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que ce panneau additionnel avertit que les cyclistes et cyclomoteurs peuvent arriver de gauche comme de droite sur une piste cyclable qui se trouve avant la chaussée.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-09",
+      "question": "Que signale un panneau additionnel portant le mot STOP, combiné au signal annonciateur de priorité ?",
+      "choices": [
+        "Qu'à 150 mètres se trouve un carrefour avec un signal STOP où vous devrez marquer l'arrêt et céder le passage",
+        "Que le STOP est situé juste après le panneau",
+        "Qu'il faut seulement ralentir, sans obligation de s'arrêter",
+        "Qu'un rond-point se trouve à 150 mètres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que ce panneau additionnel signifie que 150 mètres plus loin se trouve un carrefour avec un signal STOP où l'on doit marquer l'arrêt et céder le passage.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-10",
+      "question": "Devant un signal STOP, que devez-vous faire même s'il n'y a pas de conducteurs venant des directions prioritaires ?",
+      "choices": [
+        "Vous arrêter obligatoirement à la ligne d'arrêt",
+        "Ralentir seulement",
+        "Vous n'êtes pas tenu de vous arrêter",
+        "Klaxonner avant de continuer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que vous devez absolument vous arrêter au signal STOP, même s'il n'y a pas de conducteurs venant des directions qui ont la priorité.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-11",
+      "question": "Quels sont les trois éléments caractéristiques d'un rond-point selon le texte ?",
+      "choices": [
+        "Un dispositif central matérialisé, des entrées signalées par B1 ou B5, et le signal bleu à 3 flèches",
+        "Un feu tricolore, un passage piéton et une piste cyclable",
+        "Un STOP, un triangle et un panneau de direction",
+        "Une ligne blanche continue, un ralentisseur et un éclairage"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte liste trois éléments : un dispositif central matérialisé, des entrées signalées par des signaux \"cédez le passage\" B1 ou B5, et le signal bleu avec les 3 flèches.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-12",
+      "question": "En vous engageant dans un rond-point, à qui devez-vous céder le passage ?",
+      "choices": [
+        "Aux conducteurs venant de gauche, déjà dans le rond-point ou arrivant des entrées précédentes",
+        "Aux conducteurs venant de droite uniquement",
+        "A personne, vous avez toujours la priorité",
+        "Uniquement aux véhicules prioritaires (police, ambulance)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu'en vous engageant dans un rond-point, vous devez céder le passage aux conducteurs qui viennent de gauche, déjà dans le rond-point ou arrivant des entrées précédentes.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "19-les-signaux-relatifs-à-la-priorité-13",
+      "question": "Sur une place ronde ordinaire ou un îlot directionnel circulaire où aucun panneau ne règle la priorité, quelle règle s'applique ?",
+      "choices": [
+        "La priorité de droite",
+        "La priorité à celui déjà engagé",
+        "La priorité aux transports en commun",
+        "La priorité de gauche"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que sur une place ronde ordinaire ou un îlot directionnel rond sans panneau réglant la priorité, on applique la priorité de droite, car les 3 éléments du rond-point ne sont pas réunis.",
+      "severity": "grave",
+      "page": 6
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "14-le-croisement",
+  "sourceFile": "14-le-croisement.pdf",
+  "title": "Le croisement",
+  "questions": [
+    {
+      "id": "14-le-croisement-01",
+      "question": "Le bord fictif de la chaussée (large ligne blanche peinte sur le côté) délimite un espace réservé à quoi, et peut-il être utilisé pour croiser ?",
+      "choices": ["Il est réservé à l'arrêt et au stationnement, vous ne pouvez pas l'emprunter pour croiser", "Il est réservé aux cyclistes et vous pouvez l'emprunter pour croiser", "Il fait partie normale de la chaussée et peut toujours être utilisé pour croiser", "Il est réservé aux bus uniquement"],
+      "correctIndex": 0,
+      "explanation": "La partie de la voie publique au-delà du bord fictif de la chaussée est réservée à l'arrêt et au stationnement ; elle ne peut pas être utilisée pour croiser d'autres véhicules.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "14-le-croisement-02",
+      "question": "Pouvez-vous emprunter la piste cyclable pour croiser un autre véhicule ?",
+      "choices": ["Oui, si aucun cycliste n'est présent", "Non, la piste cyclable ne fait pas partie de la chaussée", "Oui, toujours autorisé", "Oui, uniquement en agglomération"],
+      "correctIndex": 1,
+      "explanation": "Il est interdit d'emprunter la piste cyclable pour se croiser, car elle ne fait pas partie de la chaussée (contrairement à la bande cyclable suggérée).",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "14-le-croisement-03",
+      "question": "Quelle distance latérale minimale devez-vous laisser en croisant un cycliste ?",
+      "choices": ["1 mètre en agglomération et 1,5 mètre hors agglomération", "0,5 mètre partout", "2 mètres partout", "1,5 mètre en agglomération et 1 mètre hors agglomération"],
+      "correctIndex": 0,
+      "explanation": "Le code prévoit de laisser 1 mètre en agglomération et 1,5 mètre hors agglomération lorsqu'on croise un cycliste.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "14-le-croisement-04",
+      "question": "Normalement, de quel côté devez-vous croiser un tram ?",
+      "choices": ["Par la gauche", "Par la droite", "Indifféremment", "Par l'arrière"],
+      "correctIndex": 1,
+      "explanation": "Les trams doivent normalement être croisés par la droite, sauf exceptions (passage trop étroit, véhicule stationné à droite, obstacle).",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "14-le-croisement-05",
+      "question": "À un carrefour où aucune flèche n'est tracée sur la chaussée, comment s'effectue le croisement ?",
+      "choices": ["Selon les indications d'un agent uniquement", "Par la droite", "Par la gauche", "Le croisement y est interdit"],
+      "correctIndex": 1,
+      "explanation": "À un carrefour sans flèches tracées sur la chaussée, le croisement s'effectue par la droite.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "14-le-croisement-06",
+      "question": "Sur un rétrécissement de chaussée sans aucun signal réglant la priorité, qui doit céder le passage ?",
+      "choices": ["Le conducteur qui rencontre l'obstacle de son côté de la chaussée", "Le conducteur le plus rapide", "Le conducteur qui klaxonne en premier", "Celui qui vient de la gauche, toujours"],
+      "correctIndex": 0,
+      "explanation": "S'il n'y a pas de signal réglant la priorité sur un rétrécissement, le conducteur qui a l'obstacle de son côté doit céder le passage.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "14-le-croisement-07",
+      "question": "Sur un rétrécissement de chaussée, un conducteur voit à sa droite un signal rond rouge et blanc. Que doit-il faire ?",
+      "choices": ["Il bénéficie de la priorité de passage", "Il doit céder le passage", "Il doit klaxonner avant de passer", "Il peut ignorer ce signal si la route est libre"],
+      "correctIndex": 1,
+      "explanation": "Le conducteur qui voit ce signal rond rouge et blanc de priorité doit céder le passage ; l'autre conducteur, avec le signal rectangulaire à flèches, a la priorité.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "14-le-croisement-08",
+      "question": "Sur une chaussée à sens unique, à quelle condition pouvez-vous stationner des deux côtés de la route ?",
+      "choices": ["C'est toujours interdit de stationner des deux côtés", "À condition de laisser un espace libre d'au moins 3 mètres entre les véhicules", "Uniquement le week-end", "À condition d'avoir une remorque"],
+      "correctIndex": 1,
+      "explanation": "Sur une chaussée à sens unique, on peut stationner à droite comme à gauche à condition qu'il reste un espace libre d'au moins 3 mètres pour laisser passer les autres usagers.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "14-le-croisement-09",
+      "question": "Vous voulez tourner à gauche depuis une voie publique à sens unique. Comment devez-vous vous positionner ?",
+      "choices": ["Le plus à droite possible", "Au centre de la chaussée", "Le plus à gauche possible, dans la bande la plus à gauche s'il y en a", "Peu importe la position"],
+      "correctIndex": 2,
+      "explanation": "Pour tourner à gauche depuis une voie à sens unique, il faut se positionner le plus à gauche possible, dans la bande la plus à gauche s'il y a plusieurs bandes.",
+      "severity": "normale",
+      "page": 6
+    }
+  ]
+}

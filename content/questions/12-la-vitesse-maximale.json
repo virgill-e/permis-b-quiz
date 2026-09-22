@@ -1,0 +1,97 @@
+{
+  "slug": "12-la-vitesse-maximale",
+  "sourceFile": "12-la-vitesse-maximale.pdf",
+  "title": "La vitesse maximale",
+  "questions": [
+    {
+      "id": "12-la-vitesse-maximale-01",
+      "question": "Dans une zone piétonne, pour les conducteurs qui y ont exceptionnellement accès, quelle est la vitesse maximale autorisée ?",
+      "choices": ["15 km/h", "25 km/h", "30 km/h", "50 km/h"],
+      "correctIndex": 1,
+      "explanation": "Sur les voies où la circulation des véhicules est exceptionnellement autorisée (comme une zone piétonne), la vitesse maximale est de 25 km/h.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "12-la-vitesse-maximale-02",
+      "question": "Conduire trop lentement sans raison est-il une infraction ?",
+      "choices": ["Non, ce n'est jamais sanctionné", "Oui, conduire trop lentement est également une infraction", "Seulement sur autoroute", "Seulement si un agent le constate au radar"],
+      "correctIndex": 1,
+      "explanation": "Le texte précise que conduire trop lentement est également une infraction, tout comme freiner soudainement sans raison.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "12-la-vitesse-maximale-03",
+      "question": "Les courses de vitesse sur la voie publique sont-elles autorisées ?",
+      "choices": ["Oui, toujours", "Oui, mais uniquement la nuit", "Non, sauf autorisation spéciale de l'autorité légalement compétente ; c'est une infraction du quatrième degré", "Oui, si la route est fermée à la circulation par les organisateurs eux-mêmes"],
+      "correctIndex": 2,
+      "explanation": "Sauf autorisation spéciale de l'autorité légalement compétente, toutes les courses de vitesse sont interdites sur la voie publique ; il s'agit d'une infraction du quatrième degré.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "12-la-vitesse-maximale-04",
+      "question": "Sur une autoroute ou une route ordinaire, à partir de quel dépassement de la vitesse maximale autorisée risquez-vous un retrait immédiat de votre permis de conduire ?",
+      "choices": ["Plus de 10 km/h", "Plus de 20 km/h", "Plus de 30 km/h", "Plus de 40 km/h"],
+      "correctIndex": 2,
+      "explanation": "Dépasser de plus de 30 km/h la vitesse maximale autorisée sur autoroute, route pour automobiles ou route ordinaire expose au retrait immédiat du permis.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "12-la-vitesse-maximale-05",
+      "question": "En agglomération, en zone 30 ou en zone résidentielle, à partir de quel excès de vitesse risquez-vous un retrait immédiat de votre permis ?",
+      "choices": ["Plus de 10 km/h", "Plus de 20 km/h", "Plus de 30 km/h", "Plus de 40 km/h"],
+      "correctIndex": 1,
+      "explanation": "En agglomération, en zone 30 ou en zone résidentielle, dépasser de plus de 20 km/h la vitesse maximale expose également à un retrait immédiat du permis.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "12-la-vitesse-maximale-06",
+      "question": "Qui décide du retrait immédiat du permis de conduire, et qui l'exécute ?",
+      "choices": ["Un juge décide, la police exécute", "Le Procureur du Roi (ou un Officier de Police Judiciaire) décide, la police exécute", "La police décide et exécute seule sans autorité judiciaire", "L'assureur décide, la police exécute"],
+      "correctIndex": 1,
+      "explanation": "La décision de retrait immédiat revient au Procureur du Roi, ou pour certaines infractions à un Officier de Police Judiciaire ; l'exécution revient à la Police.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "12-la-vitesse-maximale-07",
+      "question": "Sur une autoroute ou une route ordinaire, à partir de quel excès de vitesse risquez-vous la déchéance du droit de conduire ?",
+      "choices": ["Plus de 20 km/h", "Plus de 30 km/h", "Plus de 40 km/h", "Plus de 50 km/h"],
+      "correctIndex": 2,
+      "explanation": "Dépasser de plus de 40 km/h la vitesse maximale autorisée sur autoroute, route pour automobiles ou route ordinaire expose à la déchéance du droit de conduire.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "12-la-vitesse-maximale-08",
+      "question": "En agglomération, en zone 30 ou en zone résidentielle, à partir de quel excès de vitesse risquez-vous la déchéance du droit de conduire ?",
+      "choices": ["Plus de 20 km/h", "Plus de 30 km/h", "Plus de 40 km/h", "Plus de 50 km/h"],
+      "correctIndex": 1,
+      "explanation": "En agglomération, en zone 30 ou en zone résidentielle, dépasser de plus de 30 km/h la vitesse maximale expose à la déchéance du droit de conduire.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "12-la-vitesse-maximale-09",
+      "question": "Qui prononce la déchéance du droit de conduire un véhicule à moteur ?",
+      "choices": ["La police", "Le Procureur du Roi", "Un juge, lors du jugement de l'affaire", "L'administration communale"],
+      "correctIndex": 2,
+      "explanation": "Contrairement au retrait immédiat décidé par la police/le Procureur du Roi, la déchéance du droit de conduire est prononcée par un juge lors du jugement de l'affaire.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "12-la-vitesse-maximale-10",
+      "question": "Quelle est la durée minimale et maximale d'une déchéance du droit de conduire prononcée par un juge ?",
+      "choices": ["Minimum 1 jour, maximum 1 an", "Minimum 8 jours, maximum 5 ans", "Minimum 1 mois, maximum 10 ans", "Minimum 8 jours, maximum 1 an"],
+      "correctIndex": 1,
+      "explanation": "Selon le jugement, la déchéance du droit de conduire peut aller d'un minimum de 8 jours à un maximum de 5 ans.",
+      "severity": "grave",
+      "page": 5
+    }
+  ]
+}

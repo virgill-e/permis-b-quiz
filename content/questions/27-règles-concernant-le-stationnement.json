@@ -1,0 +1,147 @@
+{
+  "slug": "27-règles-concernant-le-stationnement",
+  "sourceFile": "27-règles-concernant-le-stationnement.pdf",
+  "title": "D'autres règles concernant le stationnement",
+  "questions": [
+    {
+      "id": "27-regles-concernant-le-stationnement-01",
+      "question": "Dans une zone de stationnement à durée limitée (\"zone bleue\"), quand l'utilisation du disque de stationnement est-elle obligatoire ?",
+      "choices": [
+        "Les jours ouvrables entre 9h et 18h, sauf indication contraire par un panneau",
+        "Tous les jours, 24h/24",
+        "Uniquement le week-end",
+        "Uniquement entre 18h et 9h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans une zone bleue, il est obligatoire d'utiliser le disque de stationnement les jours ouvrables entre 9h et 18h, sauf si un panneau mentionne d'autres modalités.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "27-regles-concernant-le-stationnement-02",
+      "question": "Sur le disque de stationnement, où devez-vous placer la flèche ?",
+      "choices": [
+        "Sur le trait qui suit l'heure d'arrivée",
+        "Sur l'heure exacte de départ prévu",
+        "Sur l'heure de midi, par convention",
+        "Peu importe, la position n'a pas d'importance"
+      ],
+      "correctIndex": 0,
+      "explanation": "La flèche du disque doit être placée sur le trait qui suit l'heure d'arrivée.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "27-regles-concernant-le-stationnement-03",
+      "question": "En zone bleue, sauf indication contraire, combien de temps pouvez-vous stationner à partir de l'heure indiquée par la flèche du disque ?",
+      "choices": [
+        "Deux heures",
+        "Une heure",
+        "Trente minutes",
+        "Quatre heures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous pouvez stationner deux heures à compter de l'heure qu'indique la flèche du disque, sauf si un panneau additionnel précise une autre durée.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "27-regles-concernant-le-stationnement-04",
+      "question": "Si un horodateur ou un parcomètre est en panne, que devez-vous faire ?",
+      "choices": [
+        "Utiliser votre disque de stationnement",
+        "Vous pouvez stationner gratuitement sans disque",
+        "Vous devez immédiatement quitter les lieux",
+        "Le stationnement devient interdit à cet endroit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si l'appareil (horodateur ou parcomètre) est en panne, vous devez utiliser votre disque de stationnement.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "27-regles-concernant-le-stationnement-05",
+      "question": "Un signal de stationnement réservé mentionnant une zone \"3,5 tonnes\" signifie que le stationnement y est réservé...",
+      "choices": [
+        "aux véhicules dont la masse maximale autorisée n'excède pas 3,5 tonnes",
+        "aux véhicules pesant exactement 3,5 tonnes",
+        "à tous les véhicules sans exception",
+        "uniquement aux camions de plus de 3,5 tonnes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal indique une zone où le stationnement est réservé aux véhicules d'une Masse Maximale Autorisée n'excédant pas 3,5 tonnes.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "27-regles-concernant-le-stationnement-06",
+      "question": "Un signal \"stationnement autorisé\" (P) surmonté du pictogramme d'une voiture autorise notamment le stationnement des voitures, voitures mixtes, minibus et motocyclettes, mais pas...",
+      "choices": [
+        "des camionnettes",
+        "des motocyclettes",
+        "des voitures mixtes",
+        "des minibus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que les véhicules autorisés à stationner sont les voitures, voitures mixtes, minibus et motocyclettes, mais pas les camionnettes, alors que celles-ci peuvent être conduites avec le permis B.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "27-regles-concernant-le-stationnement-07",
+      "question": "Un signal indiquant que le stationnement est obligatoire sur l'accotement signifie que...",
+      "choices": [
+        "il est interdit de stationner sur la chaussée",
+        "il est interdit de stationner sur l'accotement",
+        "le stationnement est libre partout aux alentours",
+        "seul l'arrêt est autorisé sur l'accotement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal signifie que le stationnement est obligatoire sur l'accotement ou sur le trottoir ; il est donc interdit de stationner sur la chaussée.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "27-regles-concernant-le-stationnement-08",
+      "question": "Avant de descendre de votre véhicule après vous être garé, que devez-vous faire concernant le frein à main ?",
+      "choices": [
+        "Le tirer (le serrer), sauf en boîte automatique en position Parking",
+        "Le laisser desserré pour faciliter le redémarrage",
+        "Ce n'est nécessaire qu'en côte",
+        "Ce n'est jamais nécessaire avant de descendre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Avant de descendre, il faut tirer le frein à main ; oublier de le faire pendant l'examen pratique entraîne un échec, sauf en boîte automatique en position Parking.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "27-regles-concernant-le-stationnement-09",
+      "question": "Combien de temps maximum un véhicule en panne peut-il rester sur la voie publique ?",
+      "choices": [
+        "24 heures",
+        "48 heures",
+        "12 heures",
+        "72 heures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une voiture en panne ne peut pas rester sur la voie publique plus de 24 heures.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "27-regles-concernant-le-stationnement-10",
+      "question": "Combien de temps maximum un véhicule publicitaire peut-il rester en stationnement sur la voie publique ?",
+      "choices": [
+        "Trois heures",
+        "Une heure",
+        "Douze heures",
+        "Vingt-quatre heures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un véhicule publicitaire peut rester au maximum trois heures en stationnement sur la voie publique.",
+      "severity": "normale",
+      "page": 6
+    }
+  ]
+}

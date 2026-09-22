@@ -1,0 +1,133 @@
+{
+  "slug": "11-les-feux-et-le-klaxon",
+  "sourceFile": "11-les-feux-et-le-klaxon.pdf",
+  "title": "Les feux et le klaxon d'une voiture",
+  "questions": [
+    {
+      "id": "11-les-feux-et-le-klaxon-01",
+      "question": "Combien de types de feux principaux un conducteur utilise-t-il sur une voiture ?",
+      "choices": ["Deux", "Trois", "Quatre", "Cinq"],
+      "correctIndex": 2,
+      "explanation": "Le conducteur utilise quatre types de feux : feux de croisement, feux de route, feux antibrouillard avant et feux de position.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-02",
+      "question": "Les feux antibrouillard avant sont-ils obligatoires sur une voiture ?",
+      "choices": ["Oui, sur tous les véhicules", "Non, ils ne sont jamais obligatoires", "Oui, mais uniquement en hiver", "Oui, uniquement hors agglomération"],
+      "correctIndex": 1,
+      "explanation": "Les feux antibrouillard avant ne sont pas présents sur toutes les voitures et ne sont donc jamais obligatoires.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-03",
+      "question": "Pendant la journée, quand devez-vous allumer vos feux de croisement ou de route ?",
+      "choices": ["Uniquement s'il pleut fort", "Jamais en journée", "Dès que la visibilité est inférieure à 200 mètres (pluie, brouillard, neige, fumée...)", "Uniquement sur autoroute"],
+      "correctIndex": 2,
+      "explanation": "En journée, les feux doivent être allumés dès que la visibilité descend sous 200 mètres, notamment en cas de pluie, brouillard, neige ou fumée. Ne pas le faire constitue une infraction grave.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-04",
+      "question": "Dans lequel de ces cas est-il interdit d'allumer les feux de route ?",
+      "choices": ["Quand vous suivez un véhicule à moins de 50 mètres sans intention immédiate de le dépasser", "Quand vous roulez sur autoroute la nuit", "Quand il n'y a pas d'éclairage public", "Quand vous roulez en dehors d'une agglomération"],
+      "correctIndex": 0,
+      "explanation": "Les feux de route ne peuvent pas être allumés si vous suivez un véhicule à moins de 50 mètres sans avoir l'intention immédiate de le dépasser, pour ne pas éblouir ce conducteur.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-05",
+      "question": "Pouvez-vous allumer vos feux de route lorsque vous êtes en train de dépasser une voiture ?",
+      "choices": ["Oui, cela est permis pendant le dépassement", "Non, c'est toujours interdit", "Seulement de jour", "Seulement sur autoroute"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que lorsque vous vous apprêtez à dépasser une voiture ou que vous êtes en train de la dépasser, les feux de route peuvent être allumés.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-06",
+      "question": "Dans quels cas pouvez-vous utiliser les feux antibrouillard avant ?",
+      "choices": ["Brouillard, chute de neige ou forte pluie", "Uniquement de nuit sans autre condition", "Vent fort", "Circulation dense en agglomération"],
+      "correctIndex": 0,
+      "explanation": "Les feux antibrouillard avant ne peuvent être utilisés que dans trois cas : brouillard, chute de neige ou forte pluie.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-07",
+      "question": "Quand devez-vous obligatoirement allumer le feu antibrouillard arrière en cas de brouillard ?",
+      "choices": ["Toujours dès qu'il y a du brouillard, peu importe la visibilité", "Quand la visibilité est inférieure à environ 100 mètres", "Quand la visibilité est inférieure à 200 mètres", "Uniquement la nuit"],
+      "correctIndex": 1,
+      "explanation": "Le feu antibrouillard arrière doit être allumé obligatoirement en cas de brouillard si la visibilité est inférieure à environ 100 mètres.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-08",
+      "question": "Que devez-vous faire si vous entrez soudainement dans un banc de brouillard ?",
+      "choices": ["Freiner brusquement", "Réduire progressivement votre vitesse", "Accélérer pour en sortir rapidement", "Allumer immédiatement vos feux de détresse"],
+      "correctIndex": 1,
+      "explanation": "Si vous entrez soudainement dans un banc de brouillard, vous devez réduire progressivement votre vitesse.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-09",
+      "question": "Vous vous arrêtez sur la voie publique entre la tombée et le lever du jour. Quels feux devez-vous allumer ?",
+      "choices": ["Uniquement les feux de route", "À l'avant un ou deux feux de position blancs ou ambrés, à l'arrière un ou deux feux rouges", "Aucun feu n'est requis à l'arrêt", "Uniquement les feux antibrouillard"],
+      "correctIndex": 1,
+      "explanation": "En stationnant ou en s'arrêtant entre la tombée et le lever du jour (ou par visibilité réduite), il faut allumer à l'avant des feux de position et à l'arrière des feux rouges.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-10",
+      "question": "En agglomération, à quelle condition pouvez-vous remplacer les feux de position et les feux rouges arrière par un seul feu de stationnement ?",
+      "choices": ["Dans tous les cas en agglomération", "Si le véhicule est rangé parallèlement à l'axe de la chaussée et qu'aucune remorque n'y est attelée", "Uniquement si le véhicule a une remorque", "Uniquement hors agglomération"],
+      "correctIndex": 1,
+      "explanation": "En agglomération, le feu de stationnement unique n'est autorisé que si le véhicule est rangé parallèlement à l'axe de la chaussée et sans remorque attelée.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-11",
+      "question": "Dans lequel de ces cas pouvez-vous allumer vos quatre feux indicateurs de direction en même temps ?",
+      "choices": ["Pour signaler que vous êtes mal garé", "Lorsque votre voiture est en panne", "Pour indiquer votre intention de reculer pour stationner", "Pour indiquer que vous roulez lentement par choix"],
+      "correctIndex": 1,
+      "explanation": "Les quatre feux de détresse peuvent être allumés simultanément en cas de panne, pour signaler un risque d'accident imminent, ou par un autobus scolaire lors de l'embarquement/débarquement d'enfants. Les utiliser pour un mauvais stationnement est une infraction.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-12",
+      "question": "Ce signal routier indique qu'un tunnel mesure au moins quelle longueur ?",
+      "choices": ["300 mètres", "500 mètres", "1000 mètres", "200 mètres"],
+      "correctIndex": 1,
+      "explanation": "Le signal indiquant un tunnel signale que celui-ci mesure au moins 500 mètres.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-13",
+      "question": "En cas de fumée épaisse ou d'incendie dans un tunnel, que devez-vous faire ?",
+      "choices": ["Vous immobiliser sur la bande de droite, laisser la clé sur le contact et quitter par une sortie de secours à contresens de la circulation", "Continuer à rouler le plus vite possible jusqu'à la sortie du tunnel", "Vous arrêter au milieu de la chaussée et attendre les secours", "Faire demi-tour dans le tunnel"],
+      "correctIndex": 0,
+      "explanation": "Il faut s'immobiliser sur la bande de droite, laisser la clé sur le contact et quitter le tunnel par une sortie de secours en se dirigeant à contresens de la circulation, car les ventilateurs poussent les fumées dans le sens de la circulation.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "11-les-feux-et-le-klaxon-14",
+      "question": "En dehors d'une agglomération, dans quel cas pouvez-vous utiliser le klaxon en journée ?",
+      "choices": ["Pour saluer une connaissance", "S'il est nécessaire d'avertir un conducteur que l'on s'apprête à le dépasser", "Pour faire avancer un véhicule devant vous", "Uniquement en cas d'embouteillage"],
+      "correctIndex": 1,
+      "explanation": "En dehors des agglomérations, le klaxon peut être utilisé pour avertir un conducteur qu'on s'apprête à le dépasser.",
+      "severity": "normale",
+      "page": 8
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "26-stationnement-interdit",
+  "sourceFile": "26-stationnement-interdit.pdf",
+  "title": "Stationnement interdit",
+  "questions": [
+    {
+      "id": "26-stationnement-interdit-01",
+      "question": "Si l'espace disponible ne permet pas de laisser un mètre libre à l'avant et à l'arrière de votre véhicule, que pouvez-vous faire ?",
+      "choices": [
+        "Vous ne pouvez pas y stationner, mais vous pouvez vous y arrêter",
+        "Vous ne pouvez ni vous arrêter ni stationner",
+        "Vous pouvez stationner sans restriction",
+        "Vous pouvez stationner uniquement la nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "S'il n'y a pas assez de place pour laisser un mètre d'espace libre à l'avant et à l'arrière de votre voiture, vous ne pouvez pas stationner, mais vous pouvez vous arrêter.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "26-stationnement-interdit-02",
+      "question": "À quelle distance d'un panneau d'arrêt de tram, autobus ou trolleybus le stationnement est-il interdit (l'arrêt restant autorisé) ?",
+      "choices": [
+        "À moins de 15 mètres de chaque côté du panneau",
+        "À moins de 5 mètres de chaque côté",
+        "À moins de 30 mètres de chaque côté",
+        "À moins de 50 mètres de chaque côté"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous ne pouvez pas stationner à moins de 15 mètres de chaque côté d'un panneau qui indique un arrêt de tram, autobus ou trolleybus, mais vous pouvez vous y arrêter.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "26-stationnement-interdit-03",
+      "question": "Devant l'accès carrossable d'une propriété, pouvez-vous stationner ?",
+      "choices": [
+        "Non, sauf si l'occupant y a reproduit visiblement sa plaque d'immatriculation",
+        "Oui, sans aucune condition",
+        "Non, sous aucun prétexte, même pour l'occupant",
+        "Oui, uniquement le week-end"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous ne pouvez pas stationner devant l'accès carrossable d'une propriété, sauf si l'occupant a reproduit visiblement sa plaque d'immatriculation sur l'accès.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "26-stationnement-interdit-04",
+      "question": "Là où un obstacle contraint les cyclistes ou les piétons à emprunter la chaussée, pouvez-vous stationner ?",
+      "choices": [
+        "Non, mais vous pouvez vous y arrêter",
+        "Oui, sans restriction",
+        "Non, ni l'arrêt ni le stationnement n'y sont autorisés",
+        "Oui, si c'est pour moins de 5 minutes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Là où il y a un obstacle qui contraint les cyclistes ou les piétons à emprunter la chaussée, vous ne pouvez pas stationner mais vous pouvez vous arrêter.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "26-stationnement-interdit-05",
+      "question": "Là où la chaussée est trop étroite, quelle largeur minimale de passage devez-vous laisser libre (le stationnement y étant interdit, l'arrêt restant permis) ?",
+      "choices": [
+        "Au moins 3 mètres",
+        "Au moins 1 mètre",
+        "Au moins 5 mètres",
+        "Au moins 2 mètres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Là où la chaussée est trop étroite, vous devez laisser au moins 3 mètres de passage libre ; vous ne pouvez pas y stationner mais vous pouvez vous y arrêter.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "26-stationnement-interdit-06",
+      "question": "Hors agglomération, pouvez-vous stationner sur la chaussée d'une voie prioritaire ?",
+      "choices": [
+        "Non, mais vous pouvez vous y arrêter ; le stationnement est permis sur l'accotement",
+        "Oui, sans restriction",
+        "Non, ni l'arrêt ni le stationnement n'y sont autorisés",
+        "Oui, uniquement de nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hors agglomération, vous ne pouvez pas stationner sur la chaussée d'une voie prioritaire, mais vous pouvez vous y arrêter ; le stationnement est permis sur l'accotement stabilisé ou non.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "26-stationnement-interdit-07",
+      "question": "En agglomération, l'arrêt et le stationnement sur la chaussée d'une route prioritaire sont-ils permis ?",
+      "choices": [
+        "Oui, l'arrêt et le stationnement y sont permis",
+        "Non, jamais",
+        "Seulement l'arrêt, jamais le stationnement",
+        "Seulement pour les riverains"
+      ],
+      "correctIndex": 0,
+      "explanation": "En agglomération, il est permis de s'arrêter et de stationner sur la chaussée d'une route prioritaire.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "26-stationnement-interdit-08",
+      "question": "Sur une chaussée divisée en bandes de circulation, pouvez-vous stationner (sauf indication contraire) ?",
+      "choices": [
+        "Non, mais vous pouvez vous y arrêter ; le stationnement reste possible sur la bande de stationnement ou l'accotement",
+        "Oui, sans restriction",
+        "Non, ni l'arrêt ni le stationnement n'y sont permis",
+        "Oui, uniquement sur la bande de gauche"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous ne pouvez pas stationner sur une chaussée divisée en bandes de circulation (sauf indication contraire), mais vous pouvez vous y arrêter ; le stationnement reste autorisé dans la bande de stationnement ou sur l'accotement.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "26-stationnement-interdit-09",
+      "question": "Hors agglomération, sur une voie publique à deux chaussées à sens unique, pouvez-vous stationner du côté gauche ?",
+      "choices": [
+        "Non, sauf indication contraire ; en agglomération c'est permis",
+        "Oui, toujours, hors et en agglomération",
+        "Non, dans aucun cas, même en agglomération",
+        "Oui, uniquement de nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hors agglomération, vous ne pouvez pas stationner du côté gauche d'une voie publique à deux chaussées ; en agglomération, vous pouvez stationner à gauche de la chaussée ou sur l'accotement de plain-pied.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "26-stationnement-interdit-10",
+      "question": "Que signifie une ligne jaune discontinue peinte au bord de la chaussée ?",
+      "choices": [
+        "Le stationnement y est interdit, mais l'arrêt reste autorisé",
+        "L'arrêt et le stationnement y sont tous deux interdits",
+        "Elle n'interdit rien",
+        "Elle autorise le stationnement uniquement de nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous ne pouvez pas stationner le long d'une ligne jaune discontinue au bord de la chaussée (l'arrêt reste permis) ; si la ligne est d'une autre couleur ou jaune continue, elle n'interdit rien.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "26-stationnement-interdit-11",
+      "question": "Un signal circulaire barré d'une seule ligne diagonale (\"stationnement interdit\") s'applique...",
+      "choices": [
+        "du côté où se trouve le signal, sur la chaussée et l'accotement, depuis le signal jusqu'au carrefour suivant",
+        "uniquement à l'endroit exact du panneau",
+        "dans toute l'agglomération",
+        "uniquement sur la chaussée, jamais sur l'accotement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce signal signifie que, du côté où il se trouve, il est interdit de stationner sur la chaussée et sur l'accotement, depuis le signal jusqu'au carrefour suivant.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "26-stationnement-interdit-12",
+      "question": "Sous un signal d'interdiction d'arrêt ou de stationnement, une flèche vers le bas signifie que...",
+      "choices": [
+        "l'interdiction est applicable jusqu'au signal",
+        "l'interdiction commence après le signal",
+        "l'interdiction s'applique de part et d'autre du signal",
+        "l'interdiction ne s'applique qu'aux poids lourds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une flèche vers le bas sous un signal d'interdiction d'arrêt ou de stationnement signifie que l'interdiction est applicable jusqu'au signal.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "26-stationnement-interdit-13",
+      "question": "Un signal de stationnement interdit portant une indication chiffrée (par exemple une distance) s'applique...",
+      "choices": [
+        "uniquement à la chaussée",
+        "à la chaussée et à l'accotement",
+        "uniquement à l'accotement",
+        "à toute l'agglomération"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un signal sans indication chiffrée s'applique à la chaussée et à l'accotement ; un signal avec une indication chiffrée s'applique uniquement à la chaussée.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "26-stationnement-interdit-14",
+      "question": "Dans le cadre du stationnement alterné semi-mensuel, à quelle heure devez-vous déplacer votre véhicule le dernier jour de la période ?",
+      "choices": [
+        "Entre 19h30 et 20h",
+        "Entre 22h et 23h",
+        "Avant midi",
+        "Entre 6h et 7h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous devez déplacer votre voiture le dernier jour de la période, entre 19h30 et 20h.",
+      "severity": "normale",
+      "page": 9
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "15-dépasser-par-la-gauche",
+  "sourceFile": "15-dépasser-par-la-gauche.pdf",
+  "title": "Dépasser par la gauche",
+  "questions": [
+    {
+      "id": "15-dépasser-par-la-gauche-01",
+      "question": "Un véhicule est à l'arrêt sur la chaussée. Vous le doublez. S'agit-il légalement d'un dépassement ?",
+      "choices": ["Oui, c'est toujours un dépassement", "Non, on parle de dépassement uniquement quand le véhicule devant est en mouvement ; ici vous le contournez", "Oui, uniquement si vous roulez vite", "Non, car un véhicule à l'arrêt n'existe pas légalement"],
+      "correctIndex": 1,
+      "explanation": "Le code de la route ne parle de dépassement que lorsque le véhicule devant vous est en mouvement. S'il est à l'arrêt ou en stationnement, vous le contournez.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-02",
+      "question": "Pouvez-vous dépasser plusieurs véhicules à la fois en une seule manœuvre ?",
+      "choices": ["Oui, sans limite", "Non, vous ne pouvez pas dépasser plus d'un véhicule à la fois et devez vous rabattre à droite après chaque dépassement (sauf sens unique ou 3 bandes)", "Oui, jusqu'à trois véhicules", "Oui, uniquement sur autoroute"],
+      "correctIndex": 1,
+      "explanation": "Le texte précise qu'on ne peut pas dépasser plus d'un véhicule à la fois et qu'il faut se rabattre à droite après chaque dépassement, sauf en sens unique ou sur chaussée à 3 bandes dans le sens suivi.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-03",
+      "question": "Avant de dépasser, quelle vérification devez-vous faire concernant le sens inverse ?",
+      "choices": ["Vérifier qu'aucun véhicule n'arrive en sens inverse avant de dépasser", "Ce n'est pas nécessaire si vous roulez vite", "Seulement de nuit", "Seulement sur route à une bande"],
+      "correctIndex": 0,
+      "explanation": "Une des questions à se poser avant de dépasser est de vérifier qu'aucun véhicule n'arrive en sens inverse.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-04",
+      "question": "Quel est l'ordre correct des actions pour dépasser un véhicule par la gauche ?",
+      "choices": ["Allumer le clignotant gauche après contrôle, dépasser, allumer le clignotant droit, revenir à droite après contrôle", "Dépasser directement sans clignotant, puis se rabattre", "Allumer les deux clignotants en même temps pendant tout le dépassement", "Klaxonner puis dépasser sans clignotant"],
+      "correctIndex": 0,
+      "explanation": "Il faut allumer le clignotant gauche après contrôle dans le rétroviseur et l'angle mort, dépasser, puis allumer le clignotant droit et revenir à droite après un nouveau contrôle.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-05",
+      "question": "Hors agglomération, quelle distance latérale minimale devez-vous laisser en dépassant un cycliste sur la chaussée ?",
+      "choices": ["1 mètre", "1,5 mètre", "2 mètres", "0,5 mètre"],
+      "correctIndex": 1,
+      "explanation": "Hors agglomération, il faut laisser au moins 1,5 mètre de distance latérale en dépassant un piéton, cycliste ou cyclomotoriste.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-06",
+      "question": "En agglomération, quelle distance latérale minimale devez-vous laisser en dépassant un cycliste ?",
+      "choices": ["1,5 mètre", "1 mètre", "2 mètres", "Aucune distance n'est requise"],
+      "correctIndex": 1,
+      "explanation": "En agglomération, la distance latérale minimale pour dépasser un cycliste est de 1 mètre.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-07",
+      "question": "Dans lequel de ces cas devez-vous dépasser un véhicule par la droite ?",
+      "choices": ["Quand le véhicule devant vous a activé son clignotant gauche et s'est déjà déporté à gauche pour tourner", "Quand vous êtes pressé", "Toujours en agglomération", "Jamais, dépasser par la droite est toujours interdit"],
+      "correctIndex": 0,
+      "explanation": "Lorsque le véhicule devant vous a activé son clignotant gauche et s'est déjà déporté à gauche pour tourner, vous devez le dépasser par la droite.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-08",
+      "question": "Normalement, de quel côté devez-vous dépasser un tram ?",
+      "choices": ["Par la gauche", "Par la droite", "Par n'importe quel côté", "Il est interdit de dépasser un tram"],
+      "correctIndex": 1,
+      "explanation": "Les trams doivent normalement être dépassés par la droite, sauf exceptions (passage trop étroit, travaux, véhicule stationné à droite).",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-09",
+      "question": "Dans un embouteillage, une file de véhicules roule légèrement plus vite qu'une autre file à côté. Est-ce considéré comme un dépassement ?",
+      "choices": ["Oui, c'est un dépassement classique", "Non, ce n'est pas considéré comme un dépassement par le code de la route", "Oui, mais uniquement de nuit", "Non, sauf sur autoroute"],
+      "correctIndex": 1,
+      "explanation": "Le code de la route ne considère pas comme un dépassement le fait qu'une file de véhicules circule légèrement plus vite qu'une autre en cas d'embouteillage.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-10",
+      "question": "Hors agglomération, dans lequel de ces cas la circulation en plusieurs files est-elle possible (densité suffisante) ?",
+      "choices": ["Sur une chaussée à sens unique", "Uniquement sur une chaussée à une seule bande", "Jamais hors agglomération", "Uniquement de nuit"],
+      "correctIndex": 0,
+      "explanation": "Parmi les trois cas prévus, la circulation en plusieurs files (choix de la file) est possible sur les chaussées à sens unique, si la densité de circulation le justifie.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-11",
+      "question": "En cas d'embouteillage, à quelle vitesse maximale une motocyclette peut-elle circuler entre les files de voitures ?",
+      "choices": ["30 km/h", "50 km/h", "70 km/h", "Aucune limite spécifique"],
+      "correctIndex": 1,
+      "explanation": "Les motocyclettes circulant entre les files en cas d'embouteillage ne peuvent pas dépasser 50 km/h.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "15-dépasser-par-la-gauche-12",
+      "question": "En cas d'embouteillage, de combien maximum une moto peut-elle rouler plus vite que les véhicules qu'elle dépasse entre les files ?",
+      "choices": ["10 km/h", "20 km/h", "30 km/h", "Il n'y a pas de limite"],
+      "correctIndex": 1,
+      "explanation": "Les motocyclettes ne peuvent pas rouler à une vitesse supérieure de plus de 20 km/h par rapport aux véhicules qu'elles dépassent.",
+      "severity": "normale",
+      "page": 7
+    }
+  ]
+}

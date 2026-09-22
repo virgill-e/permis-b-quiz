@@ -1,0 +1,212 @@
+{
+  "slug": "18-les-signaux-lumineux",
+  "sourceFile": "18-les-signaux-lumineux.pdf",
+  "title": "Les signaux lumineux",
+  "questions": [
+    {
+      "id": "18-les-signaux-lumineux-01",
+      "question": "Le feu est rouge et il n'y a pas de ligne d'arrêt blanche. Où devez-vous vous arrêter ?",
+      "choices": ["Devant le signal lumineux", "Au milieu du carrefour", "Vous n'êtes pas obligé de vous arrêter", "Dix mètres avant le carrefour"],
+      "correctIndex": 0,
+      "explanation": "En l'absence de ligne d'arrêt, il faut s'arrêter devant le signal lumineux.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "18-les-signaux-lumineux-02",
+      "question": "Un signal lumineux circulaire se trouve uniquement à votre gauche. Que devez-vous faire ?",
+      "choices": [
+        "Vous ne devez pas en tenir compte",
+        "Vous devez vous y arrêter comme s'il était à droite",
+        "Il ne s'applique qu'aux cyclistes",
+        "Il remplace uniquement le panneau STOP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que si le signal lumineux se trouve uniquement à gauche, vous ne devez pas en tenir compte (mais vous devez alors respecter les autres règles de priorité, comme un cédez le passage éventuel).",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "18-les-signaux-lumineux-03",
+      "question": "Dans un carrefour avec une zone avancée pour cyclistes, devant quelle ligne les voitures doivent-elles s'arrêter lorsque le feu est orange ou rouge ?",
+      "choices": [
+        "Devant la première ligne d'arrêt",
+        "Devant la deuxième ligne d'arrêt, la plus proche du carrefour",
+        "N'importe où avant le carrefour",
+        "Au niveau des cyclistes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les voitures s'arrêtent devant la première ligne d'arrêt ; les cyclistes et cyclomoteurs à deux roues s'arrêtent devant la deuxième ligne, plus proche du carrefour.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "18-les-signaux-lumineux-04",
+      "question": "Le feu passe au vert mais le carrefour est encombré et vous ne pourrez pas le dégager. Que devez-vous faire ?",
+      "choices": [
+        "Attendre, malgré le feu vert",
+        "Vous engager quand même car le feu est vert",
+        "Klaxonner pour faire avancer les autres",
+        "Faire demi-tour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Même si le feu est vert, le conducteur doit attendre si le carrefour est encombré et qu'il ne pourra pas le dégager.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "18-les-signaux-lumineux-05",
+      "question": "Quand pouvez-vous franchir un feu jaune-orange fixe ?",
+      "choices": [
+        "Seulement si vous ne pouvez plus vous arrêter en toute sécurité",
+        "Toujours, si la voie est libre",
+        "Jamais, même en cas d'urgence",
+        "Seulement les cyclistes le peuvent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que vous ne pouvez franchir un feu jaune-orange que si vous ne pouvez plus vous arrêter en toute sécurité devant la ligne d'arrêt.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "18-les-signaux-lumineux-06",
+      "question": "Un feu jaune-orange clignote au milieu, à la place de l'orange fixe, et il n'y a pas de signal de priorité. Quelle règle s'applique ?",
+      "choices": [
+        "La priorité de droite",
+        "La priorité au véhicule le plus rapide",
+        "L'arrêt obligatoire pour tous",
+        "Aucune règle ne s'applique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le feu jaune-orange clignotant signifie que les feux sont en panne : s'il n'y a pas de signal de priorité, la règle de priorité de droite s'applique (sinon, c'est le signal de priorité présent qui s'applique).",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "18-les-signaux-lumineux-07",
+      "question": "Un panneau B22 est placé sous un signal lumineux. Que signifie-t-il pour les cyclistes et speed pedelecs ?",
+      "choices": [
+        "Ils sont autorisés à franchir le feu rouge ou jaune-orange pour tourner à droite",
+        "Ils sont autorisés à franchir le feu rouge pour aller tout droit",
+        "Ils doivent obligatoirement s'arrêter même si le feu est vert",
+        "Il interdit aux cyclistes de tourner à droite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le panneau B22 autorise les cyclistes et speed pedelecs à franchir le feu rouge ou jaune-orange pour tourner à droite (le B23 les autorise à aller tout droit) ; ils doivent céder le passage aux usagers de la voie transversale.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "18-les-signaux-lumineux-08",
+      "question": "Une flèche verte est allumée en même temps que le feu rouge circulaire. Que devez-vous faire si vous suivez la direction de la flèche ?",
+      "choices": [
+        "Vous engager avec prudence en cédant le passage aux usagers venant de toutes les directions",
+        "Vous arrêter, car le rouge prime toujours",
+        "Vous engager sans devoir céder le passage à personne",
+        "Attendre que le feu passe au vert circulaire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si la flèche verte est allumée simultanément avec le feu rouge circulaire, vous pouvez suivre la direction de la flèche, mais devez redoubler de prudence et céder le passage aux usagers venant de toutes les directions.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "18-les-signaux-lumineux-09",
+      "question": "La flèche d'évacuation (flèche verte isolée au-delà du carrefour) est allumée. Êtes-vous autorisé à franchir le feu rouge et à vous engager dans le carrefour ?",
+      "choices": [
+        "Non, vous n'êtes pas autorisé à franchir le feu rouge",
+        "Oui, la flèche d'évacuation autorise à franchir le rouge",
+        "Oui, mais uniquement pour tourner à droite",
+        "Oui, si aucun piéton n'est présent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si la flèche d'évacuation est allumée, vous n'êtes pas autorisé à franchir le feu rouge et à vous engager dans le carrefour.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "18-les-signaux-lumineux-10",
+      "question": "Une flèche jaune-orange s'allume au-dessus de votre bande de circulation. Que devez-vous faire, et que signifie le signal suivant ?",
+      "choices": [
+        "Quitter cette bande dès que possible en toute sécurité, sachant que le signal suivant sera une croix rouge",
+        "Vous arrêter immédiatement sur cette bande",
+        "Accélérer pour quitter le grand axe",
+        "Rien, ce signal ne concerne que les poids lourds"
+      ],
+      "correctIndex": 0,
+      "explanation": "La flèche jaune-orange indique qu'il faut quitter cette bande aussi rapidement que possible en toute sécurité ; le signal suivant sera une croix rouge.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "18-les-signaux-lumineux-11",
+      "question": "Une croix rouge est affichée au-dessus d'une bande de circulation. Que signifie-t-elle ?",
+      "choices": [
+        "Il est interdit d'emprunter cette bande",
+        "Cette bande est réservée aux bus",
+        "Cette bande est prioritaire",
+        "Il faut ralentir mais on peut continuer sur cette bande"
+      ],
+      "correctIndex": 0,
+      "explanation": "S'il y a une croix rouge, il est interdit d'emprunter cette bande de circulation.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "18-les-signaux-lumineux-12",
+      "question": "Vous approchez d'un passage à niveau où deux feux rouges clignotent alternativement. Que devez-vous faire ?",
+      "choices": [
+        "Vous ne pouvez pas franchir la ligne d'arrêt (ou le signal en son absence)",
+        "Vous pouvez franchir si aucun train n'est visible",
+        "Cette interdiction ne concerne que les piétons",
+        "Vous pouvez franchir en roulant lentement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lorsque deux feux rouges clignotent alternativement à un passage à niveau, vous ne pouvez pas franchir la ligne d'arrêt (ni le signal lumineux en son absence) ; cette interdiction s'applique aussi aux piétons.",
+      "severity": "grave",
+      "page": 7
+    },
+    {
+      "id": "18-les-signaux-lumineux-13",
+      "question": "Quelle est la conséquence possible si vous franchissez un feu rouge ?",
+      "choices": [
+        "C'est une infraction grave et votre permis peut être retiré sur le champ",
+        "C'est une simple recommandation sans sanction",
+        "Seule une amende légère est possible",
+        "Cela n'entraîne aucune conséquence pour le permis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que franchir les feux rouges est une infraction grave et que le permis peut être retiré sur le champ.",
+      "severity": "grave",
+      "page": 7
+    },
+    {
+      "id": "18-les-signaux-lumineux-14",
+      "question": "Un feu représente la silhouette d'un cycliste (ou d'un piéton) entourée de flèches et passe au vert. Que peuvent faire les cyclistes ou piétons concernés ?",
+      "choices": [
+        "Traverser l'intersection en tous sens, même en diagonale, car le rouge est allumé pour tous les autres conducteurs",
+        "Uniquement aller tout droit",
+        "Uniquement tourner à droite",
+        "Rien, ce feu est purement décoratif"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce feu permet aux cyclistes ou piétons de traverser l'intersection en tous sens et même en diagonale, car le feu rouge est alors allumé pour tous les autres conducteurs ; entre eux, la priorité de droite s'applique.",
+      "severity": "normale",
+      "page": 8
+    },
+    {
+      "id": "18-les-signaux-lumineux-15",
+      "question": "Sur un signal lumineux spécial pour tram ou bus, que signifie une barre horizontale ?",
+      "choices": [
+        "La même chose qu'un feu rouge",
+        "La même chose qu'un feu vert",
+        "L'autorisation d'aller tout droit uniquement",
+        "La même chose qu'un feu orange fixe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon le texte, la barre horizontale a la même signification que le feu rouge (ces signaux ne concernent que les conducteurs de tram et de bus).",
+      "severity": "normale",
+      "page": 9
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "30-consommation-du-carburant",
+  "sourceFile": "30-consommation-du-carburant.pdf",
+  "title": "Consommation du carburant",
+  "questions": [
+    {
+      "id": "30-consommation-du-carburant-01",
+      "question": "Selon le texte, jusqu'à quelle distance devrait-on privilégier la marche à pied plutôt que la voiture ?",
+      "choices": ["500 mètres", "Jusqu'à 1 km", "Jusqu'à 5 km", "Jusqu'à 10 km"],
+      "correctIndex": 1,
+      "explanation": "Le texte conseille de se rendre à pied à destination pour une distance allant jusqu'à 1 km.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "30-consommation-du-carburant-02",
+      "question": "Pour quelle fourchette de distance le vélo est-il conseillé comme alternative à la voiture ?",
+      "choices": ["1 à 10 km", "5 à 20 km", "10 à 30 km", "Aucune, le vélo n'est jamais mentionné"],
+      "correctIndex": 0,
+      "explanation": "Le texte propose le vélo comme alternative pour une distance de 1 à 10 km.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "30-consommation-du-carburant-03",
+      "question": "Quel est le régime conseillé pour passer à la vitesse supérieure avec un moteur essence ?",
+      "choices": ["Entre 1000 et 1500 tours", "Entre 1500 et 2000 tours", "Entre 2000 et 2500 tours", "Entre 3000 et 3500 tours"],
+      "correctIndex": 2,
+      "explanation": "Pour un moteur essence, le régime conseillé pour changer de vitesse se situe entre 2000 et 2500 tours.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "30-consommation-du-carburant-04",
+      "question": "Quel est le régime conseillé pour passer à la vitesse supérieure avec un moteur diesel ?",
+      "choices": ["Entre 1000 et 1500 tours", "Entre 1500 et 2000 tours", "Entre 2000 et 2500 tours", "Entre 2500 et 3000 tours"],
+      "correctIndex": 1,
+      "explanation": "Pour un moteur diesel, le régime conseillé pour changer de vitesse se situe entre 1500 et 2000 tours.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "30-consommation-du-carburant-05",
+      "question": "Rouler avec les vitres latérales à moitié ouvertes augmente la consommation de carburant d'environ combien, en moyenne ?",
+      "choices": ["1 %", "5 %", "15 %", "25 %"],
+      "correctIndex": 1,
+      "explanation": "Le texte indique qu'ouvrir à moitié les vitres latérales augmente la consommation de carburant en moyenne de 5 %.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "30-consommation-du-carburant-06",
+      "question": "Pour transporter des vélos en consommant moins de carburant, où vaut-il mieux fixer le porte-vélo ?",
+      "choices": ["Sur le toit", "À l'arrière de la voiture", "Sur le capot avant", "Peu importe, cela ne change rien"],
+      "correctIndex": 1,
+      "explanation": "Vous consommerez moins de carburant en fixant le porte-vélo à l'arrière de la voiture plutôt que sur le toit.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "30-consommation-du-carburant-07",
+      "question": "Selon le texte, quel est le carburant le plus écologique ?",
+      "choices": ["Le diesel", "L'essence", "Le GPL", "Le mazout de chauffage"],
+      "correctIndex": 2,
+      "explanation": "Le texte affirme que le GPL est le carburant le plus écologique, l'essence étant plus écologique que le diesel.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "30-consommation-du-carburant-08",
+      "question": "Le diesel (blanc) est le même produit que le mazout de chauffage (coloré en rouge). Rouler avec ce mazout rouge dans sa voiture est-il autorisé ?",
+      "choices": [
+        "Oui, car c'est le même produit",
+        "Non, car les taxes ne sont pas identiques : rouler au rouge est interdit",
+        "Oui, mais seulement sur autoroute",
+        "Oui, à condition d'avoir moins de 3,5 tonnes de MMA"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bien qu'il s'agisse du même produit, les taxes appliquées ne sont pas identiques ; rouler avec le mazout rouge est donc interdit.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "30-consommation-du-carburant-09",
+      "question": "Actuellement, combien de zones de basses émissions existe-t-il en Belgique selon le texte, et dans quelles villes ?",
+      "choices": [
+        "Une seule, à Bruxelles",
+        "Deux, à Anvers et Gand",
+        "Trois : Anvers, Bruxelles et Gand",
+        "Cinq, dans les principales grandes villes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte précise qu'il existe actuellement trois zones de basses émissions en Belgique : Anvers (Antwerpen), Bruxelles et Gand (Gent), avec des conditions d'accès différentes.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "30-consommation-du-carburant-10",
+      "question": "Qu'est-ce que la conduite défensive selon le texte ?",
+      "choices": [
+        "Rouler le plus lentement possible en toutes circonstances",
+        "Regarder au-delà du conducteur qui précède et anticiper les problèmes ou erreurs des autres usagers",
+        "Ne jamais dépasser un autre véhicule",
+        "Toujours rouler au régime moteur maximal autorisé"
+      ],
+      "correctIndex": 1,
+      "explanation": "La conduite défensive consiste à regarder au-delà du conducteur devant soi et à anticiper les problèmes ou erreurs potentielles des autres usagers, ce qui augmente la sécurité et diminue la consommation.",
+      "severity": "normale",
+      "page": 6
+    }
+  ]
+}

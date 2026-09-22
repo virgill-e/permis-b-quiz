@@ -1,0 +1,206 @@
+{
+  "slug": "10-chargement-de-véhicules",
+  "sourceFile": "10-chargement-de-véhicules.pdf",
+  "title": "Chargement de véhicules",
+  "questions": [
+    {
+      "id": "10-chargement-de-véhicules-01",
+      "question": "Quelle est la hauteur maximale autorisée d'un véhicule, chargement inclus, avant de basculer dans la catégorie « transport exceptionnel » ?",
+      "choices": ["4 mètres", "2,55 mètres", "3 mètres", "5 mètres"],
+      "correctIndex": 0,
+      "explanation": "La hauteur d'un véhicule, chargement inclus, ne doit pas excéder 4 mètres ; au-delà, il s'agit d'un transport exceptionnel.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "10-chargement-de-véhicules-02",
+      "question": "Lequel de ces effets une charge transportée ne peut-elle jamais avoir, selon la règle générale ?",
+      "choices": [
+        "Nuire à la visibilité ou compromettre la stabilité du véhicule",
+        "Réduire légèrement la consommation de carburant",
+        "Augmenter le confort du conducteur",
+        "Améliorer l'aérodynamisme du véhicule"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une charge ne peut pas gêner les autres usagers, endommager des biens, nuire à la visibilité, se détacher pendant le transport, ni compromettre la stabilité du véhicule.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "10-chargement-de-véhicules-03",
+      "question": "Que ne peut jamais couvrir une charge placée à l'arrière d'un véhicule ?",
+      "choices": [
+        "Les feux arrière et la plaque d'immatriculation",
+        "Le pare-brise avant",
+        "Les rétroviseurs latéraux",
+        "Les vitres latérales arrière"
+      ],
+      "correctIndex": 0,
+      "explanation": "La charge à l'arrière d'un véhicule ne peut jamais couvrir les feux arrière ni la plaque d'immatriculation.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "10-chargement-de-véhicules-04",
+      "question": "Pourquoi vaut-il mieux placer les objets lourds dans le coffre plutôt que sur le toit ?",
+      "choices": [
+        "Pour ne pas déstabiliser le véhicule dans les virages",
+        "Pour respecter une obligation esthétique",
+        "Pour économiser le carburant uniquement",
+        "Il n'y a aucune raison particulière"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il faut placer les objets lourds dans le coffre et pas sur le toit pour ne pas déstabiliser le véhicule dans les virages.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "10-chargement-de-véhicules-05",
+      "question": "Quelle est la largeur maximale autorisée d'un véhicule chargé, toutes saillies comprises, avant de constituer un transport exceptionnel ?",
+      "choices": ["2,55 mètres", "3 mètres", "2 mètres", "4 mètres"],
+      "correctIndex": 0,
+      "explanation": "La largeur d'un véhicule chargé, toutes les saillies comprises, ne peut excéder 2,55 mètres ; au-delà, il s'agit d'un transport exceptionnel.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "10-chargement-de-véhicules-06",
+      "question": "Le chargement peut-il dépasser à l'avant du véhicule ?",
+      "choices": [
+        "Oui, jusqu'à 1 mètre",
+        "Non, en aucun cas il ne peut dépasser l'extrémité avant de la carrosserie",
+        "Oui, sans limite si une lampe est fixée",
+        "Oui, jusqu'à 3 mètres"
+      ],
+      "correctIndex": 1,
+      "explanation": "En aucun cas le chargement ne peut dépasser, à l'avant, l'extrémité de la carrosserie du véhicule.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "10-chargement-de-véhicules-07",
+      "question": "De combien le chargement peut-il dépasser l'extrémité arrière du véhicule, en règle générale ?",
+      "choices": ["1 mètre maximum", "3 mètres maximum", "Sans limite", "50 cm maximum"],
+      "correctIndex": 0,
+      "explanation": "À l'arrière, le chargement ne peut pas dépasser l'extrémité du véhicule de plus d'1 mètre.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "10-chargement-de-véhicules-08",
+      "question": "Vous transportez une charge longue et indivisible qui ne peut être ni pliée ni rétractée. De combien peut-elle au maximum dépasser l'arrière du véhicule, à condition d'y accrocher un panneau d'avertissement ?",
+      "choices": ["3 mètres", "1 mètre", "5 mètres", "50 cm"],
+      "correctIndex": 0,
+      "explanation": "Une charge longue et indivisible peut dépasser de 3 mètres maximum l'extrémité arrière du véhicule, à condition d'y accrocher le panneau d'avertissement réglementaire.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "10-chargement-de-véhicules-09",
+      "question": "Quelle largeur latérale minimale le conducteur doit-il disposer sur son siège ?",
+      "choices": ["55 cm", "40 cm", "70 cm", "30 cm"],
+      "correctIndex": 0,
+      "explanation": "Le conducteur doit disposer d'une largeur latérale d'au moins 55 cm ; le passager avant doit disposer d'au moins 40 cm.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "10-chargement-de-véhicules-10",
+      "question": "Lequel de ces conducteurs ne doit PAS porter la ceinture de sécurité dans l'exercice de sa fonction ?",
+      "choices": [
+        "Un chauffeur de taxi transportant des clients",
+        "Une femme enceinte",
+        "Un conducteur roulant sur autoroute",
+        "Un conducteur transportant des enfants"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ne doivent pas porter la ceinture : un conducteur effectuant une marche arrière, un chauffeur de taxi transportant des clients, un facteur en tournée, et les agents/services de secours en mission ; les femmes enceintes, elles, sont tenues de la porter.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "10-chargement-de-véhicules-11",
+      "question": "Quels enfants doivent obligatoirement voyager dans un dispositif de retenue adapté (DRA) homologué ?",
+      "choices": [
+        "Les enfants de moins de 18 ans et de moins de 1,35 m",
+        "Tous les enfants de moins de 12 ans sans exception",
+        "Uniquement les enfants de moins de 3 ans",
+        "Les enfants de moins de 18 ans, quelle que soit leur taille"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les enfants de moins de 18 ans et dont la taille est inférieure à 1,35 m doivent voyager dans un dispositif de retenue adapté et homologué.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "10-chargement-de-véhicules-12",
+      "question": "Dans quel cas un enfant de plus de 3 ans et de moins de 1,35 m peut-il exceptionnellement voyager avec la seule ceinture, sans DRA ?",
+      "choices": [
+        "Sur une courte distance, dans un véhicule conduit par une personne qui n'est pas un des parents, à titre exceptionnel, et pas à l'avant",
+        "Chaque fois que la voiture est trop petite",
+        "Uniquement si l'enfant a plus de 10 ans",
+        "Cette exception n'existe pas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il existe une exception pour les enfants de plus de 3 ans et de moins de 1,35 m circulant sur une courte distance dans un véhicule conduit par une personne qui n'est pas un des parents, à condition que ce soit exceptionnel ; ils peuvent alors utiliser la ceinture seule, mais pas à l'avant.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "10-chargement-de-véhicules-13",
+      "question": "Le voyant du système de détection de l'angle mort s'allume dans votre rétroviseur extérieur. Que devez-vous faire ?",
+      "choices": [
+        "Dépasser immédiatement, le système gère la sécurité",
+        "Ne pas dépasser et attendre que le voyant s'éteigne, tout en vérifiant vous-même par-dessus l'épaule",
+        "Klaxonner puis dépasser",
+        "Ignorer le voyant s'il s'agit d'un véhicule lent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lorsque le voyant de détection d'angle mort est allumé, il ne faut pas dépasser ; il faut attendre son extinction et vérifier soi-même la situation par-dessus l'épaule.",
+      "severity": "normale",
+      "page": 8
+    },
+    {
+      "id": "10-chargement-de-véhicules-14",
+      "question": "Votre voiture roule au GPL. Un signal interdit l'accès aux véhicules transportant des marchandises dangereuses. Pouvez-vous le franchir ?",
+      "choices": [
+        "Non, le GPL est une marchandise dangereuse au sens de ce signal",
+        "Oui, ce signal concerne le chargement transporté, pas le carburant utilisé par le véhicule",
+        "Non, jamais avec un véhicule au GPL",
+        "Cela dépend de la quantité de GPL dans le réservoir"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ce n'est pas interdit, quel que soit le signal routier, car celui-ci concerne le chargement transporté, et non le carburant utilisé par le véhicule.",
+      "severity": "normale",
+      "page": 9
+    },
+    {
+      "id": "10-chargement-de-véhicules-15",
+      "question": "Vous êtes titulaire d'un permis de conduire provisoire de catégorie B. Pouvez-vous tracter une remorque ?",
+      "choices": [
+        "Non, ce n'est pas autorisé",
+        "Oui, sans aucune restriction",
+        "Oui, mais uniquement si la remorque pèse moins de 750 kg",
+        "Oui, mais uniquement en agglomération"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si vous êtes titulaire d'un permis de conduire provisoire, vous ne pouvez pas tracter une remorque.",
+      "severity": "normale",
+      "page": 9
+    },
+    {
+      "id": "10-chargement-de-véhicules-16",
+      "question": "Avec un permis de conduire définitif de catégorie B, jusqu'à quelle MMA pouvez-vous tracter une remorque sans condition supplémentaire ?",
+      "choices": [
+        "750 kg",
+        "3 500 kg",
+        "1 000 kg",
+        "Aucune limite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Avec un permis définitif B, vous pouvez tracter une remorque dont la MMA est de maximum 750 kg ; au-delà, c'est possible seulement si la MMA combinée voiture + remorque ne dépasse pas 3500 kg.",
+      "severity": "normale",
+      "page": 9
+    }
+  ]
+}

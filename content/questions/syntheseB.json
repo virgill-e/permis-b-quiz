@@ -1,0 +1,383 @@
+{
+  "slug": "syntheseB",
+  "sourceFile": "syntheseB.pdf",
+  "title": "Synthèse générale du permis B",
+  "questions": [
+    {
+      "id": "syntheseB-01",
+      "question": "Quels véhicules peut-on conduire avec un permis B, provisoire ou définitif ?",
+      "choices": [
+        "Uniquement les voitures particulières",
+        "Une voiture, une voiture mixte, un minibus ou une camionnette, à condition que la MMA n'excède pas 3,5 tonnes",
+        "Tous les véhicules jusqu'à 7,5 tonnes",
+        "Uniquement les voitures et les motos"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le permis B permet de conduire une voiture, une voiture mixte, un minibus ou une camionnette, à condition que la MMA n'excède pas 3,5 tonnes (3500 kg).",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "syntheseB-02",
+      "question": "Avec un permis de conduire provisoire B, peut-on conduire le vendredi soir à 23h00 ?",
+      "choices": [
+        "Oui, sans restriction",
+        "Non, la conduite est interdite du vendredi 22h00 au samedi 6h00",
+        "Oui, uniquement accompagné d'un guide",
+        "Non, uniquement si on a moins de 20 ans"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le permis provisoire B interdit de conduire sur la voie publique du vendredi soir 22h00 au samedi matin 6h00, entre autres périodes nocturnes de week-end et de veilles de jours fériés.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "syntheseB-03",
+      "question": "Quand les feux de croisement doivent-ils être allumés, de jour ?",
+      "choices": [
+        "Jamais de jour",
+        "Lorsque la visibilité est inférieure à 200 mètres, par exemple à cause de la pluie, de la neige ou du brouillard",
+        "Uniquement en cas de brouillard épais",
+        "Uniquement sur autoroute"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les feux de croisement doivent être allumés de la tombée au lever du jour, ainsi que de jour lorsque la visibilité est inférieure à 200 mètres.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "syntheseB-04",
+      "question": "Dans quel cas est-il interdit d'utiliser les feux de route ?",
+      "choices": [
+        "Lorsqu'on suit un autre véhicule à moins de 50 mètres",
+        "Lorsqu'on roule à plus de 90 km/h",
+        "Lorsqu'il pleut",
+        "Dans une zone de rencontre uniquement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les feux de route sont interdits lorsqu'on croise un usager venant en sens inverse ou lorsqu'on suit un autre véhicule à moins de 50 mètres.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "syntheseB-05",
+      "question": "Quand les feux de brouillard arrière doivent-ils obligatoirement être utilisés ?",
+      "choices": [
+        "Toujours en cas de forte pluie",
+        "Uniquement s'il neige",
+        "Jamais, ils sont facultatifs",
+        "Uniquement de nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les feux de brouillard arrière doivent toujours être utilisés en cas de forte pluie, et en cas de brouillard ou de neige lorsque la visibilité est inférieure à 100 mètres.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "syntheseB-06",
+      "question": "Dans quels cas utilise-t-on les feux de détresse, selon le texte ?",
+      "choices": [
+        "Uniquement en cas de panne ou d'accident",
+        "En cas de panne ou d'accident, pour avertir d'un embouteillage ou d'un objet sur la route, et pour un autobus scolaire",
+        "Uniquement pour signaler un dépassement",
+        "Uniquement la nuit en agglomération"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les feux de détresse s'utilisent en cas de panne ou d'accident, pour avertir d'un embouteillage ou d'un objet sur la route, ainsi que pour un autobus scolaire.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "syntheseB-07",
+      "question": "Qui est exempté du port de la ceinture de sécurité selon le texte ?",
+      "choices": [
+        "Un chauffeur de taxi qui transporte des clients",
+        "Tous les passagers arrière",
+        "Toute personne conduisant en agglomération",
+        "Personne n'est jamais exempté"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sont notamment exemptés du port de la ceinture : un chauffeur qui fait marche arrière, un chauffeur de taxi transportant des clients, un facteur distribuant le courrier, et les agents qualifiés et services de secours en mission.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "syntheseB-08",
+      "question": "Quels enfants doivent obligatoirement voyager dans un dispositif de retenue pour enfants ?",
+      "choices": [
+        "Uniquement les enfants de moins de 3 ans",
+        "Les enfants de moins de 18 ans et dont la taille est inférieure à 1m35",
+        "Uniquement les enfants de moins de 8 ans",
+        "Tous les enfants jusqu'à 12 ans, quelle que soit leur taille"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les enfants de moins de 18 ans et dont la taille est inférieure à 1m35 doivent voyager dans un dispositif de retenue pour enfants adapté.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "syntheseB-09",
+      "question": "Peut-on tracter une remorque avec un permis de conduire provisoire B ?",
+      "choices": [
+        "Oui, sans restriction",
+        "Non, c'est interdit avec un permis provisoire B",
+        "Oui, jusqu'à 750 kg",
+        "Oui, uniquement de jour"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte précise que tracter une remorque est interdit avec un permis de conduire provisoire B.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "syntheseB-10",
+      "question": "Quelle est la masse maximale de remorque autorisée avec un permis B définitif (sans catégorie complémentaire) ?",
+      "choices": ["500 kg", "750 kg", "1000 kg", "1500 kg"],
+      "correctIndex": 1,
+      "explanation": "Avec un permis de conduire B définitif, la masse maximale de la remorque autorisée est de 750 kg.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "syntheseB-11",
+      "question": "Quelles sont les conséquences de pneus sous-gonflés, selon le texte ?",
+      "choices": [
+        "Aucune conséquence notable",
+        "Risque de crevaison, tenue de route réduite, usure plus rapide et consommation de carburant accrue",
+        "Uniquement une usure plus rapide",
+        "Uniquement une hausse de la consommation de carburant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Des pneus sous-gonflés entraînent un risque de crevaison, réduisent la tenue de route, s'usent plus rapidement et augmentent la consommation de carburant.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "syntheseB-12",
+      "question": "Que faut-il faire avant d'aborder un virage ?",
+      "choices": [
+        "Freiner dans le virage lui-même",
+        "Freiner suffisamment avant le virage",
+        "Accélérer avant le virage",
+        "Rétrograder uniquement après le virage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il faut freiner suffisamment avant d'aborder un virage.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "syntheseB-13",
+      "question": "Que conseille le texte pour monter ou descendre une côte à forte inclinaison ?",
+      "choices": [
+        "Passer en roue libre",
+        "Rétrograder d'une vitesse",
+        "Rester au point mort",
+        "Accélérer fortement en montée uniquement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pour monter ou descendre une côte à forte inclinaison, il est conseillé de rétrograder d'une vitesse.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "syntheseB-14",
+      "question": "Quels documents personnels le conducteur doit-il obligatoirement avoir sur lui ?",
+      "choices": [
+        "La carte d'identité et le permis de conduire",
+        "Uniquement le permis de conduire",
+        "Uniquement la carte d'identité",
+        "Le certificat de conformité du véhicule"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le conducteur doit avoir sur lui sa carte d'identité et son permis de conduire.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "syntheseB-15",
+      "question": "Parmi les documents suivants, lequel doit obligatoirement se trouver dans la voiture ?",
+      "choices": [
+        "Le certificat d'immatriculation",
+        "Le contrat d'achat du véhicule",
+        "La facture d'entretien la plus récente",
+        "Le manuel d'utilisation du constructeur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parmi les documents obligatoires liés à la voiture figurent le certificat d'immatriculation, l'attestation d'assurance, le certificat de conformité et, si nécessaire, le certificat de contrôle technique.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "syntheseB-16",
+      "question": "Que dit la règle de la priorité de droite ?",
+      "choices": [
+        "Tout conducteur doit céder le passage au conducteur qui vient de droite, sauf dans un rond-point ou si celui-ci vient d'un sens interdit",
+        "C'est toujours le véhicule le plus rapide qui est prioritaire",
+        "La priorité de droite ne s'applique qu'en agglomération",
+        "Le premier arrivé au carrefour est toujours prioritaire"
+      ],
+      "correctIndex": 0,
+      "explanation": "La priorité de droite impose de céder le passage au conducteur venant de droite, sauf s'il se trouve dans un rond-point ou vient d'un sens de marche interdit.",
+      "severity": "grave",
+      "page": 9
+    },
+    {
+      "id": "syntheseB-17",
+      "question": "À un carrefour avec priorité de droite, en présence d'un trottoir ininterrompu ou d'un passage pour piétons, que doit faire le conducteur venant de droite ?",
+      "choices": [
+        "Rien de particulier, il reste prioritaire sur tout le monde",
+        "Laisser passer les piétons présents sur le trottoir ou le passage pour piétons",
+        "S'arrêter uniquement si un agent le lui demande",
+        "Klaxonner avant de s'engager"
+      ],
+      "correctIndex": 1,
+      "explanation": "En présence d'un trottoir ininterrompu ou d'un passage pour piétons, le conducteur venant de droite doit laisser passer les piétons qui s'y trouvent ou souhaitent l'emprunter.",
+      "severity": "normale",
+      "page": 9
+    },
+    {
+      "id": "syntheseB-18",
+      "question": "Les véhicules sur rails doivent-ils respecter la règle de la priorité de droite ?",
+      "choices": [
+        "Oui, comme tout autre véhicule",
+        "Non, ils ne doivent pas la respecter",
+        "Uniquement en dehors des agglomérations",
+        "Uniquement s'ils sont vides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte précise que les véhicules sur rails ne doivent pas respecter la priorité de droite.",
+      "severity": "normale",
+      "page": 10
+    },
+    {
+      "id": "syntheseB-19",
+      "question": "Que signifie un panneau de priorité en forme de triangle posé sur sa pointe ?",
+      "choices": [
+        "Vous êtes prioritaire sur toute la voie",
+        "Vous devez céder le passage aux conducteurs de la voie que vous allez emprunter, et éventuellement vous arrêter",
+        "Vous devez céder le passage uniquement aux piétons",
+        "Stationnement interdit à cet endroit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un triangle sur sa pointe signifie que le conducteur doit céder le passage aux conducteurs (pas aux piétons) circulant sur la voie qu'il va emprunter, et s'arrêter si nécessaire.",
+      "severity": "grave",
+      "page": 10
+    },
+    {
+      "id": "syntheseB-20",
+      "question": "Que devez-vous toujours faire face à un panneau STOP ?",
+      "choices": [
+        "Ralentir sans nécessairement vous arrêter si la voie est libre",
+        "Marquer l'arrêt devant la ligne d'arrêt avant de vous engager dans le carrefour",
+        "Vous arrêter uniquement s'il y a un autre véhicule",
+        "Klaxonner puis continuer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Face au panneau STOP, il faut toujours marquer l'arrêt devant la ligne d'arrêt avant de s'engager dans le carrefour.",
+      "severity": "grave",
+      "page": 10
+    },
+    {
+      "id": "syntheseB-21",
+      "question": "Une fois le constat européen d'accident signé, peut-on encore le modifier ?",
+      "choices": [
+        "Oui, dans les 24 heures",
+        "Non, il n'est plus autorisé de modifier quoi que ce soit",
+        "Oui, si les deux parties sont d'accord",
+        "Oui, uniquement la partie recto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Une fois le constat européen d'accident signé, il n'est plus autorisé de le modifier.",
+      "severity": "normale",
+      "page": 11
+    },
+    {
+      "id": "syntheseB-22",
+      "question": "En cas d'accident avec blessés, si la police ne vient pas, que doit-on faire selon le texte ?",
+      "choices": [
+        "Rien, ce n'est pas nécessaire",
+        "Faire une déclaration au bureau de police dans les 24 heures",
+        "Attendre une semaine avant de déclarer l'accident",
+        "Contacter uniquement son assureur"
+      ],
+      "correctIndex": 1,
+      "explanation": "En cas d'accident avec blessés, la police doit venir ; si elle ne vient pas, il faut faire une déclaration au bureau de police dans les 24 heures.",
+      "severity": "normale",
+      "page": 11
+    },
+    {
+      "id": "syntheseB-23",
+      "question": "À moins de combien de mètres avant un passage pour piétons ou pour cyclistes l'arrêt est-il interdit ?",
+      "choices": ["Moins de 2 mètres", "Moins de 5 mètres", "Moins de 10 mètres", "Moins de 15 mètres"],
+      "correctIndex": 1,
+      "explanation": "L'arrêt est interdit à moins de 5 mètres avant un passage pour piétons, pour cyclistes ou cyclomotoristes à deux roues.",
+      "severity": "normale",
+      "page": 14
+    },
+    {
+      "id": "syntheseB-24",
+      "question": "Sur une chaussée étroite, quel espace libre minimal doit-on laisser pour ne pas être en stationnement interdit ?",
+      "choices": ["1 mètre", "2 mètres", "3 mètres", "5 mètres"],
+      "correctIndex": 2,
+      "explanation": "Le stationnement est interdit lorsque la chaussée est étroite et qu'on ne peut pas laisser un passage libre d'au moins trois mètres.",
+      "severity": "normale",
+      "page": 15
+    },
+    {
+      "id": "syntheseB-25",
+      "question": "Quelle est la durée maximale de stationnement avec un disque de stationnement, sauf indication contraire sur un panneau ?",
+      "choices": ["30 minutes", "1 heure", "2 heures", "4 heures"],
+      "correctIndex": 2,
+      "explanation": "La durée maximale de stationnement avec disque est de 2 heures, sauf indication différente sur le panneau.",
+      "severity": "normale",
+      "page": 17
+    },
+    {
+      "id": "syntheseB-26",
+      "question": "Selon le tableau des seuils d'alcoolémie, à partir de quel taux mesuré au souffle est-on en zone « positif », avec une interdiction de conduire de 15 jours ?",
+      "choices": ["0,10 mg/l ou plus", "0,22 mg/l ou plus", "0,35 mg/l ou plus", "0,50 mg/l ou plus"],
+      "correctIndex": 2,
+      "explanation": "Selon le tableau, à partir de 0,35 mg/l, le résultat est « positif » et entraîne une interdiction de conduire de 15 jours.",
+      "severity": "grave",
+      "page": 18
+    },
+    {
+      "id": "syntheseB-27",
+      "question": "Selon le tableau des seuils d'alcoolémie, que se passe-t-il pour un taux mesuré entre 0,22 et 0,35 mg/l (zone « alarme ») ?",
+      "choices": [
+        "Aucune conséquence, on peut continuer à conduire",
+        "12 heures d'attente avant de pouvoir reprendre le volant",
+        "Interdiction de conduire pendant 15 jours",
+        "Retrait immédiat et définitif du permis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pour un taux compris entre 0,22 et 0,35 mg/l (zone « alarme »), il faut attendre 12 heures avant de pouvoir reprendre la conduite.",
+      "severity": "grave",
+      "page": 18
+    },
+    {
+      "id": "syntheseB-28",
+      "question": "En cas de test de salive positif aux drogues, quelles sont les conséquences mentionnées ?",
+      "choices": [
+        "Rien, le test de salive n'a pas de valeur légale",
+        "12 heures d'attente, une amende et un risque de retrait immédiat",
+        "Uniquement un simple avertissement oral",
+        "Une interdiction de conduire de 6 mois systématique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un test de salive positif aux drogues entraîne 12 heures d'attente, une amende et un risque de retrait immédiat du permis.",
+      "severity": "grave",
+      "page": 18
+    },
+    {
+      "id": "syntheseB-29",
+      "question": "À quelle distance approximative avant un endroit dangereux un signal de danger (série A) est-il en principe placé ?",
+      "choices": ["50 mètres", "100 mètres", "150 mètres", "300 mètres"],
+      "correctIndex": 2,
+      "explanation": "Les signaux de danger sont placés à une distance approximative de 150 mètres de l'endroit dangereux, sauf pour les signaux A45 et A47 placés à proximité immédiate du passage à niveau.",
+      "severity": "normale",
+      "page": 19
+    }
+  ]
+}

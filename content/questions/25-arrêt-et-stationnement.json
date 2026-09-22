@@ -1,0 +1,217 @@
+{
+  "slug": "25-arrêt-et-stationnement",
+  "sourceFile": "25-arrêt-et-stationnement.pdf",
+  "title": "Arrêt et stationnement",
+  "questions": [
+    {
+      "id": "25-arret-et-stationnement-01",
+      "question": "Comment le code définit-il un \"arrêt\" ?",
+      "choices": [
+        "Le temps nécessaire pour embarquer ou débarquer des personnes, ou pour charger ou décharger des choses",
+        "Une immobilisation de maximum 5 minutes, quelle qu'en soit la raison",
+        "Le temps d'attente obligatoire à un feu rouge",
+        "Le temps nécessaire pour faire le plein de carburant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le code définit un arrêt comme étant le temps nécessaire pour embarquer ou débarquer des personnes, ou pour charger ou décharger des choses.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "25-arret-et-stationnement-02",
+      "question": "Quand un arrêt devient-il un stationnement ?",
+      "choices": [
+        "Lorsque le véhicule reste immobile au-delà du temps nécessaire pour embarquer/débarquer des personnes ou charger/décharger des choses",
+        "Dès que le moteur est coupé",
+        "Après exactement 10 minutes d'immobilisation",
+        "Dès que le conducteur quitte le véhicule des yeux"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si vous restez immobile au-delà du temps nécessaire pour embarquer/débarquer des personnes ou charger/décharger votre véhicule, cela est considéré comme un stationnement.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "25-arret-et-stationnement-03",
+      "question": "Un véhicule immobilisé devant un feu rouge ou dans un embouteillage est-il considéré comme à l'arrêt ou en stationnement ?",
+      "choices": [
+        "Non, ce n'est ni un arrêt ni un stationnement au sens réglementaire",
+        "Oui, c'est toujours considéré comme un arrêt",
+        "Oui, c'est toujours considéré comme un stationnement",
+        "Cela dépend uniquement de la durée d'immobilisation"
+      ],
+      "correctIndex": 0,
+      "explanation": "S'arrêter dans la circulation sur la voie publique (feu rouge, embouteillage, céder le passage) n'est pas considéré comme un arrêt ou un stationnement au sens réglementaire ; le véhicule est \"immobilisé\".",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "25-arret-et-stationnement-04",
+      "question": "Un véhicule tombé en panne sur la voie publique et ne pouvant être rangé à un endroit sûr doit être signalé à l'aide de...",
+      "choices": [
+        "un triangle de danger",
+        "des feux de détresse uniquement, sans autre dispositif",
+        "un gilet fluorescent posé sur le toit du véhicule",
+        "un cône de signalisation orange"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un véhicule en panne qui ne peut pas être rangé à un endroit sûr doit être signalé aux autres usagers à l'aide d'un triangle de danger.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "25-arret-et-stationnement-05",
+      "question": "Où devez-vous stationner en priorité, s'il y a de la place, en agglomération ?",
+      "choices": [
+        "Sur l'accotement de plain-pied ou dans la bande de stationnement",
+        "Toujours sur la chaussée",
+        "Toujours sur le trottoir",
+        "Peu importe, au libre choix du conducteur"
+      ],
+      "correctIndex": 0,
+      "explanation": "S'il y a de la place, en agglomération vous devez stationner sur l'accotement de plain-pied ou dans la bande de stationnement.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "25-arret-et-stationnement-06",
+      "question": "Si vous stationnez en partie sur l'accotement (accotement pas assez large) et qu'il n'y a pas de trottoir, quel espace minimum devez-vous laisser pour les piétons ?",
+      "choices": [
+        "Au moins 1,5 mètre",
+        "Au moins 0,5 mètre",
+        "Au moins 3 mètres",
+        "Aucun espace n'est requis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous devez veiller à laisser au moins 1,5 mètre de passage pour les piétons qui empruntent l'accotement, s'il n'y a pas de trottoir.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "25-arret-et-stationnement-07",
+      "question": "En stationnant sur la chaussée, quel espace minimum devez-vous laisser entre deux voitures stationnées ?",
+      "choices": [
+        "Au moins 1 mètre",
+        "Au moins 50 centimètres",
+        "Au moins 2 mètres",
+        "Aucune distance minimale n'est fixée"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il faut laisser un espace d'au moins 1 mètre entre deux voitures stationnées sur la chaussée.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "25-arret-et-stationnement-08",
+      "question": "Sur une voie à sens unique, de quel côté pouvez-vous stationner votre véhicule ?",
+      "choices": [
+        "Aussi bien à droite qu'à gauche",
+        "Uniquement à droite",
+        "Uniquement à gauche",
+        "Le stationnement y est toujours interdit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sur une voie à sens unique, vous pouvez ranger votre voiture aussi bien à droite qu'à gauche.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "25-arret-et-stationnement-09",
+      "question": "L'arrêt et le stationnement sont-ils autorisés sur une piste cyclable ?",
+      "choices": [
+        "Non, c'est interdit ; mais c'est autorisé sur une bande cyclable suggérée",
+        "Oui, l'arrêt et le stationnement y sont toujours autorisés",
+        "Seul le stationnement y est interdit, l'arrêt reste autorisé",
+        "C'est autorisé uniquement la nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous ne pouvez ni vous arrêter ni stationner sur une piste cyclable ; c'est en revanche autorisé sur une bande cyclable suggérée.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "25-arret-et-stationnement-10",
+      "question": "Pouvez-vous vous immobiliser temporairement sur des voies de tram intégrées à la chaussée, par exemple à un feu rouge ?",
+      "choices": [
+        "Oui, à condition que cela ne gêne pas le passage du tram ; le stationnement y reste interdit",
+        "Non, l'immobilisation y est toujours interdite, même momentanément",
+        "Oui, sans aucune condition, y compris le stationnement",
+        "Oui, mais uniquement la nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vous ne pouvez pas stationner sur les voies de tram, mais vous pouvez vous immobiliser temporairement sur des voies de tram intégrées à la chaussée si cela ne gêne pas le passage du tram.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "25-arret-et-stationnement-11",
+      "question": "S'arrêter ou stationner sur un passage à niveau constitue...",
+      "choices": [
+        "une infraction du 4ème degré",
+        "une infraction du 1er degré",
+        "une simple recommandation à éviter, sans sanction",
+        "une infraction seulement si un train est annoncé"
+      ],
+      "correctIndex": 0,
+      "explanation": "S'arrêter ou stationner sur un passage à niveau est une infraction du 4ème degré.",
+      "severity": "grave",
+      "page": 7
+    },
+    {
+      "id": "25-arret-et-stationnement-12",
+      "question": "Dans un carrefour sans feux de signalisation, à quelle distance minimale du bord adjacent de la voie transversale l'arrêt et le stationnement sont-ils interdits ?",
+      "choices": [
+        "À moins de 5 mètres",
+        "À moins de 10 mètres",
+        "À moins de 20 mètres",
+        "À moins de 2 mètres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans un carrefour sans feux de signalisation, l'arrêt et le stationnement sont interdits à moins de 5 mètres du bord adjacent de la voie transversale.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "25-arret-et-stationnement-13",
+      "question": "Dans un carrefour muni de feux de signalisation, à quelle distance avant les feux l'arrêt et le stationnement sont-ils interdits ?",
+      "choices": [
+        "À moins de 20 mètres",
+        "À moins de 5 mètres",
+        "À moins de 50 mètres",
+        "À moins de 10 mètres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans un carrefour muni de feux de signalisation, l'arrêt et le stationnement sont interdits à moins de 20 mètres avant les feux.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "25-arret-et-stationnement-14",
+      "question": "Quelle exception existe à la règle des 20 mètres devant un signal ou un feu placé en dehors d'un carrefour ?",
+      "choices": [
+        "Si le bord inférieur du signal/feu est à au moins 2 mètres de hauteur et que le véhicule, chargement compris, ne dépasse pas 1,65 mètre",
+        "Il n'existe aucune exception à cette règle",
+        "L'exception s'applique uniquement aux motocyclettes",
+        "L'exception s'applique si le véhicule stationne moins de 5 minutes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si le bord inférieur du signal ou du feu se trouve à au moins 2 mètres de hauteur et que la hauteur du véhicule (chargement compris) ne dépasse pas 1,65 mètre, la règle des 20 mètres ne s'applique pas.",
+      "severity": "normale",
+      "page": 8
+    },
+    {
+      "id": "25-arret-et-stationnement-15",
+      "question": "Pouvez-vous vous arrêter ou stationner sous un pont, sur la chaussée ?",
+      "choices": [
+        "Non, c'est interdit sur la chaussée sous un pont ; mais c'est autorisé sur le pont, ou sous le pont sur l'accotement ou une bande de stationnement",
+        "Oui, c'est toujours autorisé sous un pont",
+        "C'est interdit partout, y compris sur le pont lui-même",
+        "C'est autorisé uniquement la nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sur la chaussée, l'arrêt et le stationnement sont interdits sous les ponts ; en revanche, c'est autorisé sur un pont, et sous un pont sur l'accotement ou dans une bande de stationnement.",
+      "severity": "normale",
+      "page": 8
+    }
+  ]
+}

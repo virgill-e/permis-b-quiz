@@ -1,0 +1,97 @@
+{
+  "slug": "13-la-distance-d’arrêt",
+  "sourceFile": "13-la-distance-d’arrêt.pdf",
+  "title": "La distance d'arrêt",
+  "questions": [
+    {
+      "id": "13-la-distance-d’arrêt-01",
+      "question": "Comment calculer simplement la distance de sécurité à respecter avec le véhicule qui vous précède ?",
+      "choices": ["La vitesse divisée par deux", "La vitesse multipliée par deux", "La vitesse divisée par quatre", "Toujours 50 mètres, quelle que soit la vitesse"],
+      "correctIndex": 0,
+      "explanation": "La distance de sécurité se calcule en divisant la vitesse par deux : à 120 km/h, elle est de 60 mètres ; à 100 km/h, de 50 mètres.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "13-la-distance-d’arrêt-02",
+      "question": "Sur sol sec, quelle astuce permet de vérifier que vous respectez la distance de sécurité ?",
+      "choices": ["La règle des deux secondes", "La règle des dix mètres", "Compter jusqu'à dix", "Regarder son compteur de vitesse uniquement"],
+      "correctIndex": 0,
+      "explanation": "La règle des deux secondes consiste à repérer un point fixe : si le véhicule devant vous le franchit et que vous le franchissez au moins deux secondes plus tard, la distance de sécurité est respectée sur sol sec.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "13-la-distance-d’arrêt-03",
+      "question": "Sur sol mouillé, à 120 km/h, quelle est la distance de sécurité recommandée (règle des secondes) ?",
+      "choices": ["60 mètres, soit 2 secondes", "90 mètres, soit 3 secondes", "120 mètres, soit 4 secondes", "30 mètres, soit 1 seconde"],
+      "correctIndex": 1,
+      "explanation": "Sur sol mouillé il faut ajouter 50 % à la distance de sécurité de base : à 120 km/h, cela donne 90 mètres, soit environ 3 secondes.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "13-la-distance-d’arrêt-04",
+      "question": "Sur sol enneigé ou verglacé, combien de « secondes » de distance de sécurité faut-il respecter au minimum ?",
+      "choices": ["2 secondes", "3 secondes", "Au moins 4 secondes", "1 seconde"],
+      "correctIndex": 2,
+      "explanation": "Sur sol enneigé ou verglacé, il faut respecter au moins 4 secondes de distance de sécurité.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "13-la-distance-d’arrêt-05",
+      "question": "De combien de temps augmente environ le temps de réaction d'un conducteur qui a bu de l'alcool ?",
+      "choices": ["Il n'augmente pas", "2 à 3 secondes", "10 secondes", "5 à 8 secondes"],
+      "correctIndex": 1,
+      "explanation": "Le temps de réaction normal est d'environ une seconde ; après consommation d'alcool, il augmente à 2-3 secondes.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "13-la-distance-d’arrêt-06",
+      "question": "De combien de temps augmente environ le temps de réaction d'un conducteur qui a consommé des stupéfiants ?",
+      "choices": ["1 seconde", "2 à 3 secondes", "5 à 8 secondes", "Il n'augmente pas"],
+      "correctIndex": 2,
+      "explanation": "Après consommation de stupéfiants, le temps de réaction grimpe à 5-8 secondes, contre environ 1 seconde normalement.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "13-la-distance-d’arrêt-07",
+      "question": "Que représente la « distance d'arrêt » d'un véhicule ?",
+      "choices": ["Uniquement la distance de freinage", "Uniquement la distance de réaction", "La somme de la distance de réaction et de la distance de freinage", "La distance parcourue en 10 secondes"],
+      "correctIndex": 2,
+      "explanation": "La distance d'arrêt est la somme de la distance parcourue pendant le temps de réaction et de la distance de freinage.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "13-la-distance-d’arrêt-08",
+      "question": "Quel est le rôle du système ABS ?",
+      "choices": ["Réduire toujours la distance de freinage de moitié", "Empêcher les pneus de glisser en freinant brusquement et permettre de garder le contrôle de la direction", "Augmenter automatiquement la vitesse après un freinage", "Remplacer le besoin de freiner"],
+      "correctIndex": 1,
+      "explanation": "L'ABS empêche les pneus de glisser lors d'un freinage brusque, même sur chaussée mouillée, et permet au conducteur de garder le contrôle de la direction.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "13-la-distance-d’arrêt-09",
+      "question": "Quelle est la profondeur minimale légale des rainures principales d'un pneu ?",
+      "choices": ["0,8 mm", "1,6 mm", "3 mm", "5 mm"],
+      "correctIndex": 1,
+      "explanation": "La profondeur des rainures principales des pneus doit être d'au moins 1,6 mm, ce qui est le minimum légal.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "13-la-distance-d’arrêt-10",
+      "question": "Lors d'un long trajet, à quelle fréquence est-il recommandé de faire une pause, et de combien de temps au minimum ?",
+      "choices": ["Toutes les heures, au moins 5 minutes", "Toutes les deux heures, au moins 15 minutes", "Toutes les quatre heures, au moins 30 minutes", "Une seule fois par trajet, peu importe la durée"],
+      "correctIndex": 1,
+      "explanation": "Il est recommandé de faire une courte pause d'au moins 15 minutes toutes les deux heures environ afin d'éviter la fatigue.",
+      "severity": "normale",
+      "page": 6
+    }
+  ]
+}

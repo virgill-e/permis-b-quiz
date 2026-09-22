@@ -1,0 +1,146 @@
+{
+  "slug": "1-la-voie-publique",
+  "sourceFile": "1-la-voie-publique.pdf",
+  "title": "Le code de la route, la voie publique et la chaussée",
+  "questions": [
+    {
+      "id": "1-la-voie-publique-01",
+      "question": "Qu'est-ce qu'un terrain public, par exemple le parking d'un restaurant ou une station-service ?",
+      "choices": [
+        "Un lieu où l'on peut se rendre sans aucune justification",
+        "Un lieu public où l'on peut se rendre avec son véhicule pour autant qu'on ait une bonne raison de le faire",
+        "Un lieu accessible uniquement avec une permission spéciale",
+        "Un lieu qui fait toujours partie de la voie publique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un terrain public est un lieu où l'on peut se rendre avec son véhicule à condition d'avoir une bonne raison de le faire, contrairement à la voie publique qui ne nécessite aucune justification.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "1-la-voie-publique-02",
+      "question": "Où le Code de la route s'applique-t-il pleinement, avec verbalisation des infractions ?",
+      "choices": [
+        "Uniquement sur les autoroutes",
+        "Sur la voie publique",
+        "Uniquement sur les terrains publics",
+        "Partout sans exception, y compris les terrains non-publics"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Code de la route ne s'applique pleinement, avec verbalisation, que sur la voie publique ; sur les terrains publics ou non-publics, seules les infractions graves peuvent être sanctionnées.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "1-la-voie-publique-03",
+      "question": "Le Code de la route s'applique-t-il sur une voie portant la mention \"privée\" ?",
+      "choices": [
+        "Oui, toujours",
+        "Non, sauf s'il s'agit d'un chemin privé accessible à tous",
+        "Non, jamais, même s'il est accessible à tous",
+        "Uniquement pour les infractions graves"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les routes privées ne font pas partie de la voie publique et le Code de la route ne s'y applique pas, sauf si le chemin privé est accessible à tous.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "1-la-voie-publique-04",
+      "question": "Les conducteurs de tram doivent-ils respecter les feux de circulation ?",
+      "choices": [
+        "Non, ils en sont dispensés",
+        "Oui, ils doivent toujours suivre les feux de circulation ainsi que les injonctions des agents qualifiés",
+        "Seulement en agglomération",
+        "Seulement s'il n'y a pas d'autre trafic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les conducteurs de tram ne doivent pas respecter l'ensemble du Code de la route, sauf les injonctions des agents qualifiés et les feux de circulation, qu'ils doivent toujours suivre.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "1-la-voie-publique-05",
+      "question": "La voie publique se limite-t-elle à la partie de la chaussée recouverte d'un revêtement ?",
+      "choices": [
+        "Oui, uniquement la chaussée revêtue",
+        "Non, elle inclut aussi la piste cyclable, les accotements, la bande de stationnement et les trottoirs, jusqu'au fossé ou à la limite de propriété",
+        "Oui, mais uniquement en agglomération",
+        "Non, elle se limite au trottoir uniquement"
+      ],
+      "correctIndex": 1,
+      "explanation": "La voie publique est bien plus large que la chaussée revêtue : elle inclut piste cyclable, accotements, bande de stationnement et trottoirs, jusqu'au fossé, talus ou limite de propriété privée.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "1-la-voie-publique-06",
+      "question": "Qu'est-ce que la chaussée ?",
+      "choices": [
+        "L'ensemble de la voie publique, trottoirs compris",
+        "La partie de la voie publique aménagée pour la circulation des véhicules",
+        "Uniquement la piste cyclable",
+        "Le bas-côté de la route"
+      ],
+      "correctIndex": 1,
+      "explanation": "La chaussée est la partie de la voie publique aménagée pour la circulation des véhicules ; les pistes cyclables, accotements et trottoirs n'en font pas partie.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "1-la-voie-publique-07",
+      "question": "Un conducteur roule sans raison au milieu de la chaussée. Que peut-on dire ?",
+      "choices": [
+        "C'est autorisé si la circulation est faible",
+        "C'est une infraction : les conducteurs doivent rouler autant que possible sur le côté droit de la chaussée",
+        "C'est autorisé uniquement sur autoroute",
+        "C'est autorisé s'il n'y a pas de marquage au sol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les conducteurs doivent, autant que possible, rouler sur le côté droit de la chaussée ; conduire sans raison au milieu ou à gauche constitue une infraction.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "1-la-voie-publique-08",
+      "question": "Quelle est la vitesse maximale sur une route ordinaire en Région wallonne (hors chaussée à voie centrale) ?",
+      "choices": ["70 km/h", "80 km/h", "90 km/h", "100 km/h"],
+      "correctIndex": 2,
+      "explanation": "La vitesse maximale sur une route ordinaire est de 90 km/h en Région wallonne, contre 70 km/h en Région flamande et à Bruxelles-Capitale.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "1-la-voie-publique-09",
+      "question": "Quelle est la vitesse maximale sur une chaussée à voie centrale, quelle que soit la région ?",
+      "choices": ["50 km/h", "70 km/h", "90 km/h", "120 km/h"],
+      "correctIndex": 1,
+      "explanation": "Sur une chaussée à voie centrale, la vitesse maximale est de 70 km/h dans les trois régions.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "1-la-voie-publique-10",
+      "question": "Dans quels cas un conducteur peut-il circuler sur la bande latérale d'une chaussée à voie centrale ?",
+      "choices": [
+        "Jamais, c'est totalement interdit",
+        "Uniquement pour dépasser un cycliste",
+        "Lorsqu'il croise un véhicule venant en sens inverse ou pour dépasser un conducteur circulant dans le même sens",
+        "À tout moment s'il n'y a pas de trafic"
+      ],
+      "correctIndex": 2,
+      "explanation": "La bande latérale ne fait pas partie de la chaussée ; on ne peut y circuler que pour croiser un véhicule en sens inverse ou dépasser un conducteur circulant dans le même sens, sans gêner cyclistes ou piétons.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "1-la-voie-publique-11",
+      "question": "Quelle largeur latérale minimale doit-on conserver avec un cycliste sur une bande latérale, hors agglomération ?",
+      "choices": ["0,5 mètre", "1 mètre", "1,5 mètre", "2 mètres"],
+      "correctIndex": 2,
+      "explanation": "Il faut conserver une largeur latérale suffisante avec les cyclistes ou piétons : 1 mètre en agglomération et 1,5 mètre hors agglomération.",
+      "severity": "normale",
+      "page": 6
+    }
+  ]
+}

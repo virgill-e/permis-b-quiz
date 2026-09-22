@@ -1,0 +1,142 @@
+{
+  "slug": "20-la-priorité-de-droite",
+  "sourceFile": "20-la-priorité-de-droite.pdf",
+  "title": "La priorité de droite",
+  "questions": [
+    {
+      "id": "20-la-priorité-de-droite-01",
+      "question": "Dans un carrefour où le passage n'est réglé ni par un agent qualifié, ni par des signaux lumineux, ni par des signaux routiers, quelle règle s'applique ?",
+      "choices": ["La priorité de droite", "La priorité au véhicule le plus rapide", "La priorité au premier arrivé au carrefour", "La priorité au véhicule le plus large"],
+      "correctIndex": 0,
+      "explanation": "En l'absence de réglementation par un agent, des signaux lumineux ou des signaux routiers, la règle de base qui s'applique est la priorité de droite.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "20-la-priorité-de-droite-02",
+      "question": "Tout conducteur doit céder le passage au conducteur qui vient de droite, sauf dans quels cas ?",
+      "choices": ["S'il se trouve dans un rond-point, ou si le conducteur venant de droite circule en sens interdit", "S'il roule plus vite que le conducteur venant de droite", "S'il fait nuit", "S'il conduit un véhicule utilitaire"],
+      "correctIndex": 0,
+      "explanation": "Le texte précise deux exceptions à la règle : le conducteur se trouve dans un rond-point, ou celui venant de droite circule dans un sens interdit.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "20-la-priorité-de-droite-03",
+      "question": "Le conducteur qui vient de droite ralentit ou s'arrête avant le carrefour. Que se passe-t-il pour sa priorité ?",
+      "choices": ["Il conserve la priorité et peut s'engager le premier dans le carrefour", "Il perd automatiquement sa priorité", "Il doit laisser passer tous les autres véhicules", "Il doit redémarrer avant de pouvoir reprendre sa priorité"],
+      "correctIndex": 0,
+      "explanation": "Même si le conducteur venant de droite ralentit ou s'arrête, il conserve la priorité et peut s'engager le premier dans le carrefour.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "20-la-priorité-de-droite-04",
+      "question": "À une intersection régie par la priorité de droite, est-il permis de dépasser par la gauche un véhicule attelé ou un véhicule à moteur à deux roues ?",
+      "choices": ["Non, c'est interdit", "Oui, si la visibilité est bonne", "Oui, en klaxonnant avant", "Oui, uniquement de jour"],
+      "correctIndex": 0,
+      "explanation": "Il est interdit de dépasser par la gauche aux intersections régies par la priorité de droite un véhicule attelé, un véhicule à plus de deux roues, ou un véhicule à moteur à deux roues.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "20-la-priorité-de-droite-05",
+      "question": "Un conducteur venant de droite ne peut pas exercer sa priorité parce que le carrefour est encombré. Que devez-vous faire ?",
+      "choices": ["Vous ne devez pas attendre, mais vous n'avez pas la priorité", "Vous devez attendre qu'il puisse passer", "Vous gardez automatiquement la priorité", "Vous devez faire demi-tour"],
+      "correctIndex": 0,
+      "explanation": "Si le conducteur venant de droite ne peut pas exercer sa priorité parce que l'intersection est bloquée, vous ne devez pas attendre, mais vous n'avez pas la priorité pour autant.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "20-la-priorité-de-droite-06",
+      "question": "Que signifie un signal routier de priorité de droite placé à proximité d'un carrefour ?",
+      "choices": ["Il signifie aussi « priorité de droite »", "Il annonce un rond-point", "Il indique une route à priorité absolue", "Il annonce la fin de la priorité de droite"],
+      "correctIndex": 0,
+      "explanation": "Si ce signal se trouve à proximité d'un carrefour, il signifie aussi « priorité de droite ».",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "20-la-priorité-de-droite-07",
+      "question": "Un conducteur cède le passage aux usagers d'une piste cyclable en traversant celle-ci pour rejoindre un carrefour. Quel est l'ordre de passage correct ?",
+      "choices": ["D'abord les cyclistes/cyclomotoristes de la piste, puis les conducteurs venant de droite, puis celui qui a cédé le passage", "D'abord celui qui a cédé le passage, puis les cyclistes, puis les autres", "D'abord les conducteurs venant de droite, puis les cyclistes, puis celui qui a cédé", "Tous s'engagent en même temps"],
+      "correctIndex": 0,
+      "explanation": "Les cyclistes et cyclomotoristes de la piste cyclable s'engagent en premier, suivis des conducteurs venant de droite, puis du conducteur ayant cédé le passage.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "20-la-priorité-de-droite-08",
+      "question": "Sur une bande cyclable suggérée, une voiture vient de droite. Est-elle tenue de céder le passage aux cyclistes présents sur cette bande ?",
+      "choices": ["Non, elle bénéficie de la priorité de droite", "Oui, toujours", "Oui, sauf si elle roule lentement", "Non, sauf si elle s'est arrêtée"],
+      "correctIndex": 0,
+      "explanation": "Sur une bande cyclable suggérée, le conducteur venant de droite n'est pas tenu de céder le passage aux cyclistes et cyclomotoristes : il bénéficie de la priorité de droite.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "20-la-priorité-de-droite-09",
+      "question": "La voiture venant de droite doit franchir un passage pour piétons. Que doit-elle faire envers les piétons et envers la voiture qui lui cède le passage ?",
+      "choices": ["Elle doit laisser passer les piétons, mais conserve sa priorité sur l'autre voiture même si elle s'est arrêtée", "Elle doit céder le passage aux piétons et perd alors sa priorité sur l'autre voiture", "Elle n'a pas à céder le passage aux piétons car elle a la priorité de droite", "Elle doit céder le passage à l'autre voiture en priorité"],
+      "correctIndex": 0,
+      "explanation": "Le conducteur venant de droite doit laisser passer les piétons sur le trottoir ou le passage pour piétons, mais l'autre voiture doit tout de même le laisser passer, car il conserve la priorité de droite même s'il s'est arrêté pour les piétons.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "20-la-priorité-de-droite-10",
+      "question": "Devez-vous céder le passage à un conducteur venant de votre droite s'il provient d'un sens interdit ?",
+      "choices": ["Non, sauf si un panneau additionnel autorise certains conducteurs à circuler dans ce sens contraire", "Oui, toujours", "Non, dans tous les cas, même avec un panneau additionnel", "Oui, uniquement s'il s'agit d'un cycliste"],
+      "correctIndex": 0,
+      "explanation": "Vous ne devez pas céder le passage à un conducteur venant de votre droite s'il provient d'un sens interdit, sauf si un panneau additionnel indique que certains conducteurs sont autorisés à emprunter cette voie en sens contraire.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "20-la-priorité-de-droite-11",
+      "question": "Un tram approche d'un carrefour en même temps que d'autres véhicules, sans signalisation spécifique. Qui passe en premier ?",
+      "choices": ["Le tram, car les véhicules sur rails sont toujours prioritaires", "Le véhicule venant de droite", "Le véhicule le plus proche du carrefour", "Cela dépend de la vitesse de chacun"],
+      "correctIndex": 0,
+      "explanation": "Les véhicules sur rails ne doivent pas respecter la priorité de droite, étant toujours prioritaires ; les autres véhicules appliquent ensuite les règles normales de priorité.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "20-la-priorité-de-droite-12",
+      "question": "La priorité de droite s'applique-t-elle à l'intersection d'une chaussée avec un sentier ou un chemin de terre ?",
+      "choices": ["Non, elle ne s'applique pas", "Oui, toujours", "Oui, sauf la nuit", "Non, sauf si les derniers mètres sont pavés"],
+      "correctIndex": 0,
+      "explanation": "La priorité de droite ne s'applique pas à l'intersection d'une chaussée avec un sentier ou un chemin de terre ; même si les derniers mètres sont pavés, il reste considéré comme un chemin de terre.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "20-la-priorité-de-droite-13",
+      "question": "Un conducteur quitte un accès carrossable privé pour rejoindre la chaussée. Que doit-il faire ?",
+      "choices": ["S'arrêter et céder le passage à tous les usagers, y compris les piétons, présents sur la chaussée", "Bénéficier de la priorité de droite s'il vient de la droite", "Klaxonner puis s'engager sans s'arrêter", "Céder uniquement aux véhicules, pas aux piétons"],
+      "correctIndex": 0,
+      "explanation": "La priorité de droite ne s'applique pas aux endroits où un accès carrossable privé rejoint la chaussée : le conducteur qui en sort doit s'arrêter et céder le passage aux usagers, y compris aux piétons.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "20-la-priorité-de-droite-14",
+      "question": "En quittant une place de stationnement, quelle est votre obligation envers les autres usagers ?",
+      "choices": ["Céder le passage aux usagers, y compris les piétons, se trouvant sur la voie publique", "Vous bénéficiez automatiquement de la priorité", "Céder le passage uniquement aux autres voitures", "Klaxonner avant de démarrer"],
+      "correctIndex": 0,
+      "explanation": "Lorsque vous quittez une place de stationnement, vous devez céder le passage aux usagers, y compris aux piétons, qui se trouvent sur la voie publique.",
+      "severity": "grave",
+      "page": 6
+    },
+    {
+      "id": "20-la-priorité-de-droite-15",
+      "question": "La priorité de droite s'applique-t-elle lorsque vous vous engagez dans un rond-point ?",
+      "choices": ["Non, les conducteurs qui viennent du rond-point ont la priorité", "Oui, toujours", "Oui, sauf pour les cyclistes", "Non, seulement la nuit"],
+      "correctIndex": 0,
+      "explanation": "Lorsque vous vous engagez dans un rond-point, la priorité de droite ne s'applique pas : les conducteurs qui viennent du rond-point ont la priorité.",
+      "severity": "grave",
+      "page": 6
+    }
+  ]
+}

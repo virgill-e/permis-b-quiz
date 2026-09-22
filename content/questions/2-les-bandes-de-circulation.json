@@ -1,0 +1,147 @@
+{
+  "slug": "2-les-bandes-de-circulation",
+  "sourceFile": "2-les-bandes-de-circulation.pdf",
+  "title": "Les bandes de circulation",
+  "questions": [
+    {
+      "id": "2-les-bandes-de-circulation-01",
+      "question": "Sur une chaussée divisée en bandes de circulation, en conditions normales, où devez-vous rouler ?",
+      "choices": [
+        "Sur la bande de gauche",
+        "Sur la bande de droite",
+        "Peu importe, au choix du conducteur",
+        "Toujours sur la bande du milieu"
+      ],
+      "correctIndex": 1,
+      "explanation": "En conditions normales, les conducteurs doivent rouler sur la bande de droite ; rouler sur la bande de gauche sans raison est une infraction.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "2-les-bandes-de-circulation-02",
+      "question": "Près d'un carrefour, des flèches sont peintes sur la chaussée. Que devez-vous faire ?",
+      "choices": [
+        "Les ignorer, elles sont indicatives",
+        "Vous pouvez choisir votre bande avant le carrefour, mais dans celui-ci vous devez suivre la direction de la flèche",
+        "Elles ne s'appliquent qu'aux poids lourds",
+        "Vous devez changer de bande immédiatement en les voyant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les flèches peintes près des carrefours indiquent la direction à suivre : on choisit sa bande avant le carrefour, mais on doit suivre la flèche une fois dans le carrefour.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "2-les-bandes-de-circulation-03",
+      "question": "Pouvez-vous franchir une ligne blanche discontinue pour dépasser un véhicule plus lent ?",
+      "choices": [
+        "Oui, sauf si les conditions de visibilité ou des signaux routiers l'interdisent",
+        "Non, jamais",
+        "Oui, uniquement sur autoroute",
+        "Oui, mais seulement de nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une ligne blanche discontinue peut être franchie pour dépasser un véhicule plus lent, sauf si la visibilité ou des signaux routiers l'interdisent.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "2-les-bandes-de-circulation-04",
+      "question": "Que signifie une ligne blanche continue séparant les deux sens de circulation ?",
+      "choices": [
+        "Il est interdit de la franchir pour dépasser et de circuler à sa gauche",
+        "On peut la franchir si la voie est libre",
+        "Elle indique uniquement une limitation de vitesse",
+        "Elle sépare des bandes de circulation dans le même sens"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il est interdit de franchir une ligne blanche continue pour dépasser, et il est interdit de circuler à sa gauche lorsqu'elle sépare les deux sens de circulation.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "2-les-bandes-de-circulation-05",
+      "question": "Une ligne continue et une ligne discontinue sont tracées côte à côte. Quand pouvez-vous dépasser ?",
+      "choices": [
+        "Jamais, quelle que soit votre position",
+        "Si la ligne discontinue se trouve de votre côté de la chaussée",
+        "Uniquement si la ligne continue se trouve de votre côté",
+        "Uniquement de nuit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si la ligne discontinue se trouve de votre côté, vous pouvez la franchir pour dépasser par la gauche, puis revenir sur la bande de droite une fois le dépassement terminé.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "2-les-bandes-de-circulation-06",
+      "question": "Le principe de la tirette est-il obligatoire, et s'agit-il d'une manœuvre ?",
+      "choices": [
+        "Il est facultatif et constitue une manœuvre",
+        "Il est obligatoire et n'est pas considéré comme une manœuvre",
+        "Il est obligatoire et constitue une manœuvre",
+        "Il est facultatif et n'est pas une manœuvre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le principe de la tirette est obligatoire en cas de circulation fortement ralentie, mais n'est pas considéré comme une manœuvre.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "2-les-bandes-de-circulation-07",
+      "question": "Si la circulation est interrompue à la fois sur la bande de gauche et sur celle de droite, dans quel ordre la priorité doit-elle être cédée lors de la tirette ?",
+      "choices": [
+        "D'abord au conducteur de gauche, puis de droite, puis la bande libre",
+        "D'abord au conducteur de droite, puis à celui de gauche, puis la bande libre passe en troisième",
+        "Les trois bandes passent simultanément",
+        "D'abord la bande libre, puis la gauche, puis la droite"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans ce cas, la priorité doit être cédée au conducteur de la bande de droite, ensuite à celui de la bande de gauche, puis le conducteur de la bande libre passe en troisième.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "2-les-bandes-de-circulation-08",
+      "question": "Pouvez-vous circuler avec votre voiture sur une bande de bus ?",
+      "choices": [
+        "Oui, sans restriction",
+        "Non, sauf à proximité immédiate d'un carrefour pour changer de direction, ou pour la traverser dans certains cas",
+        "Oui, mais uniquement de nuit",
+        "Oui, si aucun bus n'est en vue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il est interdit de circuler, s'arrêter ou stationner sur une bande de bus, sauf à proximité immédiate d'un carrefour pour changer de direction, pour la traverser dans un carrefour, entrer dans une propriété privée, rejoindre une place de stationnement ou contourner un obstacle.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "2-les-bandes-de-circulation-09",
+      "question": "Que faut-il faire sur une zone d'évitement (larges lignes diagonales peintes au sol) ?",
+      "choices": [
+        "On peut y circuler mais pas s'y arrêter",
+        "Il est interdit d'y circuler, de s'y arrêter et d'y stationner",
+        "On peut s'y arrêter brièvement uniquement",
+        "Elle est réservée aux cyclistes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sur une zone d'évitement, il est interdit de circuler, de s'arrêter et de stationner.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "2-les-bandes-de-circulation-10",
+      "question": "Lors de travaux, vous voyez à la fois des lignes blanches et des lignes provisoires orange. Lesquelles devez-vous suivre ?",
+      "choices": [
+        "Les lignes blanches, toujours prioritaires",
+        "Les lignes orange, qui priment sur les blanches",
+        "Celles que vous préférez",
+        "Aucune des deux, il faut s'arrêter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Si des lignes blanches et des lignes provisoires orange sont visibles en même temps, seules les lignes orange doivent être suivies.",
+      "severity": "normale",
+      "page": 6
+    }
+  ]
+}

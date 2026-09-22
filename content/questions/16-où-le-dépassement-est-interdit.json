@@ -1,0 +1,124 @@
+{
+  "slug": "16-où-le-dépassement-est-interdit",
+  "sourceFile": "16-où-le-dépassement-est-interdit.pdf",
+  "title": "Où le dépassement par la gauche est interdit",
+  "questions": [
+    {
+      "id": "16-où-le-dépassement-est-interdit-01",
+      "question": "Pouvez-vous franchir une ligne continue (blanche ou jaune) pour dépasser un véhicule par la gauche ?",
+      "choices": ["Oui, si la route est bien dégagée", "Non, une ligne continue ne peut jamais être franchie pour dépasser, ni pour une autre raison", "Oui, uniquement de jour", "Oui, si vous mettez votre clignotant"],
+      "correctIndex": 1,
+      "explanation": "Il est interdit de franchir une ligne continue blanche ou jaune pour dépasser par la gauche, et même pour toute autre raison comme entrer dans une propriété privée.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-02",
+      "question": "Une ligne continue et une ligne discontinue blanches sont peintes côte à côte, la discontinue étant de votre côté de la chaussée. Pouvez-vous dépasser ?",
+      "choices": ["Non, c'est interdit dans tous les cas", "Oui, vous pouvez franchir la ligne discontinue pour dépasser, puis revenir en franchissant la ligne continue", "Oui, mais seulement en sens inverse", "Non, sauf autorisation d'un agent"],
+      "correctIndex": 1,
+      "explanation": "Quand la ligne discontinue se trouve de votre côté, vous pouvez la franchir pour dépasser, puis franchir la ligne continue pour revenir sur votre bande.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-03",
+      "question": "De quel côté pouvez-vous dépasser un cycliste ou une trottinette, sauf s'il tourne à gauche ?",
+      "choices": ["Uniquement par la gauche", "Uniquement par la droite", "Indifféremment à droite ou à gauche", "Le dépassement d'un cycliste est toujours interdit"],
+      "correctIndex": 0,
+      "explanation": "Un cycliste ou une trottinette ne peut être dépassé que par la gauche, sauf s'il s'apprête à tourner à gauche, auquel cas il peut être dépassé par la droite.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-04",
+      "question": "Le signal d'interdiction de dépasser un véhicule attelé ou un véhicule à plus de deux roues : une voiture peut-elle dépasser une motocyclette ?",
+      "choices": ["Non, c'est interdit car une moto a un moteur", "Oui, car une motocyclette n'a pas plus de deux roues", "Non, jamais sous ce signal", "Oui, uniquement de nuit"],
+      "correctIndex": 1,
+      "explanation": "Ce signal interdit de dépasser un véhicule attelé ou un véhicule à plus de deux roues ; une motocyclette n'ayant que deux roues, une voiture peut donc la dépasser.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-05",
+      "question": "Sous ce même signal d'interdiction, une motocyclette peut-elle dépasser une voiture ?",
+      "choices": ["Oui, sans restriction", "Non, car la voiture a plus de deux roues", "Oui, uniquement sur autoroute", "Non, mais uniquement si la voiture roule vite"],
+      "correctIndex": 1,
+      "explanation": "Le conducteur d'une motocyclette ne peut pas dépasser une voiture sous ce signal, car celle-ci a plus de deux roues.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-06",
+      "question": "Jusqu'où s'applique l'interdiction de dépasser indiquée par ce signal, en l'absence de panneau de fin ?",
+      "choices": ["Jusqu'au carrefour suivant", "Sur 1 kilomètre", "Jusqu'à la fin de l'agglomération", "Indéfiniment"],
+      "correctIndex": 0,
+      "explanation": "L'interdiction de dépasser reste applicable jusqu'au carrefour suivant, sauf si un panneau de fin d'interdiction apparaît avant.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-07",
+      "question": "Un camion de plus de 3500 kg de M.M.A. peut-il dépasser un autobus par la gauche sous le signal d'interdiction pour poids lourds ?",
+      "choices": ["Oui, sans restriction", "Non, il ne peut pas le dépasser, alors que l'autobus lui-même peut dépasser car il transporte des personnes et non des marchandises", "Oui, uniquement de nuit", "Non, jamais aucun véhicule ne peut dépasser un autobus"],
+      "correctIndex": 1,
+      "explanation": "Le signal d'interdiction visant les camions/trains de véhicules de plus de 3500 kg les empêche de dépasser un autobus ; un autobus, lui, peut dépasser car il est affecté au transport de personnes et non de marchandises.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-08",
+      "question": "Un panneau additionnel « 200 m » est placé sous un signal d'interdiction de dépasser. Que signifie-t-il ?",
+      "choices": ["L'interdiction s'arrête dans 200 mètres", "L'interdiction commence seulement 200 mètres plus loin", "L'interdiction s'applique sur 200 mètres autour du panneau", "Le panneau n'a aucun effet"],
+      "correctIndex": 1,
+      "explanation": "Un panneau additionnel indiquant une distance comme « 200 m » signifie que l'interdiction de dépasser commence seulement 200 mètres plus loin.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-09",
+      "question": "À un passage à niveau où le dépassement d'un véhicule attelé ou à plus de deux roues est normalement interdit, dans quel cas pouvez-vous tout de même dépasser ?",
+      "choices": ["Si les barrières sont fermées ou si le feu blanc lunaire clignote", "Jamais, sous aucune condition", "Si vous êtes pressé", "Uniquement de nuit"],
+      "correctIndex": 0,
+      "explanation": "Vous pouvez dépasser un véhicule par la gauche à un passage à niveau s'il y a des barrières (fermées) ou si le feu blanc lunaire clignote.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-10",
+      "question": "Aux carrefours où la priorité de droite s'applique, est-il permis de dépasser un véhicule attelé ou à plus de deux roues par la gauche ?",
+      "choices": ["Oui, toujours autorisé", "Non, c'est interdit", "Oui, mais uniquement pour dépasser un vélo", "Oui, si la visibilité est bonne"],
+      "correctIndex": 1,
+      "explanation": "Aux carrefours où la priorité de droite s'applique, il est interdit de dépasser par la gauche un véhicule attelé, un véhicule à plus de deux roues ou un véhicule à moteur à deux roues.",
+      "severity": "grave",
+      "page": 5
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-11",
+      "question": "À l'approche du sommet d'une côte où la visibilité est insuffisante, pouvez-vous dépasser une voiture par la gauche ?",
+      "choices": ["Oui, sans condition", "Non, c'est interdit, sauf si la chaussée est divisée en bandes de circulation et que vous ne franchissez pas la ligne continue", "Oui, uniquement de jour", "Non, jamais, même avec des bandes de circulation"],
+      "correctIndex": 1,
+      "explanation": "Il est interdit de dépasser à l'approche du sommet d'une côte à visibilité insuffisante, sauf si la chaussée est divisée en bandes de circulation et que la ligne continue n'est pas franchie.",
+      "severity": "grave",
+      "page": 6
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-12",
+      "question": "Il est interdit de dépasser un véhicule qui approche, ralentit ou s'arrête avant quel type de passage ?",
+      "choices": ["Un rond-point uniquement", "Un passage pour piétons ou un passage pour cyclistes/cyclomoteurs", "Un parking", "Une station-service"],
+      "correctIndex": 1,
+      "explanation": "Il est interdit de dépasser un véhicule qui approche, ralentit ou s'arrête avant un passage pour piétons ou un passage pour cyclistes et cyclomoteurs à deux roues.",
+      "severity": "grave",
+      "page": 7
+    },
+    {
+      "id": "16-où-le-dépassement-est-interdit-13",
+      "question": "Sur une chaussée à double sens de circulation, pouvez-vous dépasser (« tripler ») une voiture qui est elle-même en train d'en dépasser une autre ?",
+      "choices": ["Oui, toujours autorisé", "Non, c'est interdit, sauf si la chaussée comporte trois bandes ou plus dans le sens suivi", "Oui, uniquement de nuit", "Non, jamais, même avec plusieurs bandes"],
+      "correctIndex": 1,
+      "explanation": "Sur une chaussée à double sens, vous ne pouvez pas dépasser une voiture qui en dépasse une autre voiture, sauf si la chaussée comporte trois bandes de circulation ou plus dans le sens suivi.",
+      "severity": "grave",
+      "page": 7
+    }
+  ]
+}

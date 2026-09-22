@@ -1,0 +1,147 @@
+{
+  "slug": "17-les-personnes-qualifiées",
+  "sourceFile": "17-les-personnes-qualifiées.pdf",
+  "title": "Les personnes qualifiées",
+  "questions": [
+    {
+      "id": "17-les-personnes-qualifiées-01",
+      "question": "Que signifie un agent qualifié qui lève un bras verticalement ?",
+      "choices": [
+        "Tous les usagers doivent s'arrêter",
+        "Seuls les usagers qui lui font face doivent s'arrêter",
+        "Les usagers doivent accélérer pour dégager le carrefour",
+        "Les usagers doivent tourner à droite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que lorsqu'un agent lève un bras verticalement, tous les usagers doivent s'arrêter ; ceux déjà engagés dans le carrefour doivent l'évacuer le plus rapidement possible.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "17-les-personnes-qualifiées-02",
+      "question": "Un agent qualifié tend un bras horizontalement. Quels usagers doivent s'arrêter ?",
+      "choices": [
+        "Ceux qui se dirigent vers son ventre ou son dos",
+        "Ceux qui approchent de son côté, du côté de la main tendue",
+        "Tous les usagers, sans exception",
+        "Uniquement les piétons"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que les usagers se dirigeant vers le ventre ou le dos de l'agent doivent s'arrêter, tandis que ceux qui approchent de son côté peuvent s'engager dans le carrefour.",
+      "severity": "grave",
+      "page": 1
+    },
+    {
+      "id": "17-les-personnes-qualifiées-03",
+      "question": "Que devez-vous faire si un agent balance une torche rouge en va-et-vient (mouvement transversal) en votre direction ?",
+      "choices": [
+        "Vous arrêter",
+        "Ralentir seulement",
+        "Accélérer pour dégager la zone",
+        "Klaxonner pour signaler votre présence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que si l'agent balance une torche rouge en direction d'un conducteur, celui-ci doit s'arrêter.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "17-les-personnes-qualifiées-04",
+      "question": "Que signifie un coup de sifflet donné par un agent qualifié ?",
+      "choices": [
+        "Ce n'est pas une injonction, il sert uniquement à attirer l'attention avant de donner une injonction",
+        "C'est une injonction d'arrêt immédiat",
+        "Cela signifie qu'il faut accélérer",
+        "Cela remplace le bras levé verticalement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que le sifflet ne constitue pas une injonction : il sert uniquement à attirer l'attention des usagers avant que l'agent donne une injonction.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "17-les-personnes-qualifiées-05",
+      "question": "Les surveillants habilités, capitaines de route ou signaleurs d'une course cycliste peuvent donner des indications aux usagers. Que ne peuvent-ils PAS faire ?",
+      "choices": [
+        "Donner des injonctions, régler la circulation ou rédiger un procès-verbal",
+        "Porter un brassard avec le drapeau belge",
+        "Être identifiés par les usagers de la route",
+        "Donner des indications aux usagers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que ces personnes ne sont pas des agents qualifiés : elles ne peuvent ni donner d'injonctions, ni régler la circulation, ni rédiger de procès-verbal.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "17-les-personnes-qualifiées-06",
+      "question": "Dans un carrefour dépourvu de signalisation lumineuse, à quelle condition une personne autorisée peut-elle arrêter la circulation ?",
+      "choices": [
+        "Être identifiable par un brassard avec le drapeau belge au bras gauche et brandir un signal C3 à bout de bras",
+        "Porter un gilet fluorescent et un sifflet",
+        "Avoir reçu une autorisation verbale d'un agent de police présent",
+        "Utiliser une torche rouge comme les agents qualifiés"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique qu'une personne autorisée peut arrêter la circulation dans un carrefour sans feux à condition d'être identifiable (brassard avec drapeau belge au bras gauche) et de brandir un signal C3 à bout de bras.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "17-les-personnes-qualifiées-07",
+      "question": "Un véhicule prioritaire circule avec son feu bleu clignotant, mais sans avertisseur sonore. Que devez-vous faire ?",
+      "choices": [
+        "Vous pouvez continuer à rouler normalement",
+        "Vous devez immédiatement dégager la chaussée",
+        "Vous devez vous arrêter sur le côté",
+        "Vous devez ralentir fortement par précaution"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que si seul le feu bleu clignote sans avertisseur sonore, vous pouvez continuer à rouler normalement.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "17-les-personnes-qualifiées-08",
+      "question": "Un véhicule prioritaire approche avec le feu bleu clignotant ET l'avertisseur sonore activés. Que devez-vous faire ?",
+      "choices": [
+        "Dégager immédiatement la chaussée pour céder le passage, et ralentir ou vous arrêter si nécessaire",
+        "Continuer à rouler normalement car vous êtes prioritaire sur votre voie",
+        "Accélérer pour libérer le carrefour avant son arrivée",
+        "Klaxonner pour signaler votre présence puis continuer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que si le feu bleu clignote et que l'avertisseur sonore est activé, vous devez immédiatement dégager la chaussée pour céder le passage et, si nécessaire, ralentir ou vous arrêter.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "17-les-personnes-qualifiées-09",
+      "question": "Quel est l'ordre hiérarchique correct des règles de circulation, du plus prioritaire au moins prioritaire ?",
+      "choices": [
+        "Injonctions des agents qualifiés, signaux lumineux, signaux routiers, règles générales de circulation",
+        "Signaux routiers, signaux lumineux, injonctions des agents qualifiés, règles générales",
+        "Règles générales, signaux routiers, signaux lumineux, injonctions des agents qualifiés",
+        "Signaux lumineux, injonctions des agents qualifiés, signaux routiers, règles générales"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte donne l'ordre hiérarchique suivant : 1. les injonctions des agents qualifiés, 2. les signaux lumineux de circulation, 3. les signaux routiers, 4. les règles générales de circulation.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "17-les-personnes-qualifiées-10",
+      "question": "Un pompier intervient à l'endroit d'un incident. Que peut-il faire selon le texte ?",
+      "choices": [
+        "Régler la circulation et donner des ordres, mais il ne peut pas rédiger de procès-verbal",
+        "Rédiger un procès-verbal, mais il ne peut pas régler la circulation",
+        "Ni régler la circulation ni rédiger de procès-verbal",
+        "Régler la circulation et rédiger un procès-verbal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu'un pompier peut régler la circulation et donner des ordres à l'endroit où les pompiers interviennent, mais qu'il ne peut pas rédiger de procès-verbal.",
+      "severity": "normale",
+      "page": 5
+    }
+  ]
+}

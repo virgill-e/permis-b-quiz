@@ -1,0 +1,95 @@
+{
+  "slug": "5-route-pour-automobiles",
+  "sourceFile": "5-route-pour-automobiles.pdf",
+  "title": "Route pour automobiles",
+  "questions": [
+    {
+      "id": "5-route-pour-automobiles-01",
+      "question": "Lequel de ces véhicules n'est PAS autorisé à circuler sur une route pour automobiles ?",
+      "choices": ["Une camionnette", "Un cyclomoteur", "Une voiture mixte", "Un minibus"],
+      "correctIndex": 1,
+      "explanation": "Les cyclomoteurs, les véhicules agricoles, les quadricycles sans habitacle et les trains de véhicules forains ne peuvent pas circuler sur une route pour automobiles.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "5-route-pour-automobiles-02",
+      "question": "La voie publique comporte deux chaussées nettement séparées par un terre-plein. Que devez-vous faire ?",
+      "choices": [
+        "Circuler indifféremment sur l'une ou l'autre chaussée",
+        "Ne pas emprunter la chaussée située à gauche par rapport à votre sens de marche, sauf réglementation locale",
+        "Toujours emprunter la chaussée de gauche",
+        "Choisir la chaussée selon la densité du trafic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lorsque la voie publique comporte deux ou trois chaussées nettement séparées, les conducteurs ne peuvent pas emprunter la chaussée située à gauche par rapport à leur sens de marche, sauf réglementation locale.",
+      "severity": "normale",
+      "page": 1
+    },
+    {
+      "id": "5-route-pour-automobiles-03",
+      "question": "À quelle condition pouvez-vous circuler à 120 km/h sur une route pour automobiles hors agglomération ?",
+      "choices": [
+        "Chaque sens de circulation compte au moins deux bandes et les sens sont séparés par une berme centrale",
+        "Il suffit qu'il y ait une berme centrale, quel que soit le nombre de bandes",
+        "Il suffit d'avoir deux bandes de circulation, peu importe la séparation",
+        "Cette vitesse est autorisée partout hors agglomération"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que 120 km/h est autorisé si chaque sens de circulation compte au moins deux bandes et que les sens sont divisés par une berme centrale.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "5-route-pour-automobiles-04",
+      "question": "Vous devez vous arrêter sur une route pour automobiles à un endroit où le stationnement n'est pas autorisé, à la suite d'une panne. Que devez-vous faire avant de quitter le véhicule ?",
+      "choices": [
+        "Rien de particulier, le gilet est facultatif",
+        "Porter un gilet de sécurité réfléchissant",
+        "Attendre l'arrivée de la police",
+        "Porter le gilet uniquement si vous êtes passager"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le conducteur doit porter un gilet de sécurité réfléchissant en quittant son véhicule ; le gilet doit se trouver dans l'habitacle, à portée de main, et non dans le coffre.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "5-route-pour-automobiles-05",
+      "question": "En cas de panne sur une route pour automobiles, à quelle distance minimale en amont du véhicule devez-vous placer le triangle de danger ?",
+      "choices": ["30 mètres", "50 mètres", "100 mètres", "10 mètres"],
+      "correctIndex": 0,
+      "explanation": "Sur une route pour automobiles, le triangle de danger doit être placé à une distance d'au moins 30 mètres en amont du véhicule (100 m sur autoroute).",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "5-route-pour-automobiles-06",
+      "question": "Sur une route pour automobiles, un véhicule devant vous roule plus lentement que la vitesse maximale autorisée. Comment devez-vous le dépasser ?",
+      "choices": [
+        "Par la gauche",
+        "Par la droite, c'est autorisé sur ce type de route",
+        "Par la droite après avoir klaxonné",
+        "Peu importe le côté"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sur une route pour automobiles, vous devez rouler le plus possible à droite et dépasser par la gauche ; dépasser par la droite constitue une infraction grave.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "5-route-pour-automobiles-07",
+      "question": "Que est-il interdit de faire sur une route pour automobiles ?",
+      "choices": [
+        "Rouler sur la bande de droite",
+        "Faire marche arrière, même si vous avez manqué une sortie",
+        "Dépasser un véhicule plus lent par la gauche",
+        "Circuler à la vitesse maximale autorisée"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sur une route pour automobiles, il est notamment interdit de faire marche arrière, même en cas de sortie manquée, de circuler sur la berme centrale, de rouler en sens contraire ou d'utiliser une attache de fortune pour tracter.",
+      "severity": "normale",
+      "page": 4
+    }
+  ]
+}

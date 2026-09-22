@@ -1,0 +1,403 @@
+{
+  "slug": "infractions",
+  "sourceFile": "infractions.pdf",
+  "title": "Infractions du 3e et 4e degré",
+  "questions": [
+    {
+      "id": "infractions-01",
+      "question": "Que doivent faire les usagers face aux injonctions d'un agent qualifié ?",
+      "choices": [
+        "Y obtempérer immédiatement",
+        "S'arrêter uniquement s'ils sont d'accord",
+        "Continuer si aucun signal lumineux n'est présent",
+        "Demander d'abord à voir sa carte de service"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les usagers doivent obtempérer immédiatement aux injonctions des agents qualifiés (infraction du 3e degré).",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "infractions-02",
+      "question": "Un conducteur à l'arrêt ou en stationnement doit-il déplacer son véhicule si un agent qualifié le lui demande ?",
+      "choices": [
+        "Non, jamais",
+        "Oui, il est tenu de le déplacer dès qu'il en est requis",
+        "Seulement s'il est en infraction",
+        "Seulement de nuit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tout conducteur d'un véhicule à l'arrêt ou en stationnement est tenu de le déplacer dès qu'il en est requis par un agent qualifié.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "infractions-03",
+      "question": "Sur une voie publique à plusieurs chaussées nettement séparées (par exemple par un terre-plein), un conducteur peut-il emprunter la chaussée de gauche par rapport à son sens de marche ?",
+      "choices": [
+        "Oui, librement",
+        "Non, sauf réglementation locale contraire",
+        "Oui, mais uniquement de nuit",
+        "Oui, uniquement pour dépasser"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les conducteurs ne peuvent emprunter la chaussée de gauche par rapport à leur sens de marche lorsque la voie publique comporte des chaussées nettement séparées, sauf réglementation locale.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "infractions-04",
+      "question": "Comment le croisement de deux véhicules doit-il s'effectuer, y compris aux intersections ?",
+      "choices": [
+        "À gauche",
+        "À droite",
+        "Au centre de la chaussée",
+        "Cela dépend uniquement de la vitesse des véhicules"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le croisement s'effectue à droite, y compris aux intersections, sauf si les marquages routiers indiquent autrement.",
+      "severity": "grave",
+      "page": 2
+    },
+    {
+      "id": "infractions-05",
+      "question": "Lors d'un croisement, que doit faire un conducteur dont la progression est entravée par un obstacle ou d'autres usagers ?",
+      "choices": [
+        "Accélérer pour passer avant l'autre véhicule",
+        "Ralentir et, au besoin, s'arrêter pour laisser passer les usagers venant en sens inverse",
+        "Klaxonner et continuer sa route",
+        "Serrer à gauche pour se dégager"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le conducteur dont la progression est entravée par un obstacle ou la présence d'autres usagers doit ralentir et, au besoin, s'arrêter pour laisser passer les usagers venant en sens inverse.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "infractions-06",
+      "question": "Quand un véhicule est dépassé par la gauche, que doit faire son conducteur ?",
+      "choices": [
+        "Accélérer pour empêcher le dépassement",
+        "Serrer à droite le plus possible et ne pas accélérer",
+        "Serrer à gauche pour laisser de la place",
+        "Freiner brusquement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tout conducteur qui va être dépassé par la gauche doit serrer à droite le plus possible et ne peut accélérer.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "infractions-07",
+      "question": "Quand le dépassement par la gauche est-il interdit en raison de la visibilité ?",
+      "choices": [
+        "Lorsque le conducteur ne peut apercevoir les usagers venant en sens inverse à une distance suffisante pour dépasser sans risque",
+        "Uniquement de nuit",
+        "Uniquement sur autoroute",
+        "Jamais, la visibilité n'entre pas en compte"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le dépassement par la gauche est interdit lorsque le conducteur ne peut apercevoir les usagers venant en sens inverse à une distance suffisante pour effectuer le dépassement sans risque d'accident.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "infractions-08",
+      "question": "Le dépassement par la gauche d'un véhicule attelé ou à plus de deux roues est-il autorisé sur un passage à niveau signalé A45 ou A47 ?",
+      "choices": [
+        "Oui, toujours",
+        "Non, sauf si celui-ci est muni de barrières ou si la circulation y est réglée par des feux",
+        "Oui, mais uniquement de jour",
+        "Non, sauf sur autoroute"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le dépassement par la gauche est interdit sur un passage à niveau signalé A45 ou A47, sauf s'il est muni de barrières ou si la circulation y est réglée par des signaux lumineux.",
+      "severity": "grave",
+      "page": 3
+    },
+    {
+      "id": "infractions-09",
+      "question": "Le dépassement par la gauche est-il autorisé si le véhicule à dépasser s'approche d'un passage pour piétons non réglé par un agent ou des feux ?",
+      "choices": [
+        "Oui, sans restriction",
+        "Non, c'est interdit dans ce cas",
+        "Oui, uniquement en agglomération",
+        "Oui, si la vitesse est inférieure à 30 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le dépassement par la gauche est interdit lorsque le conducteur à dépasser s'approche d'un passage pour piétons ou pour cyclistes non réglé par un agent ou des feux.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "infractions-10",
+      "question": "Avant de se porter vers la gauche pour dépasser, que doit vérifier un conducteur ?",
+      "choices": [
+        "Qu'aucun conducteur qui le suit n'a déjà commencé un dépassement",
+        "Que la route est complètement vide",
+        "Qu'il n'y a personne dans le rétroviseur intérieur uniquement",
+        "Que sa vitesse est supérieure à 90 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Avant de se porter vers la gauche, le conducteur doit s'assurer qu'aucun conducteur qui le suit n'a commencé un dépassement, et ne peut mettre en danger les autres conducteurs.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "infractions-11",
+      "question": "Le conducteur qui tourne à gauche doit céder le passage à...",
+      "choices": [
+        "Personne, il est prioritaire",
+        "Aux conducteurs venant en sens inverse sur la chaussée qu'il s'apprête à quitter",
+        "Uniquement aux piétons",
+        "Uniquement aux cyclistes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le conducteur qui tourne à gauche doit céder le passage aux conducteurs venant en sens inverse sur la chaussée qu'il s'apprête à quitter.",
+      "severity": "grave",
+      "page": 4
+    },
+    {
+      "id": "infractions-12",
+      "question": "Le conducteur qui change de direction doit céder le passage aux piétons...",
+      "choices": [
+        "Uniquement s'ils sont déjà à plus de la moitié de la chaussée",
+        "Qui traversent la chaussée sur laquelle il va s'engager",
+        "Jamais, les piétons doivent attendre",
+        "Uniquement de nuit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le conducteur qui change de direction doit céder le passage aux piétons qui traversent la chaussée sur laquelle il va s'engager.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "infractions-13",
+      "question": "Dans les zones résidentielles et les zones de rencontre, quelle est la vitesse maximale autorisée et quelle attention particulière est requise ?",
+      "choices": [
+        "30 km/h maximum, sans attention particulière",
+        "20 km/h maximum, sans mettre les piétons en danger, avec prudence redoublée en présence d'enfants",
+        "50 km/h maximum",
+        "Il n'y a pas de limite chiffrée précisée"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans les zones résidentielles et de rencontre, la vitesse est limitée à 20 km/h ; les conducteurs ne peuvent mettre les piétons en danger ni les gêner et doivent redoubler de prudence en présence d'enfants.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "infractions-14",
+      "question": "Quelle est la vitesse maximale sur les chemins réservés aux piétons, cyclistes et cavaliers ?",
+      "choices": ["20 km/h", "30 km/h", "50 km/h", "Aucune limite spécifique"],
+      "correctIndex": 1,
+      "explanation": "Sur les chemins réservés aux piétons, cyclistes et cavaliers, la vitesse maximale est de 30 km/h et les usagers ne peuvent se mettre mutuellement en danger.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "infractions-15",
+      "question": "Comment un conducteur admis dans une zone piétonne doit-il circuler ?",
+      "choices": [
+        "À l'allure du pas, en cédant le passage aux piétons",
+        "À 30 km/h maximum",
+        "Aussi vite que la circulation le permet",
+        "Uniquement en marche arrière"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les conducteurs admis dans les zones piétonnes doivent circuler à l'allure du pas, céder le passage aux piétons et au besoin s'arrêter.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "infractions-16",
+      "question": "Quand un véhicule à moteur doit-il allumer ses feux de croisement ou de route à l'avant selon le texte ?",
+      "choices": [
+        "Uniquement la nuit en pleine ville",
+        "Entre la tombée et le lever du jour, et dès que la visibilité est inférieure à environ 200 mètres",
+        "Uniquement sur autoroute",
+        "Uniquement s'il pleut"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les feux doivent être allumés entre la tombée et le lever du jour, ainsi qu'en toutes circonstances où il n'est plus possible de voir distinctement à une distance d'environ 200 mètres.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "infractions-17",
+      "question": "Les enfants de moins de 18 ans et de moins de 135 cm doivent être transportés en voiture...",
+      "choices": [
+        "Sans dispositif particulier s'ils sont accompagnés d'un adulte",
+        "Dans un dispositif de retenue pour enfants qui leur est adapté",
+        "Uniquement à l'arrière, sans autre exigence",
+        "Uniquement s'ils ont plus de 8 ans"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les enfants de moins de 18 ans et dont la taille est inférieure à 135 cm doivent être transportés dans un dispositif de retenue qui leur est adapté.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "infractions-18",
+      "question": "Que doit faire un usager dès que l'approche d'un véhicule prioritaire est signalée par l'avertisseur sonore spécial ?",
+      "choices": [
+        "Continuer normalement sa route",
+        "Immédiatement dégager et céder le passage, au besoin s'arrêter",
+        "Accélérer pour dégager plus vite le carrefour",
+        "S'arrêter uniquement s'il est à un feu rouge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dès que l'approche d'un véhicule prioritaire est signalée par l'avertisseur sonore spécial, tout usager doit immédiatement dégager et céder le passage, au besoin s'arrêter.",
+      "severity": "grave",
+      "page": 7
+    },
+    {
+      "id": "infractions-19",
+      "question": "Quelle distance latérale minimale un conducteur automobile doit-il laisser par rapport à un cycliste ou un conducteur de cyclomoteur ?",
+      "choices": ["Au moins 50 cm", "Au moins 1 mètre", "Au moins 1,5 mètre", "Aucune distance minimale n'est fixée"],
+      "correctIndex": 1,
+      "explanation": "Le conducteur doit laisser une distance latérale d'au moins un mètre entre son véhicule et le cycliste ou le conducteur de cyclomoteur à deux roues.",
+      "severity": "grave",
+      "page": 9
+    },
+    {
+      "id": "infractions-20",
+      "question": "Que signifie transgresser le feu rouge ?",
+      "choices": [
+        "Franchir la ligne d'arrêt ou, à défaut, le signal, alors que le feu rouge l'interdit",
+        "Rouler à moins de 10 km/h à un feu rouge",
+        "S'arrêter trop loin de la ligne d'arrêt",
+        "Redémarrer trop lentement au feu vert"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le feu rouge signifie interdiction de franchir la ligne d'arrêt ou, à défaut de ligne d'arrêt, le signal même ; le franchir constitue une infraction.",
+      "severity": "grave",
+      "page": 10
+    },
+    {
+      "id": "infractions-21",
+      "question": "Que signifient des flèches vertes allumées conjointement avec le feu rouge ?",
+      "choices": [
+        "Il est interdit d'avancer, quelle que soit la direction",
+        "Autorisation de poursuivre la marche uniquement dans les directions indiquées, en cédant le passage aux conducteurs et piétons réguliers",
+        "Le feu rouge est annulé pour tous les usagers",
+        "Seuls les véhicules prioritaires peuvent passer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les flèches vertes allumées avec le feu rouge autorisent à poursuivre la marche uniquement dans les directions indiquées, à condition de céder le passage aux conducteurs et piétons réguliers.",
+      "severity": "grave",
+      "page": 10
+    },
+    {
+      "id": "infractions-22",
+      "question": "Que signifie un feu rouge en forme de croix placé au-dessus d'une bande de circulation ?",
+      "choices": [
+        "Sens interdit sur cette bande pour les conducteurs vers lesquels il est orienté",
+        "Limitation de vitesse sur cette bande",
+        "Bande réservée aux bus",
+        "Bande fermée uniquement la nuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le feu rouge en forme de croix, placé au-dessus d'une bande de circulation, signifie sens interdit sur cette bande pour les conducteurs vers lesquels il est orienté.",
+      "severity": "grave",
+      "page": 10
+    },
+    {
+      "id": "infractions-23",
+      "question": "Que signifie une ligne continue séparant deux sens de circulation ?",
+      "choices": [
+        "Il est interdit de la franchir et de circuler à sa gauche",
+        "Elle sert uniquement de guide visuel, sans interdiction",
+        "Elle peut être franchie pour dépasser un cycliste",
+        "Elle n'est valable que hors agglomération"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il est interdit à tout conducteur de franchir une ligne continue et de circuler à sa gauche lorsque celle-ci sépare les deux sens de circulation.",
+      "severity": "grave",
+      "page": 12
+    },
+    {
+      "id": "infractions-24",
+      "question": "Que signifie le bras ou les bras d'un agent qualifié tendus horizontalement ?",
+      "choices": [
+        "Arrêt pour les usagers qui viennent de directions coupant celles indiquées par le ou les bras tendus",
+        "Autorisation générale de passer pour tous",
+        "Priorité aux véhicules venant de face uniquement",
+        "Ralentissement conseillé mais pas obligatoire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le ou les bras tendus horizontalement d'un agent qualifié signifient l'arrêt pour les usagers qui viennent de directions coupant celles indiquées par le ou les bras.",
+      "severity": "grave",
+      "page": 13
+    },
+    {
+      "id": "infractions-25",
+      "question": "Est-il interdit d'inciter ou de provoquer un conducteur à circuler à une vitesse excessive ?",
+      "choices": [
+        "Non, ce n'est pas réglementé",
+        "Oui, c'est explicitement interdit (infraction du 4e degré)",
+        "Uniquement si un accident en résulte",
+        "Uniquement sur autoroute"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte liste, parmi les infractions du 4e degré, l'interdiction d'inciter ou de provoquer un conducteur à circuler à une vitesse excessive.",
+      "severity": "grave",
+      "page": 14
+    },
+    {
+      "id": "infractions-26",
+      "question": "Le dépassement par la gauche d'un véhicule attelé ou à plus de deux roues est-il autorisé à l'approche du sommet d'une côte ou dans un virage à visibilité insuffisante ?",
+      "choices": [
+        "Oui, sans restriction",
+        "Non, sauf si le dépassement peut se faire sans franchir la ligne blanche continue délimitant le sens inverse",
+        "Oui, uniquement de jour",
+        "Oui, si le véhicule dépassé roule à moins de 30 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ce dépassement est interdit à l'approche du sommet d'une côte et dans les virages à visibilité insuffisante, sauf s'il peut se faire sans franchir la ligne blanche continue.",
+      "severity": "grave",
+      "page": 14
+    },
+    {
+      "id": "infractions-27",
+      "question": "Dans quels cas est-il interdit de s'engager sur un passage à niveau ?",
+      "choices": [
+        "Lorsque les barrières sont en mouvement ou fermées, que les feux rouges clignotent, ou que le signal sonore fonctionne",
+        "Uniquement si les barrières sont totalement fermées",
+        "Uniquement de nuit",
+        "Il n'y a pas d'interdiction spécifique, la prudence suffit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il est interdit de s'engager sur un passage à niveau lorsque les barrières sont en mouvement ou fermées, lorsque les feux rouges clignotants sont allumés, ou lorsque le signal sonore fonctionne.",
+      "severity": "grave",
+      "page": 14
+    },
+    {
+      "id": "infractions-28",
+      "question": "Qu'est-il interdit de faire sur les autoroutes et les routes pour automobiles ?",
+      "choices": [
+        "Rouler à la vitesse minimale autorisée",
+        "Faire demi-tour, faire marche arrière ou rouler en sens contraire au sens obligatoire",
+        "Doubler un camion",
+        "S'arrêter sur la bande d'arrêt d'urgence en cas de panne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il est interdit sur les autoroutes et routes pour automobiles de faire demi-tour, de faire marche arrière ou de rouler en sens contraire au sens obligatoire, ainsi que d'emprunter les raccordements transversaux.",
+      "severity": "grave",
+      "page": 14
+    },
+    {
+      "id": "infractions-29",
+      "question": "Est-il permis de se livrer sur la voie publique à des courses ou épreuves de vitesse ?",
+      "choices": [
+        "Oui, librement",
+        "Non, sauf autorisation spéciale de l'autorité légalement habilitée",
+        "Oui, uniquement de nuit",
+        "Oui, uniquement sur autoroute"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sauf autorisation spéciale de l'autorité légalement habilitée, il est interdit de se livrer sur la voie publique à des luttes de vitesse ou à des épreuves sportives telles que des courses de vitesse.",
+      "severity": "grave",
+      "page": 15
+    }
+  ]
+}

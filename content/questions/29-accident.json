@@ -1,0 +1,234 @@
+{
+  "slug": "29-accident",
+  "sourceFile": "29-accident.pdf",
+  "title": "Accident sans ou avec blessés",
+  "questions": [
+    {
+      "id": "29-accident-01",
+      "question": "Sur une route ordinaire, à quelle distance minimale de l'accident faut-il placer le triangle de danger ?",
+      "choices": ["20 mètres", "30 mètres", "50 mètres", "100 mètres"],
+      "correctIndex": 1,
+      "explanation": "Sur une route ordinaire, le triangle de danger doit être placé à au moins 30 mètres de l'accident, et être visible à 50 mètres pour les conducteurs qui approchent.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "29-accident-02",
+      "question": "Sur autoroute, à quelle distance minimale de l'accident faut-il placer le triangle de danger ?",
+      "choices": ["30 mètres", "50 mètres", "100 mètres", "200 mètres"],
+      "correctIndex": 2,
+      "explanation": "Sur autoroute, le triangle de danger doit être placé à au moins 100 mètres de l'accident.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "29-accident-03",
+      "question": "Quelle caractéristique doit avoir l'extincteur obligatoire présent dans votre voiture ?",
+      "choices": [
+        "1 kg de poudre, accessible en 10 secondes",
+        "2 kg de poudre, rangé dans le coffre",
+        "500 g de poudre, sans contrainte d'accessibilité",
+        "Il n'y a aucune obligation d'extincteur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que l'extincteur obligatoire doit contenir 1 kg de poudre et être accessible en 10 secondes.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "29-accident-04",
+      "question": "En cas d'accident sans blessés, est-il obligatoire d'appeler la police ?",
+      "choices": [
+        "Oui, systématiquement",
+        "Non, si les parties concernées remplissent et signent le constat européen d'accident",
+        "Oui, mais uniquement la nuit",
+        "Non, dans tous les cas, même en cas de désaccord"
+      ],
+      "correctIndex": 1,
+      "explanation": "En cas d'accident sans blessés, il n'est pas nécessaire d'appeler la police à condition que les parties remplissent et signent le constat européen d'accident.",
+      "severity": "normale",
+      "page": 2
+    },
+    {
+      "id": "29-accident-05",
+      "question": "Une fois le constat européen d'accident signé par les deux parties, que peut-on faire du recto du formulaire ?",
+      "choices": [
+        "On peut encore le modifier avant l'envoi",
+        "On ne peut plus rien y modifier",
+        "Seul le conducteur peut encore le corriger",
+        "Il doit être détruit et refait"
+      ],
+      "correctIndex": 1,
+      "explanation": "Une fois signé, plus rien ne peut être modifié au recto du constat. La face arrière peut, elle, être complétée plus tard.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "29-accident-06",
+      "question": "Que doit faire toute personne impliquée dans un accident ?",
+      "choices": [
+        "Quitter les lieux rapidement si elle n'est pas responsable",
+        "Rester sur place et présenter sa carte d'identité si elle a 15 ans ou plus et qu'on le lui demande",
+        "Attendre uniquement si elle est en tort",
+        "Appeler immédiatement un avocat avant toute chose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toute personne impliquée dans un accident doit rester sur place ; les personnes de 15 ans et plus doivent présenter leur carte d'identité si une des parties le demande.",
+      "severity": "normale",
+      "page": 3
+    },
+    {
+      "id": "29-accident-07",
+      "question": "Combien de temps maximum un véhicule en panne peut-il rester stationné sur la voie publique ?",
+      "choices": ["3 heures", "12 heures", "24 heures", "48 heures"],
+      "correctIndex": 2,
+      "explanation": "Un véhicule en panne ne peut jamais rester stationné plus de 24 heures sur la voie publique.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "29-accident-08",
+      "question": "Combien de temps maximum un véhicule publicitaire peut-il rester stationné sur la voie publique ?",
+      "choices": ["1 heure", "3 heures", "12 heures", "24 heures"],
+      "correctIndex": 1,
+      "explanation": "Un véhicule publicitaire ne peut rester stationné que 3 heures maximum sur la voie publique.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "29-accident-09",
+      "question": "En cas d'accident avec blessés, la police doit-elle intervenir ?",
+      "choices": [
+        "Oui, toujours, pour effectuer les constatations nécessaires",
+        "Non, le constat européen suffit toujours",
+        "Seulement si les blessures sont mortelles",
+        "Seulement si un des conducteurs le demande"
+      ],
+      "correctIndex": 0,
+      "explanation": "En cas d'accident avec blessés, la police doit toujours intervenir pour effectuer les constatations nécessaires.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "29-accident-10",
+      "question": "Le port du gilet de sécurité réfléchissant en cas de sortie du véhicule est obligatoire pour le conducteur...",
+      "choices": [
+        "Uniquement en agglomération",
+        "Sur les routes pour automobiles et sur l'autoroute",
+        "Uniquement de nuit, partout",
+        "Il n'est jamais obligatoire, seulement conseillé"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le gilet de sécurité est obligatoire pour le conducteur qui quitte son véhicule sur une route pour automobiles ou sur l'autoroute ; pour les passagers ce n'est pas obligatoire mais vivement conseillé.",
+      "severity": "normale",
+      "page": 4
+    },
+    {
+      "id": "29-accident-11",
+      "question": "Sur une chaussée à deux bandes de circulation dans le même sens, en cas d'embouteillage, où les conducteurs doivent-ils former le couloir de secours ?",
+      "choices": [
+        "Entre les voies de gauche et de droite",
+        "Uniquement sur la bande d'arrêt d'urgence",
+        "Il n'y a pas de couloir de secours en dehors des autoroutes",
+        "Entre la voie de droite et l'accotement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sur une chaussée à deux bandes de circulation dans un sens, le couloir de secours se forme entre les voies de gauche et de droite ; ceci vaut aussi en dehors des autoroutes.",
+      "severity": "normale",
+      "page": 5
+    },
+    {
+      "id": "29-accident-12",
+      "question": "Que faut-il faire avec le casque d'un motard blessé lors d'un accident ?",
+      "choices": [
+        "Le retirer systématiquement pour faciliter les secours",
+        "Ne pas le retirer, sauf si le blessé a des difficultés à respirer ou vomit",
+        "Le retirer uniquement s'il fait chaud",
+        "Le retirer seulement si la victime le demande"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il ne faut pas retirer le casque d'un blessé, sauf s'il a des difficultés à respirer ou présente par exemple des vomissements.",
+      "severity": "normale",
+      "page": 6
+    },
+    {
+      "id": "29-accident-13",
+      "question": "En cas de forte hémorragie chez une victime d'accident, que ne faut-il surtout pas faire ?",
+      "choices": [
+        "Couvrir la plaie avec un mouchoir propre",
+        "Entourer la plaie d'un bandage",
+        "Nouer le bras au-dessus de la plaie",
+        "Attendre les secours"
+      ],
+      "correctIndex": 2,
+      "explanation": "En cas de forte hémorragie, il faut couvrir la plaie avec un mouchoir propre ou un bandage, mais il ne faut surtout pas nouer le bras au-dessus de la plaie.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "29-accident-14",
+      "question": "Si un médecin vous déclare médicalement inapte à conduire, dans quel délai devez-vous en informer votre commune et rendre votre permis ?",
+      "choices": [
+        "Dans les 24 heures",
+        "Dans les 4 jours, samedis, dimanches et jours fériés non compris",
+        "Dans le mois",
+        "Il n'y a pas de délai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il faut informer la commune et rendre son permis dans les quatre jours suivant la prise de connaissance de l'inaptitude, les samedis, dimanches et jours fériés n'étant pas inclus.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "29-accident-15",
+      "question": "Fumer dans une voiture est interdit lorsque...",
+      "choices": [
+        "Il y a des passagers mineurs",
+        "Il y a plus de deux passagers",
+        "La voiture roule à plus de 50 km/h",
+        "Ce n'est jamais interdit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Personne ne peut fumer dans une voiture lorsqu'il y a des passagers mineurs.",
+      "severity": "normale",
+      "page": 7
+    },
+    {
+      "id": "29-accident-16",
+      "question": "Un tunnel est signalé par le premier signal lorsqu'il est plus long que...",
+      "choices": ["200 mètres", "500 mètres", "1 kilomètre", "2 kilomètres"],
+      "correctIndex": 1,
+      "explanation": "Si le tunnel est plus long que 500 mètres, il est indiqué par le premier signal, avec parfois la longueur exacte indiquée.",
+      "severity": "normale",
+      "page": 8
+    },
+    {
+      "id": "29-accident-17",
+      "question": "Que est-il interdit de faire dans un tunnel ?",
+      "choices": [
+        "Allumer ses feux de croisement",
+        "Adapter sa vitesse",
+        "Faire demi-tour, faire marche arrière ou stationner sur la chaussée",
+        "Garder ses distances de sécurité"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dans un tunnel, il est interdit de stationner ou s'arrêter sur la chaussée, de faire demi-tour et de faire marche arrière.",
+      "severity": "normale",
+      "page": 9
+    },
+    {
+      "id": "29-accident-18",
+      "question": "Quand commet-on un délit de fuite ?",
+      "choices": [
+        "Dès qu'on quitte les lieux d'un accident, même sans le savoir",
+        "Quand on abandonne intentionnellement le lieu de l'accident en sachant ou en se doutant qu'on l'a causé, dans l'intention d'échapper aux constatations",
+        "Uniquement si l'accident a fait des blessés graves",
+        "Uniquement si on roulait sous l'influence de l'alcool"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le délit de fuite consiste à abandonner intentionnellement le lieu de l'accident en sachant ou en se doutant qu'on a causé un accident, dans l'intention d'échapper aux constatations et à leurs conséquences.",
+      "severity": "grave",
+      "page": 10
+    }
+  ]
+}
