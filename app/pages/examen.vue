@@ -40,7 +40,7 @@ function validate() {
     penalty
   })
 
-  if (isMathematicallyFailed(questions.value.length, penaltySoFar.value + penalty, answers.value.length)) {
+  if (isMathematicallyFailed(questions.value.length, penaltySoFar.value, answers.value.length)) {
     stoppedEarly.value = true
     finished.value = true
     return
